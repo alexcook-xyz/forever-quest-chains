@@ -1,0 +1,6487 @@
+{
+ "missing": [],
+ "pandabase": [
+  9234,
+  9235,
+  9236,
+  9238,
+  9239,
+  9240,
+  9241,
+  9242,
+  9243,
+  9244,
+  9245,
+  9246
+ ],
+ "pandabase_missing": [],
+ "pandabase_pages": {
+  "5066": {
+   "after": [
+    5092
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.0,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5066,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "A Call to Arms: The Plaguelands!",
+   "objective": "Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains.",
+   "questLevel": 50,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Crier Goodman",
+    "x": 56.39,
+    "y": 74.09,
+    "zone": "Stormwind City"
+   }
+  },
+  "5090": {
+   "after": [
+    5092
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.0,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5090,
+   "mapId": 1455,
+   "mapZone": "Ironforge",
+   "name": "A Call to Arms: The Plaguelands!",
+   "objective": "Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains.",
+   "questLevel": 50,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Courier Hammerfall",
+    "x": 55.92,
+    "y": 81.39,
+    "zone": "Ironforge"
+   }
+  },
+  "5091": {
+   "after": [
+    5092
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.0,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5091,
+   "mapId": 1457,
+   "mapZone": "Darnassus",
+   "name": "A Call to Arms: The Plaguelands!",
+   "objective": "Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains.",
+   "questLevel": 50,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Herald Moonstalker",
+    "x": 47.81,
+    "y": 81.97,
+    "zone": "Darnassus"
+   }
+  },
+  "5092": {
+   "after": [
+    5097,
+    5215
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.03,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5092,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Clear the Way",
+   "objective": "Kill 10 Skeletal Flayers and 10 Slavering Ghouls in Sorrow Hill.",
+   "questLevel": 52,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.03,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5097": {
+   "after": [
+    211,
+    5533
+   ],
+   "before": [
+    5092
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5092
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.03,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5097,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "All Along the Watchtowers",
+   "objective": "Using the Beacon Torch, mark each tower in Andorhal; you will need to stand in the doorway of the tower to successfully mark it.",
+   "questLevel": 56,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.03,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5161": {
+   "after": [
+    5162
+   ],
+   "before": [
+    5160
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5160
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Haleh",
+    "x": 54.55,
+    "y": 51.2,
+    "zone": "Winterspring"
+   },
+   "id": 5161,
+   "mapId": 1452,
+   "mapZone": "Winterspring",
+   "name": "Wrath of the Blue Flight",
+   "objective": "Speak with Haleh if you wish to continue.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Haleh",
+    "x": 54.55,
+    "y": 51.2,
+    "zone": "Winterspring"
+   }
+  },
+  "5162": {
+   "after": [
+    5164
+   ],
+   "before": [
+    5161
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5161
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jeziba",
+    "x": 39.4,
+    "y": 66.8,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5162,
+   "mapId": 1452,
+   "mapZone": "Winterspring",
+   "name": "Wrath of the Blue Flight",
+   "objective": "Speak with Jeziba in the Plaguelands. He resides in Andorhal.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Haleh",
+    "x": 54.55,
+    "y": 51.2,
+    "zone": "Winterspring"
+   }
+  },
+  "5164": {
+   "after": [
+    5166,
+    5167
+   ],
+   "before": [
+    5162
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5162
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Catalogue of the Wayward",
+    "x": 39.35,
+    "y": 66.6,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5164,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Catalogue of the Wayward",
+   "objective": "Read from the Catalogue of the Wayward.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jeziba",
+    "x": 39.37,
+    "y": 66.78,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5166": {
+   "after": [],
+   "before": [
+    5164
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5164
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jeziba",
+    "x": 39.37,
+    "y": 66.78,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5166,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Breastplate of the Chromatic Flight",
+   "objective": "To forge the Breastplate of the Chromatic Flight, you will be required to bring the following items to Jeziba the 'Sculptor':",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Catalogue of the Wayward",
+    "x": 39.35,
+    "y": 66.6,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5167": {
+   "after": [],
+   "before": [
+    5164
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5164
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jeziba",
+    "x": 39.37,
+    "y": 66.78,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5167,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Legplates of the Chromatic Defier",
+   "objective": "To forge the Legplates of the Chromatic Defier, you will be required to bring the following items to Jeziba the 'Sculptor':",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Catalogue of the Wayward",
+    "x": 39.35,
+    "y": 66.6,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5504": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Hasana",
+    "x": 83.26,
+    "y": 68.14,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 5504,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "Mantles of the Dawn",
+   "objective": "Bring 10 Argent Dawn Valor Tokens to Quartermaster Hasana at the Bulwark, Western Plaguelands.",
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Hasana",
+    "x": 83.26,
+    "y": 68.14,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "5505": {
+   "after": [],
+   "before": [
+    5803
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5803
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5505,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "The Key to Scholomance",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5507": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Lightspark",
+    "x": 42.84,
+    "y": 83.72,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5507,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Mantles of the Dawn",
+   "objective": "Bring 10 Argent Dawn Valor Tokens to Quartermaster Lightspark at Chillwind Camp, Western Plaguelands.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Lightspark",
+    "x": 42.84,
+    "y": 83.72,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5511": {
+   "after": [],
+   "before": [
+    5804
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5804
+   ],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "High Executor Derrington",
+    "x": 83.13,
+    "y": 68.94,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 5511,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "The Key to Scholomance",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "High Executor Derrington",
+    "x": 83.13,
+    "y": 68.94,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "5513": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Quartermaster Miranda Breechlock",
+    "x": 71.79,
+    "y": 50.25,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5513,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Mantles of the Dawn",
+   "objective": "Bring 10 Argent Dawn Valor Tokens to Quartermaster Breechlock at Light's Hope Chapel, Eastern Plaguelands.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Quartermaster Miranda Breechlock",
+    "x": 71.79,
+    "y": 50.25,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5514": {
+   "after": [
+    5802
+   ],
+   "before": [
+    964
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    964
+   ],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Krinkle Goodsteel",
+    "x": 51.5,
+    "y": 28.8,
+    "zone": "Tanaris"
+   },
+   "id": 5514,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "Mold Rhymes With...",
+   "objective": "Bring the Imbued Skeletal Fragments and 15 gold coins to Krinkle Goodsteel in Gadgetzan.",
+   "questLevel": 57,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.28,
+    "y": 69.23,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "5517": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Quartermaster Miranda Breechlock",
+    "x": 71.79,
+    "y": 50.25,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5517,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Chromatic Mantle of the Dawn",
+   "objective": "Bring 25 Argent Dawn Valor Tokens to Quartermaster Breechlock at Light's Hope Chapel, Eastern Plaguelands.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Quartermaster Miranda Breechlock",
+    "x": 71.79,
+    "y": 50.25,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5521": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Lightspark",
+    "x": 42.84,
+    "y": 83.72,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5521,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Chromatic Mantle of the Dawn",
+   "objective": "Bring 25 Argent Dawn Valor Tokens to Quartermaster Lightspark at Chillwind Camp, Western Plaguelands.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Lightspark",
+    "x": 42.84,
+    "y": 83.72,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5524": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Hasana",
+    "x": 83.26,
+    "y": 68.14,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 5524,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "Chromatic Mantle of the Dawn",
+   "objective": "Bring 25 Argent Dawn Valor Tokens to Quartermaster Hasana at the Bulwark, Western Plaguelands.",
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Argent Quartermaster Hasana",
+    "x": 83.26,
+    "y": 68.14,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "5533": {
+   "after": [
+    5537
+   ],
+   "before": [
+    5097
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5097
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5533,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Scholomance",
+   "objective": "Speak with Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+   "questLevel": 55,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Ashlam Valorfist",
+    "x": 42.7,
+    "y": 84.03,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5537": {
+   "after": [
+    5538
+   ],
+   "before": [
+    5533
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5533
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5537,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Skeletal Fragments",
+   "objective": "Bring 15 Skeletal Fragments to Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+   "questLevel": 57,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5538": {
+   "after": [
+    5801
+   ],
+   "before": [
+    5537
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5537
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Krinkle Goodsteel",
+    "x": 51.5,
+    "y": 28.8,
+    "zone": "Tanaris"
+   },
+   "id": 5538,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Mold Rhymes With...",
+   "objective": "Bring the Imbued Skeletal Fragments and 15 gold coins to Krinkle Goodsteel in Gadgetzan.",
+   "questLevel": 57,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5801": {
+   "after": [
+    5803
+   ],
+   "before": [
+    5538
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5538
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.7,
+    "y": 83.8,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5801,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Fire Plume Forged",
+   "objective": "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.",
+   "questLevel": 57,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Krinkle Goodsteel",
+    "x": 51.46,
+    "y": 28.81,
+    "zone": "Tanaris"
+   }
+  },
+  "5802": {
+   "after": [
+    5804
+   ],
+   "before": [
+    5514
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5514
+   ],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.3,
+    "y": 69.2,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 5802,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Fire Plume Forged",
+   "objective": "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.",
+   "questLevel": 57,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Krinkle Goodsteel",
+    "x": 51.46,
+    "y": 28.81,
+    "zone": "Tanaris"
+   }
+  },
+  "5803": {
+   "after": [
+    5505
+   ],
+   "before": [
+    5801
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5801
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5803,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Araj's Scarab",
+   "objective": "Destroy Araj the Summoner and bring Araj's Scarab to Alchemist Arbington at Chillwind Point, Western Plaguelands.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Arbington",
+    "x": 42.66,
+    "y": 83.77,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5804": {
+   "after": [
+    5511
+   ],
+   "before": [
+    5802
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5802
+   ],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.28,
+    "y": 69.23,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 5804,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "Araj's Scarab",
+   "objective": "Destroy Araj the Summoner and bring Araj's Scarab to Apothecary Dithers at the Bulwark, Western Plaguelands.",
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.28,
+    "y": 69.23,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "6182": {
+   "after": [
+    6183
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Master Mathias Shaw",
+    "x": 78.31,
+    "y": 70.74,
+    "zone": "Stormwind City"
+   },
+   "id": 6182,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The First and the Last",
+   "objective": "Speak with Mathias Shaw in Old Town Stormwind. He resides in the Barracks.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Highlord Bolvar Fordragon",
+    "x": 80.21,
+    "y": 38.35,
+    "zone": "Stormwind City"
+   }
+  },
+  "6183": {
+   "after": [
+    6184
+   ],
+   "before": [
+    6182
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6182
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Master Mathias Shaw",
+    "x": 78.31,
+    "y": 70.74,
+    "zone": "Stormwind City"
+   },
+   "id": 6183,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "Honor the Dead",
+   "objective": "Speak with Mathias Shaw again if you wish to accept his task.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Master Mathias Shaw",
+    "x": 78.31,
+    "y": 70.74,
+    "zone": "Stormwind City"
+   }
+  },
+  "6184": {
+   "after": [
+    6185
+   ],
+   "before": [
+    6183
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6183
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Flint Shadowmore",
+    "x": 43.6,
+    "y": 84.5,
+    "zone": "Western Plaguelands"
+   },
+   "id": 6184,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "Flint Shadowmore",
+   "objective": "Travel to Chillwind Camp in the Western Plaguelands and meet up with your contact, Flint Shadowmore.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Master Mathias Shaw",
+    "x": 78.31,
+    "y": 70.74,
+    "zone": "Stormwind City"
+   }
+  },
+  "6185": {
+   "after": [
+    6186
+   ],
+   "before": [
+    6184
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6184
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Flint Shadowmore",
+    "x": 43.61,
+    "y": 84.51,
+    "zone": "Western Plaguelands"
+   },
+   "id": 6185,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "The Eastern Plagues",
+   "objective": "Scour the Eastern Plaguelands for clues as to the \"Blightcaller\" and the missing SI:7 agents. If you find any SI:7 Insignias, return them to Flint Shadowmore at Chillwind Camp.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Flint Shadowmore",
+    "x": 43.61,
+    "y": 84.51,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "6186": {
+   "after": [
+    6187
+   ],
+   "before": [
+    6185
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6185
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Highlord Bolvar Fordragon",
+    "x": 80.2,
+    "y": 38.4,
+    "zone": "Stormwind City"
+   },
+   "id": 6186,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "The Blightcaller Cometh",
+   "objective": "Return to Stormwind and inform Highlord Bolvar Fordragon of the fate of Nathanos Marris.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Flint Shadowmore",
+    "x": 43.61,
+    "y": 84.51,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "6187": {
+   "after": [],
+   "before": [
+    6186
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6186
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Highlord Bolvar Fordragon",
+    "x": 80.21,
+    "y": 38.35,
+    "zone": "Stormwind City"
+   },
+   "id": 6187,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "Order Must Be Restored",
+   "objective": "Assemble an army and travel to the Eastern Plaguelands. Launch a full assault on Nathanos Blightcaller and any Horde filth that may attempt to protect him.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Highlord Bolvar Fordragon",
+    "x": 80.21,
+    "y": 38.35,
+    "zone": "Stormwind City"
+   }
+  },
+  "838": {
+   "after": [
+    964
+   ],
+   "before": [
+    5098
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5098
+   ],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.28,
+    "y": 69.23,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 838,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "Scholomance",
+   "objective": "Speak with Apothecary Dithers at the Bulwark, Western Plaguelands.",
+   "questLevel": 55,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "High Executor Derrington",
+    "x": 83.13,
+    "y": 68.94,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "9033": {
+   "after": [
+    9034,
+    9036,
+    9037,
+    9038,
+    9039,
+    9040,
+    9041,
+    9042,
+    9043,
+    9044,
+    9045,
+    9046
+   ],
+   "before": [
+    9121,
+    9122,
+    9123
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9121,
+    9122,
+    9123
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Eligor Dawnbringer",
+    "x": 71.72,
+    "y": 48.59,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9033,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Echoes of War",
+   "objective": "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands wants you to slay 5 Living Monstrosities, 5 Stoneskin Gargoyles, 8 Deathknight Captains and 3 Venom Stalkers.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Eligor Dawnbringer",
+    "x": 71.72,
+    "y": 48.59,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9120": {
+   "after": [],
+   "before": [
+    9121,
+    9122,
+    9123
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9121,
+    9122,
+    9123
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Father Inigo Montoy",
+    "x": 71.66,
+    "y": 48.58,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9120,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Fall of Kel'Thuzad",
+   "objective": "Take the Phylactery of Kel'Thuzad to Light's Hope Chapel in the Eastern Plaguelands.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "The Phylactery of Kel'Thuzad",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "9123": {
+   "after": [
+    9033,
+    9120,
+    9233
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9123,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Dread Citadel - Naxxramas",
+   "objective": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will grant you Arcane Cloaking at no cost. You must be Exalted with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9165": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dispatch Commander Metz",
+    "x": 71.28,
+    "y": 48.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9165,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Writ of Safe Passage",
+   "objective": "Deliver the signed Writ of Safe Passage to Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Guard Didier",
+    "x": 70.6,
+    "y": 48.27,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9223": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Quartermaster Miranda Breechlock",
+    "x": 71.79,
+    "y": 50.25,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9223,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Superior Armaments of Battle - Honored Amongst the Dawn",
+   "objective": "For 20 Insignias of the Dawn and 20 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Quartermaster Miranda Breechlock",
+    "x": 71.79,
+    "y": 50.25,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9229": {
+   "after": [
+    9230
+   ],
+   "before": [
+    9033
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9033
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Korfax, Champion of the Light",
+    "x": 71.95,
+    "y": 48.52,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9229,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Fate of Ramaladni",
+   "objective": "Enter Naxxramas and uncover the Fate of Ramaladni.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Korfax, Champion of the Light",
+    "x": 71.95,
+    "y": 48.52,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9230": {
+   "after": [],
+   "before": [
+    9229
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9229
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Korfax, Champion of the Light",
+    "x": 71.95,
+    "y": 48.52,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9230,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Ramaladni's Icy Grasp",
+   "objective": "Korfax at Light's Hope Chapel in the Eastern Plaguelands wants you to bring him 1 Frozen Rune, 1 Blue Sapphire and 1 Arcanite Bar.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Korfax, Champion of the Light",
+    "x": 71.95,
+    "y": 48.52,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9232": {
+   "after": [],
+   "before": [
+    9033
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9033
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9232,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Only Song I Know...",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants you to bring him 2 Frozen Runes, 2 Essence of Water, 2 Blue Sapphires and 30 gold pieces.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9233": {
+   "after": [
+    9234,
+    9235,
+    9236,
+    9237,
+    9238,
+    9239,
+    9240,
+    9241,
+    9242,
+    9243,
+    9244,
+    9245
+   ],
+   "before": [
+    9121,
+    9122,
+    9123
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9121,
+    9122,
+    9123
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9233,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Omarion's Handbook",
+   "objective": "Take Omarion's Handbook to Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Omarion's Handbook",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "9234": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Warrior",
+    "Paladin"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9234,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Icebane Gauntlets",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essences of Water and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9235": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Warrior",
+    "Paladin"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9235,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Icebane Bracers",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essence of Water and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9236": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Warrior",
+    "Paladin"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9236,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Icebane Breastplate",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 16 Thorium Bars, 2 Arcanite Bars, 4 Essence of Water and 300 gold. You will also need to be of Exalted reputation with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9237": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9237,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Glacial Cloak",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 4 Bolts of Runecloth, 2 Essences of Water, 4 Ironweb Spider Silks and 200 gold. You must also be of Exalted reputation with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9238": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9238,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Glacial Wrists",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 2 Bolts of Runecloth, 2 Essences of Water, 2 Ironweb Spider Silks and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9239": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9239,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Glacial Gloves",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 4 Bolts of Runecloth, 4 Essences of Water, 2 Ironweb Spider Silks and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9240": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9240,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Glacial Vest",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 8 Bolts of Runecloth, 6 Essences of Water, 4 Ironweb Spider Silks and 300 gold. You must also be of Exalted reputation with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9241": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Rogue",
+    "Druid"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9241,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Polar Bracers",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9242": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Rogue",
+    "Druid"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9242,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Polar Gloves",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9243": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Rogue",
+    "Druid"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9243,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Polar Tunic",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 16 Enchanted Leathers, 5 Essences of Water, 5 Cured Rugged Hides and 300 gold. You must also be of Exalted reputation with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9244": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Hunter",
+    "Shaman"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9244,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Icy Scale Bracers",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 16 Heavy Scorpid Scales, 5 Essences of Water, 3 Cured Rugged Hides and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9245": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Hunter",
+    "Shaman"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9245,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Icy Scale Gauntlets",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 16 Heavy Scorpid Scale, 5 Essence of Water, 3 Cured Rugged Hides and 200 gold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9246": {
+   "after": [],
+   "before": [
+    9233
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    9233
+   ],
+   "classes": [
+    "Hunter",
+    "Shaman"
+   ],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9246,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Icy Scale Breastplate",
+   "objective": "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 24 Heavy Scorpid Scale, 7 Essence of Water, 5 Cured Rugged Hides and 300 gold. You must also be of Exalted reputation with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Craftsman Wilhelm",
+    "x": 71.24,
+    "y": 49.9,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "964": {
+   "after": [
+    5514
+   ],
+   "before": [
+    838
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    838
+   ],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.28,
+    "y": 69.23,
+    "zone": "Tirisfal Glades"
+   },
+   "id": 964,
+   "mapId": 1420,
+   "mapZone": "Tirisfal Glades",
+   "name": "Skeletal Fragments",
+   "objective": "Bring 15 Skeletal Fragments to Apothecary Dithers at the Bulwark, Western Plaguelands.",
+   "questLevel": 57,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Apothecary Dithers",
+    "x": 83.28,
+    "y": 69.23,
+    "zone": "Tirisfal Glades"
+   }
+  },
+  "9664": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Emmisary Whitebeard",
+    "x": 71.51,
+    "y": 49.66,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9664,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Establishing New Outposts",
+   "objective": "Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Whitebeard at Light's Hope Chapel.",
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Emmisary Whitebeard",
+    "x": 71.51,
+    "y": 49.66,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9665": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Horde only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Emmisary Gormok",
+    "x": 70.37,
+    "y": 47.94,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9665,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Bolstering Our Defenses",
+   "objective": "Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Gormok at Light's Hope Chapel.",
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Emmisary Gormok",
+    "x": 70.37,
+    "y": 47.94,
+    "zone": "Eastern Plaguelands"
+   }
+  }
+ },
+ "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 838,
+   "name": "Scholomance",
+   "nextQuestInChain": 964,
+   "objectivesText": [
+    "Speak with Apothecary Dithers at the Bulwark, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5098
+   ],
+   "questLevel": 55,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10837,
+      "name": "High Executor Derrington",
+      "spawns": {
+       "85": [
+        [
+         83.13,
+         68.94
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 964,
+   "name": "Skeletal Fragments",
+   "nextQuestInChain": 5514,
+   "objectivesText": [
+    "Bring 15 Skeletal Fragments to Apothecary Dithers at the Bulwark, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    838
+   ],
+   "questLevel": 57,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5090,
+    5091
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5066,
+   "name": "A Call to Arms: The Plaguelands!",
+   "nextQuestInChain": 5092,
+   "objectivesText": [
+    "Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 50,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 2198,
+      "name": "Crier Goodman",
+      "spawns": {
+       "1519": [
+        [
+         56.39,
+         74.09
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5066,
+    5091
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5090,
+   "name": "A Call to Arms: The Plaguelands!",
+   "nextQuestInChain": 5092,
+   "objectivesText": [
+    "Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 50,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10877,
+      "name": "Courier Hammerfall",
+      "spawns": {
+       "1537": [
+        [
+         55.92,
+         81.39
+        ]
+       ]
+      },
+      "zoneID": 1537
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1537
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5066,
+    5090
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5091,
+   "name": "A Call to Arms: The Plaguelands!",
+   "nextQuestInChain": 5092,
+   "objectivesText": [
+    "Seek out Commander Ashlam Valorfist. His base camp is located at Chillwind Camp, north of the Alterac Mountains."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 50,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10878,
+      "name": "Herald Moonstalker",
+      "spawns": {
+       "1657": [
+        [
+         47.81,
+         81.97
+        ]
+       ]
+      },
+      "zoneID": 1657
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1657
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5092,
+   "name": "Clear the Way",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Kill 10 Skeletal Flayers and 10 Slavering Ghouls in Sorrow Hill.",
+    "",
+    "Return to Commander Ashlam Valorfist at Chillwind Camp, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5066,
+    5090,
+    5091
+   ],
+   "questLevel": 52,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5097,
+   "name": "All Along the Watchtowers",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Using the Beacon Torch, mark each tower in Andorhal; you will need to stand in the doorway of the tower to successfully mark it.",
+    "",
+    "Once all four towers are marked, return the Beacon Torch to Commander Ashlam Valorfist in Chillwind Camp, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5092
+   ],
+   "questLevel": 56,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10929,
+      "name": "Haleh",
+      "spawns": {
+       "618": [
+        [
+         54.55,
+         51.2
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5161,
+   "name": "Wrath of the Blue Flight",
+   "nextQuestInChain": 5162,
+   "objectivesText": [
+    "Speak with Haleh if you wish to continue."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5160
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10929,
+      "name": "Haleh",
+      "spawns": {
+       "618": [
+        [
+         54.55,
+         51.2
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 618
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10976,
+      "name": "Jeziba",
+      "spawns": {
+       "28": [
+        [
+         39.37,
+         66.78
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5162,
+   "name": "Wrath of the Blue Flight",
+   "nextQuestInChain": 5164,
+   "objectivesText": [
+    "Speak with Jeziba in the Plaguelands. He resides in Andorhal."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5161
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10929,
+      "name": "Haleh",
+      "spawns": {
+       "618": [
+        [
+         54.55,
+         51.2
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     176192
+    ]
+   },
+   "id": 5164,
+   "name": "Catalogue of the Wayward",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Read from the Catalogue of the Wayward.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5162
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10976,
+      "name": "Jeziba",
+      "spawns": {
+       "28": [
+        [
+         39.37,
+         66.78
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10976,
+      "name": "Jeziba",
+      "spawns": {
+       "28": [
+        [
+         39.37,
+         66.78
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5166,
+   "name": "Breastplate of the Chromatic Flight",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "To forge the Breastplate of the Chromatic Flight, you will be required to bring the following items to Jeziba the 'Sculptor':",
+    "",
+    "1 Chromatic Carapace.",
+    "",
+    "10 Brilliant Chromatic Scales.",
+    "",
+    "10 Blood of Heroes.",
+    "",
+    "10 Frayed Abomination Stitchings."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5164
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     176192
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10976,
+      "name": "Jeziba",
+      "spawns": {
+       "28": [
+        [
+         39.37,
+         66.78
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5167,
+   "name": "Legplates of the Chromatic Defier",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "To forge the Legplates of the Chromatic Defier, you will be required to bring the following items to Jeziba the 'Sculptor':",
+    "",
+    "1 Chromatic Carapace.",
+    "",
+    "10 Brilliant Chromatic Scales.",
+    "",
+    "10 Blood of Heroes.",
+    "",
+    "5 Skin of Shadow."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5164
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     176192
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5507,
+    5513
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10856,
+      "name": "Argent Quartermaster Hasana",
+      "spawns": {
+       "85": [
+        [
+         83.26,
+         68.14
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5504,
+   "name": "Mantles of the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 10 Argent Dawn Valor Tokens to Quartermaster Hasana at the Bulwark, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10856,
+      "name": "Argent Quartermaster Hasana",
+      "spawns": {
+       "85": [
+        [
+         83.26,
+         68.14
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5505,
+   "name": "The Key to Scholomance",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5803
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5504,
+    5513
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10857,
+      "name": "Argent Quartermaster Lightspark",
+      "spawns": {
+       "28": [
+        [
+         42.84,
+         83.72
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5507,
+   "name": "Mantles of the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 10 Argent Dawn Valor Tokens to Quartermaster Lightspark at Chillwind Camp, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10857,
+      "name": "Argent Quartermaster Lightspark",
+      "spawns": {
+       "28": [
+        [
+         42.84,
+         83.72
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10837,
+      "name": "High Executor Derrington",
+      "spawns": {
+       "85": [
+        [
+         83.13,
+         68.94
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5511,
+   "name": "The Key to Scholomance",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5804
+   ],
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10837,
+      "name": "High Executor Derrington",
+      "spawns": {
+       "85": [
+        [
+         83.13,
+         68.94
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5504,
+    5507
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11536,
+      "name": "Quartermaster Miranda Breechlock",
+      "spawns": {
+       "139": [
+        [
+         71.79,
+         50.25
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5513,
+   "name": "Mantles of the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 10 Argent Dawn Valor Tokens to Quartermaster Breechlock at Light's Hope Chapel, Eastern Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11536,
+      "name": "Quartermaster Miranda Breechlock",
+      "spawns": {
+       "139": [
+        [
+         71.79,
+         50.25
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 5411,
+      "name": "Krinkle Goodsteel",
+      "spawns": {
+       "440": [
+        [
+         51.46,
+         28.81
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5514,
+   "name": "Mold Rhymes With...",
+   "nextQuestInChain": 5802,
+   "objectivesText": [
+    "Bring the Imbued Skeletal Fragments and 15 gold coins to Krinkle Goodsteel in Gadgetzan."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    964
+   ],
+   "questLevel": 57,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5521,
+    5524
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11536,
+      "name": "Quartermaster Miranda Breechlock",
+      "spawns": {
+       "139": [
+        [
+         71.79,
+         50.25
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5517,
+   "name": "Chromatic Mantle of the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 25 Argent Dawn Valor Tokens to Quartermaster Breechlock at Light's Hope Chapel, Eastern Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11536,
+      "name": "Quartermaster Miranda Breechlock",
+      "spawns": {
+       "139": [
+        [
+         71.79,
+         50.25
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5517,
+    5524
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10857,
+      "name": "Argent Quartermaster Lightspark",
+      "spawns": {
+       "28": [
+        [
+         42.84,
+         83.72
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5521,
+   "name": "Chromatic Mantle of the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 25 Argent Dawn Valor Tokens to Quartermaster Lightspark at Chillwind Camp, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10857,
+      "name": "Argent Quartermaster Lightspark",
+      "spawns": {
+       "28": [
+        [
+         42.84,
+         83.72
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5517,
+    5521
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10856,
+      "name": "Argent Quartermaster Hasana",
+      "spawns": {
+       "85": [
+        [
+         83.26,
+         68.14
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5524,
+   "name": "Chromatic Mantle of the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 25 Argent Dawn Valor Tokens to Quartermaster Hasana at the Bulwark, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10856,
+      "name": "Argent Quartermaster Hasana",
+      "spawns": {
+       "85": [
+        [
+         83.26,
+         68.14
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5533,
+   "name": "Scholomance",
+   "nextQuestInChain": 5537,
+   "objectivesText": [
+    "Speak with Alchemist Arbington at Chillwind Point, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5097
+   ],
+   "questLevel": 55,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10838,
+      "name": "Commander Ashlam Valorfist",
+      "spawns": {
+       "28": [
+        [
+         42.7,
+         84.03
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5537,
+   "name": "Skeletal Fragments",
+   "nextQuestInChain": 5538,
+   "objectivesText": [
+    "Bring 15 Skeletal Fragments to Alchemist Arbington at Chillwind Point, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5533
+   ],
+   "questLevel": 57,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 5411,
+      "name": "Krinkle Goodsteel",
+      "spawns": {
+       "440": [
+        [
+         51.46,
+         28.81
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5538,
+   "name": "Mold Rhymes With...",
+   "nextQuestInChain": 5801,
+   "objectivesText": [
+    "Bring the Imbued Skeletal Fragments and 15 gold coins to Krinkle Goodsteel in Gadgetzan."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5537
+   ],
+   "questLevel": 57,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5801,
+   "name": "Fire Plume Forged",
+   "nextQuestInChain": 5803,
+   "objectivesText": [
+    "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.",
+    "",
+    "Bring the Unfinished Skeleton Key to Alchemist Arbington at Chillwind Point, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5538
+   ],
+   "questLevel": 57,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 5411,
+      "name": "Krinkle Goodsteel",
+      "spawns": {
+       "440": [
+        [
+         51.46,
+         28.81
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5802,
+   "name": "Fire Plume Forged",
+   "nextQuestInChain": 5804,
+   "objectivesText": [
+    "Take the Skeleton Key Mold and 2 Thorium Bars to the top of Fire Plume Ridge in Un'Goro Crater. Use the Skeleton Key Mold by the lava lake to forge the Unfinished Skeleton Key.",
+    "",
+    "Bring the Unfinished Skeleton Key to Apothecary Dithers at the Bulwark, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5514
+   ],
+   "questLevel": 57,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 5411,
+      "name": "Krinkle Goodsteel",
+      "spawns": {
+       "440": [
+        [
+         51.46,
+         28.81
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5803,
+   "name": "Araj's Scarab",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Destroy Araj the Summoner and bring Araj's Scarab to Alchemist Arbington at Chillwind Point, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5801
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11056,
+      "name": "Alchemist Arbington",
+      "spawns": {
+       "28": [
+        [
+         42.66,
+         83.77
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5804,
+   "name": "Araj's Scarab",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Destroy Araj the Summoner and bring Araj's Scarab to Apothecary Dithers at the Bulwark, Western Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5802
+   ],
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11057,
+      "name": "Apothecary Dithers",
+      "spawns": {
+       "85": [
+        [
+         83.28,
+         69.23
+        ]
+       ]
+      },
+      "zoneID": 85
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 332,
+      "name": "Master Mathias Shaw",
+      "spawns": {
+       "1519": [
+        [
+         78.31,
+         70.74
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6182,
+   "name": "The First and the Last",
+   "nextQuestInChain": 6183,
+   "objectivesText": [
+    "Speak with Mathias Shaw in Old Town Stormwind. He resides in the Barracks."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1748,
+      "name": "Highlord Bolvar Fordragon",
+      "spawns": {
+       "1519": [
+        [
+         80.21,
+         38.35
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 332,
+      "name": "Master Mathias Shaw",
+      "spawns": {
+       "1519": [
+        [
+         78.31,
+         70.74
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6183,
+   "name": "Honor the Dead",
+   "nextQuestInChain": 6184,
+   "objectivesText": [
+    "Speak with Mathias Shaw again if you wish to accept his task."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6182
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 332,
+      "name": "Master Mathias Shaw",
+      "spawns": {
+       "1519": [
+        [
+         78.31,
+         70.74
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 12425,
+      "name": "Flint Shadowmore",
+      "spawns": {
+       "28": [
+        [
+         43.61,
+         84.51
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6184,
+   "name": "Flint Shadowmore",
+   "nextQuestInChain": 6185,
+   "objectivesText": [
+    "Travel to Chillwind Camp in the Western Plaguelands and meet up with your contact, Flint Shadowmore.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6183
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 332,
+      "name": "Master Mathias Shaw",
+      "spawns": {
+       "1519": [
+        [
+         78.31,
+         70.74
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 12425,
+      "name": "Flint Shadowmore",
+      "spawns": {
+       "28": [
+        [
+         43.61,
+         84.51
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6185,
+   "name": "The Eastern Plagues",
+   "nextQuestInChain": 6186,
+   "objectivesText": [
+    "Scour the Eastern Plaguelands for clues as to the \"Blightcaller\" and the missing SI:7 agents. If you find any SI:7 Insignias, return them to Flint Shadowmore at Chillwind Camp."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6184
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 12425,
+      "name": "Flint Shadowmore",
+      "spawns": {
+       "28": [
+        [
+         43.61,
+         84.51
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1748,
+      "name": "Highlord Bolvar Fordragon",
+      "spawns": {
+       "1519": [
+        [
+         80.21,
+         38.35
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6186,
+   "name": "The Blightcaller Cometh",
+   "nextQuestInChain": 6187,
+   "objectivesText": [
+    "Return to Stormwind and inform Highlord Bolvar Fordragon of the fate of Nathanos Marris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6185
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 12425,
+      "name": "Flint Shadowmore",
+      "spawns": {
+       "28": [
+        [
+         43.61,
+         84.51
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1748,
+      "name": "Highlord Bolvar Fordragon",
+      "spawns": {
+       "1519": [
+        [
+         80.21,
+         38.35
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6187,
+   "name": "Order Must Be Restored",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Assemble an army and travel to the Eastern Plaguelands. Launch a full assault on Nathanos Blightcaller and any Horde filth that may attempt to protect him.",
+    "",
+    "Keep your wits about you, $N. The Horde will defend the ranger lord with their very lives."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6186
+   ],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1748,
+      "name": "Highlord Bolvar Fordragon",
+      "spawns": {
+       "1519": [
+        [
+         80.21,
+         38.35
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16115,
+      "name": "Commander Eligor Dawnbringer",
+      "spawns": {
+       "139": [
+        [
+         71.72,
+         48.59
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9033,
+   "name": "Echoes of War",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Commander Eligor Dawnbringer at Light's Hope Chapel in the Eastern Plaguelands wants you to slay 5 Living Monstrosities, 5 Stoneskin Gargoyles, 8 Deathknight Captains and 3 Venom Stalkers."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9121,
+    9122,
+    9123
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16115,
+      "name": "Commander Eligor Dawnbringer",
+      "spawns": {
+       "139": [
+        [
+         71.72,
+         48.59
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16113,
+      "name": "Father Inigo Montoy",
+      "spawns": {
+       "139": [
+        [
+         71.66,
+         48.58
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9120,
+   "name": "The Fall of Kel'Thuzad",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Phylactery of Kel'Thuzad to Light's Hope Chapel in the Eastern Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     22520
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    9121,
+    9122
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9123,
+   "name": "The Dread Citadel - Naxxramas",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands will grant you Arcane Cloaking at no cost. You must be Exalted with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16212,
+      "name": "Dispatch Commander Metz",
+      "spawns": {
+       "139": [
+        [
+         71.28,
+         48.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9165,
+   "name": "Writ of Safe Passage",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Deliver the signed Writ of Safe Passage to Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16226,
+      "name": "Guard Didier",
+      "spawns": {},
+      "zoneID": 0
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11536,
+      "name": "Quartermaster Miranda Breechlock",
+      "spawns": {
+       "139": [
+        [
+         71.79,
+         50.25
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9223,
+   "name": "Superior Armaments of Battle - Honored Amongst the Dawn",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "For 20 Insignias of the Dawn and 20 Insignias of the Crusade you may choose an item from the Argent Dawn's treasure cache."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11536,
+      "name": "Quartermaster Miranda Breechlock",
+      "spawns": {
+       "139": [
+        [
+         71.79,
+         50.25
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16112,
+      "name": "Korfax, Champion of the Light",
+      "spawns": {
+       "139": [
+        [
+         71.95,
+         48.52
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9229,
+   "name": "The Fate of Ramaladni",
+   "nextQuestInChain": 9230,
+   "objectivesText": [
+    "Enter Naxxramas and uncover the Fate of Ramaladni."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16112,
+      "name": "Korfax, Champion of the Light",
+      "spawns": {
+       "139": [
+        [
+         71.95,
+         48.52
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16112,
+      "name": "Korfax, Champion of the Light",
+      "spawns": {
+       "139": [
+        [
+         71.95,
+         48.52
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9230,
+   "name": "Ramaladni's Icy Grasp",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Korfax at Light's Hope Chapel in the Eastern Plaguelands wants you to bring him 1 Frozen Rune, 1 Blue Sapphire and 1 Arcanite Bar.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9229
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16112,
+      "name": "Korfax, Champion of the Light",
+      "spawns": {
+       "139": [
+        [
+         71.95,
+         48.52
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16376,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9232,
+   "name": "The Only Song I Know...",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants you to bring him 2 Frozen Runes, 2 Essence of Water, 2 Blue Sapphires and 30 gold pieces."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16376,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16376,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9233,
+   "name": "Omarion's Handbook",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take Omarion's Handbook to Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     22719
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Warrior",
+    "Paladin"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9234,
+   "name": "Icebane Gauntlets",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essences of Water and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Warrior",
+    "Paladin"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9235,
+   "name": "Icebane Bracers",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 12 Thorium Bars, 2 Arcanite Bars, 2 Essence of Water and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Warrior",
+    "Paladin"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9236,
+   "name": "Icebane Breastplate",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 16 Thorium Bars, 2 Arcanite Bars, 4 Essence of Water and 300 gold. You will also need to be of Exalted reputation with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16376,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9237,
+   "name": "Glacial Cloak",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 4 Bolts of Runecloth, 2 Essences of Water, 4 Ironweb Spider Silks and 200 gold. You must also be of Exalted reputation with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16376,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3456
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9238,
+   "name": "Glacial Wrists",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 2 Bolts of Runecloth, 2 Essences of Water, 2 Ironweb Spider Silks and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9239,
+   "name": "Glacial Gloves",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 4 Bolts of Runecloth, 4 Essences of Water, 2 Ironweb Spider Silks and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Priest",
+    "Mage",
+    "Warlock"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9240,
+   "name": "Glacial Vest",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 8 Bolts of Runecloth, 6 Essences of Water, 4 Ironweb Spider Silks and 300 gold. You must also be of Exalted reputation with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Rogue",
+    "Druid"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9241,
+   "name": "Polar Bracers",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Rogue",
+    "Druid"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9242,
+   "name": "Polar Gloves",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 12 Enchanted Leather, 3 Essence of Water, 3 Cured Rugged Hides and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Rogue",
+    "Druid"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9243,
+   "name": "Polar Tunic",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 16 Enchanted Leathers, 5 Essences of Water, 5 Cured Rugged Hides and 300 gold. You must also be of Exalted reputation with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Hunter",
+    "Shaman"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9244,
+   "name": "Icy Scale Bracers",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 4 Frozen Runes, 16 Heavy Scorpid Scales, 5 Essences of Water, 3 Cured Rugged Hides and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Hunter",
+    "Shaman"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9245,
+   "name": "Icy Scale Gauntlets",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 5 Frozen Runes, 16 Heavy Scorpid Scale, 5 Essence of Water, 3 Cured Rugged Hides and 200 gold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [
+    "Hunter",
+    "Shaman"
+   ],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "id": 9246,
+   "name": "Icy Scale Breastplate",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Craftsman Wilhelm at Light's Hope Chapel in the Eastern Plaguelands wants 8 Frozen Runes, 24 Heavy Scorpid Scale, 7 Essence of Water, 5 Cured Rugged Hides and 300 gold. You must also be of Exalted reputation with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    9233
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": null,
+   "requiredLevel": 60,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Craftsman Wilhelm",
+      "spawns": {
+       "139": [
+        [
+         71.24,
+         49.9
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Craftsman Wilhelm",
+     "x": 71.24,
+     "y": 49.9,
+     "zone": "Eastern Plaguelands"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 17069,
+      "name": "Emmisary Whitebeard",
+      "spawns": {
+       "139": [
+        [
+         71.51,
+         49.66
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9664,
+   "name": "Establishing New Outposts",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Whitebeard at Light's Hope Chapel."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 17069,
+      "name": "Emmisary Whitebeard",
+      "spawns": {
+       "139": [
+        [
+         71.51,
+         49.66
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 17072,
+      "name": "Emmisary Gormok",
+      "spawns": {
+       "139": [
+        [
+         70.37,
+         47.94
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9665,
+   "name": "Bolstering Our Defenses",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Capture Crown Guard Tower, Eastwall Tower, Northpass Tower and Plaguewood Tower in the Eastern Plaguelands, then return to Emmisary Gormok at Light's Hope Chapel."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [
+    "Orc",
+    "Undead",
+    "Tauren",
+    "Troll",
+    "Skyborne (Horde)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 8589934770,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 17072,
+      "name": "Emmisary Gormok",
+      "spawns": {
+       "139": [
+        [
+         70.37,
+         47.94
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  }
+ ],
+ "source": {
+  "npcDbSha256": "a8c4169690726323dac3c6441f74f7a4d9cafcc08ec42231d72ff28c9471f0ee",
+  "questDbSha256": "621d4a1670232c047e7d171d8f1fdbd31581458935ee59dd70836016838dc942",
+  "ref": "v1.0.16"
+ }
+}

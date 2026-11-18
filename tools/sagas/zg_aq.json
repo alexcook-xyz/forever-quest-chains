@@ -1,0 +1,129 @@
+{
+ "saga": "Neutral",
+ "file": "ZGAQ",
+ "chainsOnly": true,
+ "route": [],
+ "comment": "Zul'Gurub and Ahn'Qiraj (issue #23): the quests of both raids, the Zandalar Tribe reputation and the quests that open the Ahn'Qiraj gates. Chains only: no saga route holds them. Selection rules: tools/select_zg_aq.py.",
+ "chains": [
+  {
+   "id": "zul_gurub",
+   "name": "Zul'Gurub",
+   "zone": "Zul'Gurub",
+   "summary": "2 quests for Zul'Gurub at required level 40. The quests start with Prospector Ironboot.",
+   "quests": [
+    {
+     "id": 8181
+    },
+    {
+     "id": 8182
+    }
+   ]
+  },
+  {
+   "id": "zandalar_tribe",
+   "name": "Zandalar Tribe",
+   "zone": "Zul'Gurub",
+   "summary": "2 quests for Zandalar Tribe at required level 58. The quests start with Exzhal, Vinchaxa.",
+   "quests": [
+    {
+     "id": 8201
+    },
+    {
+     "id": 8240
+    }
+   ]
+  },
+  {
+   "id": "ahn_qiraj",
+   "name": "Ahn'Qiraj",
+   "zone": "Silithus",
+   "summary": "27 quests for Ahn'Qiraj at required level 60. The quests start with Kandrostrasz, Narain Soothfancy, Dirge Quikcleave and 6 more.",
+   "quests": [
+    {
+     "id": 8579
+    },
+    {
+     "id": 8584
+    },
+    {
+     "id": 8585
+    },
+    {
+     "id": 8586
+    },
+    {
+     "id": 8587
+    },
+    {
+     "id": 8597
+    },
+    {
+     "id": 8598
+    },
+    {
+     "id": 8606
+    },
+    {
+     "id": 8620
+    },
+    {
+     "id": 8728
+    },
+    {
+     "id": 8729
+    },
+    {
+     "id": 8733
+    },
+    {
+     "id": 8734
+    },
+    {
+     "id": 8735
+    },
+    {
+     "id": 8736
+    },
+    {
+     "id": 8741
+    },
+    {
+     "id": 8742
+    },
+    {
+     "id": 8743
+    },
+    {
+     "id": 8745
+    },
+    {
+     "id": 8752
+    },
+    {
+     "id": 8753
+    },
+    {
+     "id": 8754
+    },
+    {
+     "id": 8755
+    },
+    {
+     "id": 8756
+    },
+    {
+     "id": 8791
+    },
+    {
+     "id": 8801
+    },
+    {
+     "id": 8802
+    }
+   ],
+   "after": [
+    "raid_blackwing_lair"
+   ]
+  }
+ ]
+}

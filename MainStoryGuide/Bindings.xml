@@ -1,0 +1,5 @@
+<Bindings>
+  <Binding name="MAINSTORYGUIDE_TOGGLE" header="Forever Quest Chains" category="ADDONS">
+    if MainStoryGuide_Toggle then MainStoryGuide_Toggle() end
+  </Binding>
+</Bindings>

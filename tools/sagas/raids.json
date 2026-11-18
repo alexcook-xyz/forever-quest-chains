@@ -1,0 +1,79 @@
+{
+ "saga": "Neutral",
+ "file": "Raids",
+ "chainsOnly": true,
+ "route": [],
+ "comment": "Raid quests (issue #22): Molten Core, Onyxia's Lair and Blackwing Lair quests that both factions take, with the quests they need. Chains only. Rules: tools/select_raids.py.",
+ "chains": [
+  {
+   "id": "raid_molten_core",
+   "name": "Molten Core",
+   "zone": "Molten Core",
+   "summary": "9 quests for Molten Core at required levels 55 to 60. The quests start with Lothos Riftwaker, Duke Hydraxis, Narain Soothfancy.",
+   "quests": [
+    {
+     "id": 7848
+    },
+    {
+     "id": 6822
+    },
+    {
+     "id": 6823
+    },
+    {
+     "id": 6824
+    },
+    {
+     "id": 7486
+    },
+    {
+     "id": 8575
+    },
+    {
+     "id": 8576
+    },
+    {
+     "id": 8577
+    },
+    {
+     "id": 8578
+    }
+   ],
+   "after": [
+    "raid_blackwing_lair"
+   ]
+  },
+  {
+   "id": "raid_blackwing_lair",
+   "name": "Blackwing Lair",
+   "zone": "Blackwing Lair",
+   "summary": "8 quests for Blackwing Lair at required level 60. The quests start with Baristolth of the Shifting Sands, Anachronos, Vaelastrasz the Corrupt.",
+   "quests": [
+    {
+     "id": 8286
+    },
+    {
+     "id": 8288
+    },
+    {
+     "id": 8301
+    },
+    {
+     "id": 8303
+    },
+    {
+     "id": 8305
+    },
+    {
+     "id": 8519
+    },
+    {
+     "id": 8555
+    },
+    {
+     "id": 8730
+    }
+   ]
+  }
+ ]
+}

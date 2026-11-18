@@ -1,0 +1,1751 @@
+{
+ "saga": "Orc",
+ "file": "HordeSpine",
+ "chainsOnly": true,
+ "route": [],
+ "comment": "The Horde spine (issue #18): Barrens and Stranglethorn Vale chains that the Orc saga owns and the Troll, Tauren and Forsaken sagas walk. Text only; every name, level and point comes from the facts.",
+ "chains": [
+  {
+   "id": "crossroads",
+   "name": "The Crossroads",
+   "zone": "The Barrens",
+   "summary": "Thork at the Crossroads asked for the death of Razormane tribe members, including Kreenig Snarlsnout, and for the return of the Crossroads' Supply Crates.",
+   "quests": [
+    {
+     "id": 871,
+     "task": "Of the Razormane tribe, kill 8 Water Seekers, 8 Thornweavers and 3 Hunters, and then return to Thork in the Crossroads."
+    },
+    {
+     "id": 872,
+     "task": "Kill 8 Razormane Geomancers, 8 Razormane Defenders, and Kreenig Snarlsnout. Then bring Kreenig Snarlsnout's Tusk to Thork at the Crossroads."
+    },
+    {
+     "id": 5041,
+     "task": "Find and return Crossroads' Supply Crates to Thork in the Barrens."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "fungal_spores",
+   "name": "Fungal Spores",
+   "zone": "The Barrens",
+   "summary": "Apothecary Helbrim at the Crossroads asked for 4 Fungal Spores, then sent Rendered Spores to Apothecary Zamah in Thunder Bluff and a Secure Crate to Wharfmaster Dizzywig in Ratchet.",
+   "quests": [
+    {
+     "id": 848,
+     "task": "Bring 4 Fungal Spores to Apothecary Helbrim at the Crossroads."
+    },
+    {
+     "id": 853,
+     "task": "Bring the Rendered Spores to Apothecary Zamah in Thunder Bluff, before the time limit is up."
+    },
+    {
+     "id": 1492,
+     "task": "Bring the Secure Crate to Wharfmaster Dizzywig in Ratchet."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "raptor_thieves",
+   "name": "Raptor Thieves",
+   "zone": "The Barrens",
+   "summary": "Gazrog at the Crossroads asked for 12 Raptor Heads and for the Stolen Silver.",
+   "quests": [
+    {
+     "id": 869,
+     "task": "Bring 12 Raptor Heads to Gazrog at the Crossroads."
+    },
+    {
+     "id": 3281,
+     "task": "Bring the Stolen Silver to Gazrog in the Crossroads."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "kolkar_leaders",
+   "name": "Kolkar Leaders",
+   "zone": "The Barrens",
+   "summary": "Regthar Deathgate, west of the Crossroads, asked for 15 Centaur Bracers, the heads of Barak, Verog and Hezrul, and a Piece of Krom'zar's Banner.",
+   "quests": [
+    {
+     "id": 855,
+     "task": "Bring 15 Centaur Bracers to Regthar Deathgate, west of the Crossroads."
+    },
+    {
+     "id": 850,
+     "task": "Bring Barak's Head to Regthar Deathgate, west of the Crossroads."
+    },
+    {
+     "id": 851,
+     "task": "Bring Verog's Head to Regthar Deathgate, west of the Crossroads."
+    },
+    {
+     "id": 852,
+     "task": "Bring Hezrul's Head to Regthar Deathgate, west of the Crossroads."
+    },
+    {
+     "id": 4021,
+     "task": "Bring a Piece of Krom'zar's Banner to Regthar Deathgate, west of the Crossroads."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "echeyakee",
+   "name": "Echeyakee",
+   "zone": "The Barrens",
+   "summary": "Sergra Darkthorn at the Crossroads asked for Plainstrider Beaks, Zhevra Hooves, Prowler Claws, Echeyakee's Hide and the Scytheclaw nest task, then sent the word to Jorn Skyseer at Camp Taurajo, who asked for Ishamuhale's Fang, Thunder Lizard Blood and Thunderhawk wings and sent the word to Mahren Skyseer, who asked for the Heart of Isha Awak.",
+   "quests": [
+    {
+     "id": 844,
+     "task": "Collect 7 Plainstrider Beaks and return them to Sergra Darkthorn in the Crossroads."
+    },
+    {
+     "id": 845,
+     "task": "Slay Zhevra Runners to collect 4 Zhevra Hooves for Sergra Darkthorn in the Crossroads."
+    },
+    {
+     "id": 903,
+     "task": "Collect 7 Prowler Claws from Savannah Prowlers for Sergra Darkthorn in the Crossroads."
+    },
+    {
+     "id": 881,
+     "task": "Bring Echeyakee's Hide to Sergra Darkthorn at the Crossroads."
+    },
+    {
+     "id": 905,
+     "task": "Kill Sunscale raptors and collect their feathers. Use the feathers on the 3 Scytheclaw nests. Return to Sergra Darkthorn in the Crossroads."
+    },
+    {
+     "id": 3261,
+     "task": "Speak with Jorn Skyseer at Camp Taurajo."
+    },
+    {
+     "id": 882,
+     "task": "Bring Ishamuhale's Fang to Jorn at Camp Taurajo."
+    },
+    {
+     "id": 907,
+     "task": "Bring 3 Thunder Lizard Blood to Jorn Skyseer at Camp Taurajo."
+    },
+    {
+     "id": 913,
+     "task": "Find and slay a Thunderhawk, return its wings to Jorn Skyseer at Camp Taurajo."
+    },
+    {
+     "id": 874,
+     "task": "Speak with Mahren Skyseer."
+    },
+    {
+     "id": 873,
+     "task": "Bring the Heart of Isha Awak to Mahren Skyseer."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "barrens_oases",
+   "name": "The Barrens Oases",
+   "zone": "The Barrens",
+   "summary": "Arch Druid Hamuul Runetotem in Thunder Bluff sent the word to Tonga Runetotem at the Crossroads, who asked for the Forgotten Pools and the Stagnant Oasis to be investigated and for 8 Altered Snapjaw Shells, then sent the word to Mura Runetotem in the Sepulcher.",
+   "quests": [
+    {
+     "id": 886,
+     "task": "Speak with Tonga Runetotem at the Crossroads."
+    },
+    {
+     "id": 870,
+     "task": "Report the findings of the Forgotten Pools to Tonga Runetotem."
+    },
+    {
+     "id": 877,
+     "task": "Return to Tonga at The Crossroads, after investigating the Stagnant Oasis."
+    },
+    {
+     "id": 880,
+     "task": "Bring 8 Altered Snapjaw Shells to Tonga Runetotem at the Crossroads."
+    },
+    {
+     "id": 3301,
+     "task": "Speak with Mura Runetotem in the Sepulcher."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "harpy_raiders",
+   "name": "Harpy Raiders",
+   "zone": "The Barrens",
+   "summary": "Darsok Swiftdagger at the Crossroads asked for 8 Witchwing Talons, 6 Harpy Lieutenant Rings and the head of Serena Bloodfeather, then gave a letter for Witch Doctor Jin'Zil in Malaka'Jin.",
+   "quests": [
+    {
+     "id": 867,
+     "task": "Collect 8 Witchwing talons. Return them to Darsok Swiftdagger at the Crossroads."
+    },
+    {
+     "id": 875,
+     "task": "Collect 6 Harpy Lieutenant Rings from Witchwing Slayers and return them to Darsok Swiftdagger at the Crossroads."
+    },
+    {
+     "id": 876,
+     "task": "Slay Serena Bloodfeather and return her head to Darsok Swiftdagger at the Crossroads."
+    },
+    {
+     "id": 1060,
+     "task": "Deliver Darsok's letter to Jin'Zil within his cave in Malaka'Jin, in Stonetalon."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "northwatch",
+   "name": "Northwatch",
+   "zone": "The Barrens",
+   "summary": "Captain Thalo'thas Brightsun in Ratchet asks for 10 Theramore Medals and the death of Captain Fairmount, Cannoneer Whessan and Cannoneer Smythe, and for the escort of Gilthares Firebough back to Ratchet.",
+   "quests": [
+    {
+     "id": 891,
+     "task": "Collect 10 Theramore Medals and slay Captain Fairmount, Cannoneer Whessan and Cannoneer Smythe, then return to Captain Thalo'thas Brightsun of Ratchet."
+    },
+    {
+     "id": 898,
+     "task": "Safely escort Gilthares Firebough back to Captain Brightsun in Ratchet."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "tribes_at_war",
+   "name": "Tribes at War",
+   "zone": "The Barrens",
+   "summary": "Mangletooth in Camp Taurajo asks for the death of Bristleback Water Seekers, Thornweavers and Geomancers, gives the Blood Shards of Agamaggan tasks, and sends Lok's Skull to Thork at the Crossroads.",
+   "quests": [
+    {
+     "id": 878,
+     "task": "Kill 6 Bristleback Water Seekers, 12 Bristleback Thornweavers and 12 Bristleback Geomancers and return to Mangletooth at Camp Taurajo in the Barrens."
+    },
+    {
+     "id": 5052,
+     "task": "Bring a Blood Shard to Mangletooth in Camp Taurajo in the Barrens. More Blood Shards bring the blessing of Agamaggan's power."
+    },
+    {
+     "id": 889,
+     "task": "This quest has no objective text of its own \u2013 it is accepted and handed in."
+    },
+    {
+     "id": 5042,
+     "task": "This quest has no objective text of its own \u2013 it is accepted and handed in."
+    },
+    {
+     "id": 5043,
+     "task": "This quest has no objective text of its own \u2013 it is accepted and handed in."
+    },
+    {
+     "id": 5044,
+     "task": "This quest has no objective text of its own \u2013 it is accepted and handed in."
+    },
+    {
+     "id": 5045,
+     "task": "This quest has no objective text of its own \u2013 it is accepted and handed in."
+    },
+    {
+     "id": 5046,
+     "task": "This quest has no objective text of its own \u2013 it is accepted and handed in."
+    },
+    {
+     "id": 879,
+     "task": "Kill Nak, Kuz, and Lok Orcbane and bring their skulls to Mangletooth at Camp Taurajo in the Barrens."
+    },
+    {
+     "id": 906,
+     "task": "Bring Lok's Skull to Thork at the Crossroads in the Barrens."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "gann",
+   "name": "Gann's Reclamation",
+   "zone": "The Barrens",
+   "summary": "Gann Stonespire asks for the death of Bael'dun Excavators and Foremen, for Khazgorm's Journal, for Nitroglycerin, Wood Pulp and Sodium Nitrate, and for the destruction of the flying machine at Bael Modan.",
+   "quests": [
+    {
+     "id": 843,
+     "task": "Kill 15 Bael'dun Excavators and 5 Bael'dun Foremen, then bring Khazgorm's Journal to Gann Stonespire."
+    },
+    {
+     "id": 846,
+     "task": "Bring 6 vials of Nitroglycerin, 6 bundles of Wood Pulp and 6 samples of Sodium Nitrate to Gann Stonespire."
+    },
+    {
+     "id": 849,
+     "task": "Destroy the flying machine at Bael Modan and return to Gann Stonespire."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "warsong",
+   "name": "The Warsong Reports",
+   "zone": "The Barrens",
+   "summary": "Thork sends a report to Kadrak at the watch tower in northern Barrens, and Kadrak asks for the Warsong Reports to go to the Warsong Scout, Runner and Outrider.",
+   "quests": [
+    {
+     "id": 6541,
+     "task": "Report to Kadrak at the watch tower in northern Barrens."
+    },
+    {
+     "id": 6543,
+     "task": "Open the Bundle of Reports. Take the Warsong Reports to the Warsong Scout, Warsong Runner and Warsong Outrider, then bring the updates to Kadrak at the northern watch tower in the Barrens."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "yenniku",
+   "name": "Yenniku",
+   "zone": "Stranglethorn Vale",
+   "summary": "Nimboya and Kin'weelay at the Grom'gol Base Camp in Stranglethorn Vale ask for Bloodscalp Tusks, Shrunken Heads, clan heads, trophies, shards and the Mind's Eye, and the chain ends with the Filled Soul Gem for Nimboya.",
+   "quests": [
+    {
+     "id": 581,
+     "task": "Bring 9 Bloodscalp Tusks to Nimboya at the Grom'gol Base Camp."
+    },
+    {
+     "id": 582,
+     "task": "Bring 20 Shrunken Heads to Nimboya at the Grom'gol Base Camp."
+    },
+    {
+     "id": 584,
+     "task": "Bring Gan'zulah's Head and Nezzliok's Head to the bubbling cauldron at the Grom'gol Base Camp."
+    },
+    {
+     "id": 585,
+     "task": "Bring a Balia'mah Trophy, a Ziata'jai Trophy and a Zul'Mamwe Trophy to the Bubbling Cauldron at the Grom'gol Base Camp."
+    },
+    {
+     "id": 586,
+     "task": "Kill 8 Skullsplitter Hunters, 6 Skullsplitter Headhunters, and 4 Skullsplitter Berserkers. Bring the Broken Armor of Ana'thek to the Bubbling Cauldron at the Grom'gol Base Camp."
+    },
+    {
+     "id": 588,
+     "task": "Speak with Kin'weelay."
+    },
+    {
+     "id": 589,
+     "task": "Bring 3 Pulsing Blue Shards to Kin'weelay at the Grom'gol Base Camp."
+    },
+    {
+     "id": 591,
+     "task": "Bring the Mind's Eye to Kin'weelay at the Grom'gol Base Camp."
+    },
+    {
+     "id": 592,
+     "task": "Bring the Filled Soul Gem to Nimboya."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "bloodscalp_trolls",
+   "name": "Troll Hunts in Stranglethorn",
+   "zone": "Stranglethorn Vale",
+   "summary": "Kin'weelay at the Grom'gol Base Camp asks for Bloody Bone Necklaces, a Tablet Shard and Split Bone Necklaces, and Nimboya names Zengu in Hammerfall in the Arathi Highlands.",
+   "quests": [
+    {
+     "id": 596,
+     "task": "Bring 25 Bloody Bone Necklaces to Kin'weelay at the Grom'gol Base Camp."
+    },
+    {
+     "id": 629,
+     "task": "Bring a Tablet Shard to Kin'weelay at the Grom'gol Base Camp."
+    },
+    {
+     "id": 598,
+     "task": "Bring 25 Split Bone Necklaces to Kin'weelay at the Grom'gol Base camp."
+    },
+    {
+     "id": 638,
+     "task": "Travel to Hammerfall in the Arathi Highlands and speak with Zengu."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "grom_gol",
+   "name": "Grom'gol Base Camp",
+   "zone": "Stranglethorn Vale",
+   "summary": "Commander Aggro'gosh asks for the death of Lashtail Raptors, Ogre Brutes and Ogre Witch Doctors, and Far Seer Mok'thardin asks for items and the death of 10 Naga Explorers at the Grom'gol base camp.",
+   "quests": [
+    {
+     "id": 568,
+     "task": "Kill 15 Lashtail Raptors, then return to Commander Aggro'gosh at the Grom'gol base camp."
+    },
+    {
+     "id": 569,
+     "task": "Kill 10 Ogre Brutes and 5 Ogre Witch Doctors, then return to Commander Aggro'gosh at the Grom'gol base camp."
+    },
+    {
+     "id": 570,
+     "task": "Far Seer Mok'thardin at the Grom'gol base camp wants 8 Shadowmaw Claws and a Pristine Tigress Fang."
+    },
+    {
+     "id": 572,
+     "task": "Bring 10 Jungle Stalker Feathers to Far Seer Mok'thardin at the Grom'gol base camp."
+    },
+    {
+     "id": 571,
+     "task": "Bring an Aged Gorilla Sinew to Far Seer Mok'thardin in Grom'gol."
+    },
+    {
+     "id": 573,
+     "task": "Bring Holy Spring Water to Far Seer Mok'thardin of Grom'gol, and kill 10 Naga Explorers."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "egg_hunt",
+   "name": "Egg Hunt",
+   "zone": "The Barrens",
+   "summary": "Korran gives the only quest of this chain at the Crossroads in The Barrens. It ends with Egg Hunt.",
+   "quests": [
+    {
+     "id": 868,
+     "task": "Bring 12 Silithid Eggs and the Digging Claw to Korran at the Crossroads."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "weapons_of_choice",
+   "name": "Weapons of Choice",
+   "zone": "The Barrens",
+   "summary": "Tatternack Steelforge gives the first quest of this chain at Camp Taurajo in The Barrens. The chain has 2 quests and ends with A New Ore Sample.",
+   "quests": [
+    {
+     "id": 893,
+     "task": "Bring a Razormane Backstabber, a Charred Razormane Wand and a Razormane War Shield to Tatternack Steelforge at Camp Taurajo in the Barrens."
+    },
+    {
+     "id": 1153,
+     "task": "Find an Unrefined Ore Sample on a Gravelsnout Digger or Surveyor and bring it to Tatternack Steelforge at Camp Taurajo in the Barrens."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "tear_of_the_moons",
+   "name": "The Tear of the Moons",
+   "zone": "The Barrens",
+   "summary": "Feegly the Exiled gives the only quest of this chain in The Barrens. It ends with The Tear of the Moons.",
+   "quests": [
+    {
+     "id": 857,
+     "task": "Retrieve the Tear of the Moons for Feegly the Exiled."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "ashenvale_hunt",
+   "name": "The Ashenvale Hunt",
+   "zone": "Ashenvale",
+   "summary": "Jorn Skyseer gives the first quest of this chain in Ashenvale. The chain has 6 quests and ends with The Hunt Completed.",
+   "quests": [
+    {
+     "id": 6382,
+     "task": "Speak with Senani Thunderheart at Splintertree Post, Ashenvale."
+    },
+    {
+     "id": 6383,
+     "task": "Speak with Senani Thunderheart at Splintertree Post in Ashenvale."
+    },
+    {
+     "id": 2,
+     "task": "Bring Sharptalon's Claw to Senani Thunderheart at Splintertree Post, Ashenvale."
+    },
+    {
+     "id": 23,
+     "task": "Bring Ursangous's Paw to Senani Thunderheart at Splintertree Post, Ashenvale."
+    },
+    {
+     "id": 24,
+     "task": "Bring Shadumbra's Head to Senani Thunderheart at Splintertree Post, Ashenvale."
+    },
+    {
+     "id": 247,
+     "task": "Report to Senani Thunderheart at Splintertree Post in Ashenvale that the Ashenvale hunt is complete."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "cenarius_legacy",
+   "name": "Cenarius' Legacy",
+   "zone": "Stonetalon Mountains",
+   "summary": "Braelyn Firehand gives the first quest of this chain in Stonetalon Mountains. The chain has 3 quests and ends with The Den.",
+   "quests": [
+    {
+     "id": 1087,
+     "task": "Kill 4 Sons of Cenarius, 4 Daughters of Cenarius and 4 Cenarion Botanists for Braelyn Firehand near Sun Rock Retreat."
+    },
+    {
+     "id": 1088,
+     "task": "Bring Ordanus' head to Braelyn Firehand near Sun Rock Retreat."
+    },
+    {
+     "id": 1089,
+     "task": "Travel to the Den on Stonetalon Peak. Using the Gatekeeper's Key, obtain the druids' hidden items. Use these items to open the Talon Den Hoard."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "freewind_post",
+   "name": "Message to Freewind Post",
+   "zone": "Thousand Needles",
+   "summary": "Brave Moonhorn gives the first quest of this chain in Thousand Needles. The chain has 3 quests and ends with Grimtotem Spying.",
+   "quests": [
+    {
+     "id": 4542,
+     "task": "Bring the Urgent Message to Cliffwatcher Longhorn at Freewind Post."
+    },
+    {
+     "id": 4841,
+     "task": "Kill 12 Galak Scouts, 10 Galak Wranglers, and 6 Galak Windchasers, and then return to Cliffwatcher Longhorn in Freewind Post."
+    },
+    {
+     "id": 5064,
+     "task": "Locate and retrieve the three Secret Notes in Darkcloud Pinnacle."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "alien_egg",
+   "name": "Alien Egg",
+   "zone": "Thousand Needles",
+   "summary": "Hagar Lightninghoof gives the first quest of this chain in Thousand Needles. The chain has 4 quests and ends with Arikara.",
+   "quests": [
+    {
+     "id": 4821,
+     "task": "Return the Alien Egg to Hagar Lightninghoof in Freewind Post."
+    },
+    {
+     "id": 4865,
+     "task": "Report the findings to Motega Firemane."
+    },
+    {
+     "id": 5062,
+     "task": "Gather 10 bushels of Incendia Agave, and then consult Magatha Grimtotem on Elder Rise in Thunderbluff."
+    },
+    {
+     "id": 5088,
+     "task": "Slay Arikara. Bring her remains and the Incendia powder to Motega Firemane in Whitereach Post as proof."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "corrupter",
+   "name": "The Corrupter",
+   "zone": "Desolace",
+   "summary": "An item starts this chain in Desolace. The chain has 5 quests and ends with The Corrupter.",
+   "quests": [
+    {
+     "id": 1480,
+     "task": "Bring the Flayed Demon Skin to Maurin Bonesplitter in Desolace."
+    },
+    {
+     "id": 1481,
+     "task": "Bring a Shadowstalker Scalp to Maurin Bonesplitter in Desolace."
+    },
+    {
+     "id": 1482,
+     "task": "Bring an Oracle Crystal to Maurin Bonesplitter in Desolace."
+    },
+    {
+     "id": 1484,
+     "task": "Speak to Takata Steelblade in Desolace."
+    },
+    {
+     "id": 1488,
+     "task": "Slay Lord Azrethoc and Jugkar Grim'rod and return to Takata Steelblade in Desolace."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "battle_of_hillsbrad",
+   "name": "Battle of Hillsbrad",
+   "zone": "Hillsbrad Foothills",
+   "summary": "High Executor Darthalia gives the first quest of this chain in Hillsbrad Foothills. The chain has 7 quests and ends with Battle of Hillsbrad.",
+   "quests": [
+    {
+     "id": 527,
+     "task": "Kill 6 Hillsbrad Farmhands, 6 Hillsbrad Farmers, Farmer Ray and Farmer Getz and report back to Darthalia in Tarren Mill."
+    },
+    {
+     "id": 528,
+     "task": "Kill 15 Hillsbrad Peasants and report back to Darthalia in Tarren Mill."
+    },
+    {
+     "id": 529,
+     "task": "Kill Blacksmith Verringtan and 4 Hillsbrad Apprentice Blacksmiths. Retrieve a shipment of iron and report back to Darthalia in Tarren Mill."
+    },
+    {
+     "id": 532,
+     "task": "Kill Magistrate Burnside and 5 Hillsbrad Councilmen. Destroy the Hillsbrad Proclamation. Steal the Hillsbrad Town Registry. Report back to Darthalia in Tarren Mill afterwards."
+    },
+    {
+     "id": 539,
+     "task": "Kill Foreman Bonds and 10 Hillsbrad Miners and report back to Darthalia in Tarren Mill."
+    },
+    {
+     "id": 541,
+     "task": "Travel to Dun Garok and kill 8 Mountaineers, 4 Riflemen, 2 Priests and Captain Ironhill and report back to Darthalia in Tarren Mill."
+    },
+    {
+     "id": 550,
+     "task": "Take Darthalia's Sealed Commendation to Varimathras in the Undercity."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "hillsbrad_rescue",
+   "name": "The Rescue",
+   "zone": "Hillsbrad Foothills",
+   "summary": "Krusk gives the first quest of this chain in Hillsbrad Foothills. The chain has 6 quests and ends with Taretha's Gift.",
+   "quests": [
+    {
+     "id": 498,
+     "task": "Free Drull and Tog'thar from Durnholde Keep, and return to Krusk in Tarren Mill."
+    },
+    {
+     "id": 533,
+     "task": "Retrieve information about Gol'dir's whereabouts for Krusk in Tarren Mill."
+    },
+    {
+     "id": 503,
+     "task": "Free Gol'dir then return to Krusk in Tarren Mill."
+    },
+    {
+     "id": 506,
+     "task": "Return the information gathered by Gol'dir to Krusk in Tarren Mill."
+    },
+    {
+     "id": 507,
+     "task": "Kill Lord Aliden Perenolde and ask his mistress, Elysa, about Taretha's pendant."
+    },
+    {
+     "id": 508,
+     "task": "Return Taretha's pendant to Krusk in Tarren Mill."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "elixir_of_agony",
+   "name": "Elixir of Agony",
+   "zone": "Hillsbrad Foothills",
+   "summary": "Apothecary Lydon gives the first quest of this chain in Hillsbrad Foothills. The chain has 5 quests and ends with Elixir of Agony.",
+   "quests": [
+    {
+     "id": 509,
+     "task": "Bring 6 Mudsnout Blossoms to Apothecary Lydon in Tarren Mill."
+    },
+    {
+     "id": 513,
+     "task": "Take the Mudsnout Composite to Master Apothecary Faranell in the Undercity."
+    },
+    {
+     "id": 515,
+     "task": "Bring the Mudsnout Mixture, a Strong Troll's Blood Potion, 5 Daggerspine Scales and 5 Torn Fin Eyes to Apothecary Lydon in Tarren Mill."
+    },
+    {
+     "id": 517,
+     "task": "Bring a keg of Shindigger Stout to Apothecary Lydon in Tarren Mill."
+    },
+    {
+     "id": 524,
+     "task": "Place the Tainted Keg on the rug for the captured farmers."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "swarm_grows",
+   "name": "The Swarm Grows",
+   "zone": "The Barrens",
+   "summary": "Korran gives the first quest of this chain in The Barrens. The chain has 3 quests and ends with The Swarm Grows.",
+   "quests": [
+    {
+     "id": 1145,
+     "task": "Deliver Korran's Sealed Note to Belgrom Rockmaul in Orgrimmar."
+    },
+    {
+     "id": 1146,
+     "task": "Deliver Belgrom's Sealed Note to Moktar Krin in Thousand Needles."
+    },
+    {
+     "id": 1147,
+     "task": "Kill 5 Silithid Searchers, 5 Silithid Hive Drones, and 5 Silithid Invaders and return to Moktar Krin in Thousand Needles."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "hammerfall",
+   "name": "Hammerfall",
+   "zone": "Arathi Highlands",
+   "summary": "Gor'mul gives the first quest of this chain in Arathi Highlands. The chain has 7 quests and ends with Guile of the Raptor.",
+   "quests": [
+    {
+     "id": 655,
+     "task": "Speak with Tor'gan in Hammerfall."
+    },
+    {
+     "id": 672,
+     "task": "Acquire 10 Highland Raptor Eyes from Highland Striders and Highland Thrashers for Tor'gan in Hammerfall."
+    },
+    {
+     "id": 674,
+     "task": "Give the Raptor Talon Amulet to Gor'mul."
+    },
+    {
+     "id": 675,
+     "task": "Speak with Tor'gan."
+    },
+    {
+     "id": 701,
+     "task": "Acquire 12 Raptor Hearts from Highland Fleshstalkers for Tor'gan."
+    },
+    {
+     "id": 702,
+     "task": "Give Tor'gan's Orb to Gor'mul."
+    },
+    {
+     "id": 847,
+     "task": "Speak with Tor'gan."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "lost_report",
+   "name": "The Lost Report",
+   "zone": "Dustwallow Marsh",
+   "summary": "An item starts this chain in Dustwallow Marsh. The chain has 6 quests and ends with Service to the Horde.",
+   "quests": [
+    {
+     "id": 1238,
+     "task": "Bring the Spy's Report to Nazeer Bloodpike in Brackenwall Village."
+    },
+    {
+     "id": 1239,
+     "task": "Bring the Defiant Orc Head to Nazeer Bloodpike in Brackenwall Village."
+    },
+    {
+     "id": 1240,
+     "task": "Take the Defiant Orc Head to Kin'weelay in the Grom'gol Base Camp in Stranglethorn Vale."
+    },
+    {
+     "id": 1261,
+     "task": "Bring the Jeweled Pendant to Nazeer in Brackenwall Village."
+    },
+    {
+     "id": 1262,
+     "task": "Bring the Jeweled Pendant to Zor Lonetree in Orgrimmar."
+    },
+    {
+     "id": 7541,
+     "task": "Report to Zor Lonetree in Dustwallow Marsh."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "black_shield",
+   "name": "The Black Shield",
+   "zone": "Dustwallow Marsh",
+   "summary": "An item starts this chain in Dustwallow Marsh. The chain has 5 quests and ends with The Black Shield.",
+   "quests": [
+    {
+     "id": 1251,
+     "task": "Bring the Blackened Iron Shield to Krog in Brackenwall Village."
+    },
+    {
+     "id": 1321,
+     "task": "Show the Blackened Iron Shield to Do'gol in Brackenwall Village."
+    },
+    {
+     "id": 1322,
+     "task": "Acquire 6 Acidic Venom Sacs for Do'gol in Brackenwall Village."
+    },
+    {
+     "id": 1323,
+     "task": "Talk with Krog in Brackenwall Village."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "hammer_may_fall",
+   "name": "The Hammer May Fall",
+   "zone": "Hillsbrad Foothills",
+   "summary": "Tallow gives the first quest of this chain in Hillsbrad Foothills. The chain has 5 quests and ends with The Real Threat.",
+   "quests": [
+    {
+     "id": 676,
+     "task": "Kill 8 Boulderfist Ogres and 10 Boulderfist Enforcers, then find Drum Fel in the Hammerfall outpost in Arathi Highlands."
+    },
+    {
+     "id": 677,
+     "task": "Slay 10 Witherbark Axe Throwers, 10 Headhunters and 8 Witch Doctors, and return to Drum Fel in the Hammerfall outpost."
+    },
+    {
+     "id": 678,
+     "task": "Kill 10 Boulderfist Brutes and 4 Boulderfist Magi, and return to Drum Fel in the Hammerfall outpost."
+    },
+    {
+     "id": 679,
+     "task": "Kill 7 Boulderfist Shaman and 3 Boulderfist Lords and return to Drum Fel in the Hammerfall outpost."
+    },
+    {
+     "id": 680,
+     "task": "Slay Or'Kalar and bring his Head to Korin Fel in the Hammerfall outpost."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "trollbane",
+   "name": "Trollbane",
+   "zone": "Arathi Highlands",
+   "summary": "Zengu gives the first quest of this chain in Arathi Highlands. The chain has 7 quests and ends with Trol'kalar.",
+   "quests": [
+    {
+     "id": 639,
+     "task": "Get the Sigil of Strom for Zengu in Hammerfall."
+    },
+    {
+     "id": 640,
+     "task": "Retrieve the 11 Sigil Fragments from the defenders in Stromgarde, and bring them to Tor'gan in Hammerfall."
+    },
+    {
+     "id": 641,
+     "task": "Bring the restored Sigil of Thoradin to Zengu in Hammerfall."
+    },
+    {
+     "id": 643,
+     "task": "Retrieve the Sigil of Arathor and return it to Zengu in Hammerfall."
+    },
+    {
+     "id": 644,
+     "task": "Kill Prince Galen Trollbane and bring the Sigil of Trollbane to Zengu in Hammerfall."
+    },
+    {
+     "id": 645,
+     "task": "Retrieve Trol'kalar from Trollbane's tomb in Stromgarde."
+    },
+    {
+     "id": 646,
+     "task": "Deliver Trol'kalar to Zengu in Hammerfall."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "lack_of_surplus",
+   "name": "Lack of Surplus",
+   "zone": "Swamp of Sorrows",
+   "summary": "Dar gives the first quest of this chain in Swamp of Sorrows. The chain has 6 quests and ends with Continued Threat.",
+   "quests": [
+    {
+     "id": 698,
+     "task": "Bring 8 Unprepared Sawtooth Flanks to Tok'Kar in Swamp of Sorrows."
+    },
+    {
+     "id": 699,
+     "task": "Bring 6 Sawtooth Snapper Claws to Tok'Kar in the Swamp of Sorrows."
+    },
+    {
+     "id": 1422,
+     "task": "Speak to Katar in the Swamp of Sorrows."
+    },
+    {
+     "id": 1426,
+     "task": "Kill 10 Marsh Murlocs, 10 Marsh Inkspewer, and 10 Marsh Flesheater, then return to Katar in the Swamp of Sorrows."
+    },
+    {
+     "id": 1427,
+     "task": "Speak with Tok'Kar in the Swamp of Sorrows."
+    },
+    {
+     "id": 1428,
+     "task": "Kill 10 Marsh Inkspewers, 10 Marsh Flesheaters, and 10 Marsh Oracles, then return to Katar in the Swamp of Sorrows."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "brood_of_onyxia",
+   "name": "The Brood of Onyxia",
+   "zone": "Dustwallow Marsh",
+   "summary": "Draz'Zilb gives the first quest of this chain in Dustwallow Marsh. The chain has 5 quests and ends with Challenge Overlord Mok'Morokk.",
+   "quests": [
+    {
+     "id": 1169,
+     "task": "Bring 15 Searing Tongues and 15 Searing Hearts to Draz'Zilb in Brackenwall Village."
+    },
+    {
+     "id": 1170,
+     "task": "Speak with Overlord Mok'Morokk in Brackenwall Village."
+    },
+    {
+     "id": 1171,
+     "task": "Speak with Draz'Zilb in Brackenwall Village."
+    },
+    {
+     "id": 1172,
+     "task": "Destroy 5 Eggs of Onyxia, and return to Draz'Zilb in Brackenwall Village."
+    },
+    {
+     "id": 1173,
+     "task": "Defeat Mok'Morokk and report the news to Draz'Zilb in Brackenwall Village."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "pool_of_tears",
+   "name": "Pool of Tears",
+   "zone": "Swamp of Sorrows",
+   "summary": "Fel'zerul gives the first quest of this chain in Swamp of Sorrows. The chain has 4 quests and ends with The Temple of Atal'Hakkar.",
+   "quests": [
+    {
+     "id": 1424,
+     "task": "Gather 10 Atal'ai Artifacts for Fel'zerul in Stonard."
+    },
+    {
+     "id": 1429,
+     "task": "Bring the Bundle of Atal'ai Artifacts to the Atal'ai Exile in the Hinterlands."
+    },
+    {
+     "id": 1444,
+     "task": "Return to Fel'Zerul in Stonard."
+    },
+    {
+     "id": 1445,
+     "task": "Collect 20 Fetishes of Hakkar and bring them to Fel'Zerul in Stonard."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "new_cloak",
+   "name": "A New Cloak's Sheen",
+   "zone": "Feralas",
+   "summary": "Krueg Skullsplitter gives the first quest of this chain in Feralas. The chain has 3 quests and ends with A Grim Discovery.",
+   "quests": [
+    {
+     "id": 2973,
+     "task": "Bring 10 Iridescent Sprite Darter Wings to Krueg Skullsplitter in Camp Mojache."
+    },
+    {
+     "id": 2974,
+     "task": "Bring 20 Grimtotem Horns to Krueg Skullsplitter in Camp Mojache."
+    },
+    {
+     "id": 2976,
+     "task": "Bring the Crate of Grimtotem Horns to Belgrom Rockmaul in Orgrimmar."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "ogres_of_feralas",
+   "name": "The Ogres of Feralas",
+   "zone": "Feralas",
+   "summary": "Belgrom Rockmaul gives the first quest of this chain in Feralas. The chain has 3 quests and ends with The Ogres of Feralas.",
+   "quests": [
+    {
+     "id": 2981,
+     "task": "Speak with Rok Orhan in Camp Mojache."
+    },
+    {
+     "id": 2975,
+     "task": "Kill 10 Gordunni Ogres, 10 Gordunni Ogre-Magi and 5 Gordunni Brutes for Rok Orhan in Camp Mojache."
+    },
+    {
+     "id": 2980,
+     "task": "Kill 10 Gordunni Shaman, 10 Gordunni Warlocks and 5 Gordunni Maulers for Rok Orhan in Camp Mojache."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "gordunni",
+   "name": "The Gordunni Scroll",
+   "zone": "Feralas",
+   "summary": "An item starts this chain in Feralas. The chain has 3 quests and ends with The Gordunni Orb.",
+   "quests": [
+    {
+     "id": 2978,
+     "task": "Bring the Gordunni Scroll to Rok Orhan in Camp Mojache."
+    },
+    {
+     "id": 2979,
+     "task": "Find a Gordunni Orb for Rok Orhan in Camp Mojache."
+    },
+    {
+     "id": 3002,
+     "task": "Bring the Gordunni Orb to Uthel'nay in the Darkbriar Lodge in Orgrimmar."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "woodpaw",
+   "name": "War on the Woodpaw",
+   "zone": "Feralas",
+   "summary": "Hadoken Swiftstrider gives the first quest of this chain in Feralas. The chain has 7 quests and ends with Zukk'ash Report.",
+   "quests": [
+    {
+     "id": 2862,
+     "task": "Bring 10 Woodpaw Gnoll Manes to Hadoken Swiftstrider in Camp Mojache."
+    },
+    {
+     "id": 2863,
+     "task": "Kill 5 Woodpaw Alphas and return to Hadoken Swiftstrider within one hour."
+    },
+    {
+     "id": 2902,
+     "task": "Find the gnoll battle plans somewhere in the gnoll camps to the south of Camp Mojache."
+    },
+    {
+     "id": 2903,
+     "task": "Bring the Woodpaw Battle Plans to Hadoken Swiftstrider in Camp Mojache."
+    },
+    {
+     "id": 7730,
+     "task": "Bring 20 Zukk'ash Carapaces to Hadoken Swiftstrider at Camp Mojache, Feralas."
+    },
+    {
+     "id": 7731,
+     "task": "Defeat Stinglasher in the Writhing Deep, bringing its glands back to Hadoken Swiftstrider at Camp Mojache, Feralas."
+    },
+    {
+     "id": 7732,
+     "task": "Deliver the Camp Mojache Zukk'ash Report to Zilzibin Drumlore. He resides in the Drag of Orgrimmar."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "strange_request",
+   "name": "A Strange Request",
+   "zone": "Feralas",
+   "summary": "Witch Doctor Uzer'i gives the first quest of this chain in Feralas. The chain has 9 quests and ends with Weapons of Spirit.",
+   "quests": [
+    {
+     "id": 3121,
+     "task": "Take the Shrunken Head to Neeru Fireblade in Orgrimmar."
+    },
+    {
+     "id": 3122,
+     "task": "Deliver Neeru's Herb Pouch to Witch Doctor Uzer'i in Feralas."
+    },
+    {
+     "id": 3123,
+     "task": "Kill 10 Wildkin in the Hinterlands and capture them with the Muisek Vessel. Bring 10 Wildkin Muiseks and the Muisek Vessel to Witch Doctor Uzer'i in Feralas."
+    },
+    {
+     "id": 3124,
+     "task": "Kill 10 Frayfeather Hippogryphs of any type, then use the Muisek Vessel to shrink and capture them."
+    },
+    {
+     "id": 3125,
+     "task": "Kill 8 Sprite Darters or Sprite Dragons. Use the Muisek Vessel to shrink and capture the fallen Faerie Dragons."
+    },
+    {
+     "id": 3126,
+     "task": "Kill 3 Wandering Forest Walkers. Use the Muisek Vessel to shrink and capture the fallen Treants."
+    },
+    {
+     "id": 3127,
+     "task": "Kill 7 Land Walkers or Cliff Giants. Use the Muisek Vessel to shrink and capture the fallen Mountain Giants."
+    },
+    {
+     "id": 3128,
+     "task": "Bring 2 Splintered Logs, 6 Encrusted Minerals, 20 pieces of Resilient Sinew and 40 Metallic Fragments to Witch Doctor Uzer'i in Camp Mojache."
+    },
+    {
+     "id": 3129,
+     "task": "Witch Doctor Uzer'i prepares the weapons. Wait for him in Camp Mojache."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "venom_bottles",
+   "name": "Venom Bottles",
+   "zone": "The Hinterlands",
+   "summary": "An item starts this chain in The Hinterlands. The chain has 6 quests and ends with Venom to the Undercity.",
+   "quests": [
+    {
+     "id": 2933,
+     "task": "Bring a Venom Bottle to an apothecary in Tarren Mill."
+    },
+    {
+     "id": 2934,
+     "task": "Bring an Undamaged Venom Sac to Apothecary Lydon in Tarren Mill."
+    },
+    {
+     "id": 2935,
+     "task": "Speak with Master Gadrin in Sen'jin Village."
+    },
+    {
+     "id": 2936,
+     "task": "Read from the Tablet of Theka to learn the name of the Witherbark spider god, then return to Master Gadrin."
+    },
+    {
+     "id": 2937,
+     "task": "Defeat Shadra at the altar of Shadra'Alor, then bring her venom to Apothecary Lydon in Tarren Mill."
+    },
+    {
+     "id": 2938,
+     "task": "Bring Faranell's Parcel to Master Apothecary Faranell in the Undercity."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "ripple",
+   "name": "Ripple Recovery",
+   "zone": "The Hinterlands",
+   "summary": "Dran Droffers gives the first quest of this chain in The Hinterlands. The chain has 4 quests and ends with Ripple Delivery.",
+   "quests": [
+    {
+     "id": 649,
+     "task": "Talk to Malton Droffers in Orgrimmar."
+    },
+    {
+     "id": 650,
+     "task": "Talk to Gilveradin Sunchaser; his camp is located in the Hinterlands."
+    },
+    {
+     "id": 77,
+     "task": "Recover 10 bottles of Hinterlands Honey Ripple from the crates located around the abandoned Horde base in Skulk Rock."
+    },
+    {
+     "id": 81,
+     "task": "Deliver the barrel to Dran Droffers in Orgrimmar."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "rinji",
+   "name": "Rin'ji is Trapped!",
+   "zone": "The Hinterlands",
+   "summary": "Rin'ji gives the first quest of this chain in The Hinterlands. The chain has 3 quests and ends with Oran's Gratitude.",
+   "quests": [
+    {
+     "id": 2742,
+     "task": "Escort Rin'ji out of the Quel'Danil Lodge, then find his hidden secret at the Overlook Cliffs to the east."
+    },
+    {
+     "id": 2782,
+     "task": "Oran Snakewrithe, a well known scholar on matters concerning the Witherbark trolls, may be able to decipher the tablet. She is known to reside within the Magic Quarter of the Undercity."
+    },
+    {
+     "id": 8273,
+     "task": "Report to Oran at Revantusk Village in the Hinterlands."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "wildhammer_messages",
+   "name": "Message to the Wildhammer",
+   "zone": "The Hinterlands",
+   "summary": "Otho Moji'ko gives the first quest of this chain in The Hinterlands. The chain has 3 quests and ends with The Final Message to the Wildhammer.",
+   "quests": [
+    {
+     "id": 7841,
+     "task": "Kill 15 Highvale Outrunners, 15 Highvale Scouts, 15 Highvale Marksmen and 15 Highvale Rangers at the Quel'Danil Lodge. Return to Otho Moji'ko at Revantusk Village."
+    },
+    {
+     "id": 7842,
+     "task": "Bring 10 Long Elegant Feathers from the gryphons of the Hinterlands to Otho Moji'ko at Revantusk Village."
+    },
+    {
+     "id": 7843,
+     "task": "Place the Final Message to the Wildhammer by the well in the center of Aerie Peak, then return to Otho Moji'ko at Revantusk Village."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "torntusk",
+   "name": "Kidnapped Elder Torntusk!",
+   "zone": "The Hinterlands",
+   "summary": "Primal Torntusk gives the first quest of this chain in The Hinterlands. The chain has 3 quests and ends with Return to Primal Torntusk.",
+   "quests": [
+    {
+     "id": 7845,
+     "task": "Rescue Elder Torntusk from Jintha'alor for Primal Torntusk at Revantusk Village."
+    },
+    {
+     "id": 7846,
+     "task": "Kill Hitah'ya the Keeper to get the Shackle Key. Return to Elder Torntusk at Jintha'alor."
+    },
+    {
+     "id": 7847,
+     "task": "Return to Primal Torntusk at Revantusk Village with the news of the rescue."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "fall_from_grace",
+   "name": "Fall From Grace",
+   "zone": "Blasted Lands",
+   "summary": "Fallen Hero of the Horde gives the first quest of this chain in Blasted Lands. The chain has 4 quests and ends with The Swamp Talker.",
+   "quests": [
+    {
+     "id": 2784,
+     "task": "Listen to the Fallen Hero of the Horde tell his story."
+    },
+    {
+     "id": 2621,
+     "task": "Speak to Dispatch Commander Ruag in Stonard."
+    },
+    {
+     "id": 2622,
+     "task": "Speak to Bengor."
+    },
+    {
+     "id": 2623,
+     "task": "Retrieve the Warchief's Orders and return them to the Fallen Hero of the Horde."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "stealing_knowledge",
+   "name": "Stealing Knowledge",
+   "zone": "Azshara",
+   "summary": "Jediga gives the first quest of this chain in Azshara. The chain has 9 quests and ends with Xylem's Payment to Jediga.",
+   "quests": [
+    {
+     "id": 3517,
+     "task": "Find the Tablet of Beth'Amara, the Tablet of Jin'yael, the Tablet of Markri, and the Tablet of Sael'hai before returning to Jediga in Azshara."
+    },
+    {
+     "id": 3518,
+     "task": "Bring the Tablet of Beth'Amara to Magatha in Thunder Bluff."
+    },
+    {
+     "id": 3562,
+     "task": "Deliver Magatha's Note to Jediga in Azshara."
+    },
+    {
+     "id": 3541,
+     "task": "Bring the Tablet of Jin'yael to Jes'rimon in Orgrimmar."
+    },
+    {
+     "id": 3563,
+     "task": "Deliver Jes'rimon's Note to Jediga in Azshara."
+    },
+    {
+     "id": 3542,
+     "task": "Bring the Tablet of Markri to Andron Gant in Undercity."
+    },
+    {
+     "id": 3564,
+     "task": "Deliver Andron's Note to Jediga in Azshara."
+    },
+    {
+     "id": 3561,
+     "task": "Bring the Tablet of Sael'hai to Archmage Xylem in Azshara."
+    },
+    {
+     "id": 3565,
+     "task": "Deliver Xylem's Note to Jediga in Azshara."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "marvons_workshop",
+   "name": "Larion and Muigin",
+   "zone": "Un'Goro Crater",
+   "summary": "Larion gives the first quest of this chain in Un'Goro Crater. The chain has 4 quests and ends with Bloodpetal Zapper.",
+   "quests": [
+    {
+     "id": 4145,
+     "task": "Hunt 5 Bloodpetal Lashers, 5 Bloodpetal Threshers, 5 Bloodpetal Flayers and 5 Bloodpetal Trappers for Larion at Marshal's Refuge."
+    },
+    {
+     "id": 4147,
+     "task": "Travel to Marvon Rivetseeker's workshop in Ratchet."
+    },
+    {
+     "id": 4146,
+     "task": "Deliver the Unloaded Zapper and 5 samples of Atal'ai Haze to Larion in Marshal's Refuge."
+    },
+    {
+     "id": 4148,
+     "task": "Bring the Bloodpetal Zapper to Larion in Un'Goro Crater."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "strange_one",
+   "name": "A Strange One",
+   "zone": "Felwood",
+   "summary": "Harlo Wigglesworth gives the first quest of this chain in Felwood. The chain has 3 quests and ends with Corrupted Sabers.",
+   "quests": [
+    {
+     "id": 6605,
+     "task": "Speak with Winna Hazzard in Felwood."
+    },
+    {
+     "id": 4505,
+     "task": "Collect a sample of corrupted water from the Jadefire Satyrs' moonwell and bring it to Winna Hazzard at Bloodvenom Post."
+    },
+    {
+     "id": 4506,
+     "task": "Take Winna's kitten to the corrupted moonwell, release it, and bring it back to Winna Hazzard."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "wild_guardians",
+   "name": "Wild Guardians",
+   "zone": "Felwood",
+   "summary": "Trull Failbane gives the first quest of this chain in Felwood. The chain has 3 quests and ends with Wild Guardians.",
+   "quests": [
+    {
+     "id": 4521,
+     "task": "Kill 15 Raging Owlbeasts and 15 Ragged Owlbeasts for Trull Failbane in Felwood."
+    },
+    {
+     "id": 4741,
+     "task": "Hunt 13 Moontouched Owlbeasts for Trull Failbane in Felwood."
+    },
+    {
+     "id": 4721,
+     "task": "Hunt 10 Berserk Owlbeasts in Winterspring for Trull Failbane."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "shardtooth",
+   "name": "Ursius of the Shardtooth",
+   "zone": "Winterspring",
+   "summary": "Storm Shadowhoof gives the first quest of this chain in Winterspring. The chain has 3 quests and ends with Shy-Rotam.",
+   "quests": [
+    {
+     "id": 5054,
+     "task": "Kill Ursius for Storm Shadowhoof at Everlook in Winterspring."
+    },
+    {
+     "id": 5055,
+     "task": "Kill Brumeran for Storm Shadowhoof at Everlook in Winterspring."
+    },
+    {
+     "id": 5056,
+     "task": "Defeat Shy-Rotam for Storm Shadowhoof at Everlook in Winterspring."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "plaguelands",
+   "name": "A Call to Arms: The Plaguelands!",
+   "zone": "Western Plaguelands",
+   "summary": "Warcaller Gorlach gives the first quest of this chain in Western Plaguelands. The chain has 10 quests and ends with Target: Writhing Haunt.",
+   "quests": [
+    {
+     "id": 5093,
+     "task": "Seek out High Executor Derrington. His base camp is located at the Bulwark, east of Tirisfal Glade and the Undercity."
+    },
+    {
+     "id": 5096,
+     "task": "Proceed to the Scarlet Crusade's base camp between Felstone Field and Dalson's Tears and destroy their command tent. Place the Scourge banner at the camp, and then return to High Executor Derrington at the Bulwark, Western Plaguelands."
+    },
+    {
+     "id": 5098,
+     "task": "Mark each of the 4 towers in Andorhal with the Beacon Torch from the doorway of the tower. Return the Beacon Torch to High Executor Derrington at the Bulwark."
+    },
+    {
+     "id": 105,
+     "task": "Bring Araj's Phylactery Shard to High Executor Derrington at the Bulwark, Western Plaguelands."
+    },
+    {
+     "id": 5228,
+     "task": "Speak with Shadow Priestess Vandis at the Bulwark, Western Plaguelands."
+    },
+    {
+     "id": 5229,
+     "task": "Defeat the Cauldron Lord at Felstone Field in Western Plaguelands and take a poison sample from the cauldron with the Empty Felstone Field Bottle."
+    },
+    {
+     "id": 5230,
+     "task": "Bring the Filled Felstone Field Bottle to Shadow Priestess Vandis at the Bulwark, Western Plaguelands."
+    },
+    {
+     "id": 5231,
+     "task": "Defeat the Cauldron Lord at Dalson's Tears in Western Plaguelands and take a poison sample from the cauldron with the Empty Dalson's Tears Bottle."
+    },
+    {
+     "id": 5232,
+     "task": "Bring the Filled Dalson's Tears Bottle to Shadow Priestess Vandis at the Bulwark, Western Plaguelands."
+    },
+    {
+     "id": 5233,
+     "task": "Defeat the Cauldron Lord at the Writhing Haunt in Western Plaguelands and take a poison sample from the cauldron with the Empty Writhing Haunt Bottle."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "ranger_lord",
+   "name": "The Ranger Lord's Behest",
+   "zone": "Eastern Plaguelands",
+   "summary": "Lady Sylvanas Windrunner gives the first quest of this chain in Undercity. The chain has 6 quests and ends with Duskwing, Oh How I Hate Thee...",
+   "quests": [
+    {
+     "id": 5961,
+     "task": "Speak with Nathanos Blightcaller in the Eastern Plaguelands, at the Marris Stead."
+    },
+    {
+     "id": 6133,
+     "task": "Recover the Quel'Thalas Registry from the Quel'Lithien Lodge in the northern Eastern Plaguelands, and slay 8 Rangers, 8 Pathstriders and 8 Woodsmen."
+    },
+    {
+     "id": 6022,
+     "task": "Travel to Corin's Crossing to the east and slaughter the Scourge that inhabit the town. Collect 7 pieces of Living Rot in under 10 minutes. Use the Mortar and Pestle to grind the Living Rot into Coagulated Rot."
+    },
+    {
+     "id": 6042,
+     "task": "Slay 20 Noxious Plaguebats and 10 Monstrous Plaguebats, then return to Nathanos Blightcaller."
+    },
+    {
+     "id": 6136,
+     "task": "Find Borelgore in the northern wastes of Eastern Plaguelands and destroy him. Return to Nathanos Blightcaller when the mission is complete."
+    },
+    {
+     "id": 6135,
+     "task": "Find Duskwing and slay him. From the corpse, recover a Patch of Duskwing's Fur and return it to Nathanos Blightcaller. It is said that Duskwing roams the countryside to the north of Marris Stead."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "nathanos",
+   "name": "The Call to Command",
+   "zone": "Eastern Plaguelands",
+   "summary": "Nathanos Blightcaller gives the first quest of this chain in Eastern Plaguelands. The chain has 5 quests and ends with The Scarlet Oracle, Demetria.",
+   "quests": [
+    {
+     "id": 6144,
+     "task": "Travel to the Undercity and speak with Varimathras."
+    },
+    {
+     "id": 6145,
+     "task": "Return to Eastern Plaguelands and track down the Crimson Courier. Kill the Courier and recover the Grand Crusader's Command. Take the command to Nathanos Blightcaller for further instruction."
+    },
+    {
+     "id": 6146,
+     "task": "Travel to Tyr's Hand, southeast of the Marris Stead. Once there, take a bite of the Rotten Apple. While under the guise of the Scarlet Crusade, deliver the Grand Crusader's Command to Crusader Lord Valdelmar."
+    },
+    {
+     "id": 6147,
+     "task": "Return to Nathanos Blightcaller with the new information."
+    },
+    {
+     "id": 6148,
+     "task": "Find and slay the Scarlet Oracle, Demetria, on the road from Tyr's Hand to Stratholme. Return to Nathanos Blightcaller."
+    }
+   ],
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  }
+ ]
+}

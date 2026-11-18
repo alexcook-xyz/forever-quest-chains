@@ -1,0 +1,72 @@
+{
+  "saga": "Neutral",
+  "file": "Neutral",
+  "chainsOnly": true,
+  "comment": "Neutral MAIN chains (issue #19): Tirion Fordring, Pamela Redpath and Linken. No quest is limited to a race, so both factions see each chain (chain race 'Neutral'). Chains only: no saga route holds them. Every name, level, giver and point comes from the facts.",
+  "chains": [
+    {
+      "id": "tirion_fordring",
+      "name": "Tirion Fordring",
+      "zone": "Eastern Plaguelands",
+      "summary": "Tirion Fordring in the Eastern Plaguelands gives three tasks, then the trail runs on to Artist Renfray, Myranda the Hag and Highlord Taelan Fordring.",
+      "quests": [
+        { "id": 5542 },
+        { "id": 5543 },
+        { "id": 5544 },
+        { "id": 5742 },
+        { "id": 5781 },
+        { "id": 5845 },
+        { "id": 5846 },
+        { "id": 5848 },
+        { "id": 5861 },
+        { "id": 5862 },
+        { "id": 5944 }
+      ]
+    },
+    {
+      "id": "pamela_redpath",
+      "name": "Pamela Redpath",
+      "zone": "Eastern Plaguelands",
+      "summary": "Marlene Redpath or Jessica Redpath starts the search for Pamela Redpath in the Eastern Plaguelands. The trail runs through Chromie and Carlin Redpath to the battle of Darrowshire.",
+      "quests": [
+        { "id": 5142, "exclusiveWith": [5601] },
+        { "id": 5601, "exclusiveWith": [5142] },
+        { "id": 5149 },
+        { "id": 5152 },
+        { "id": 5153 },
+        { "id": 5154 },
+        { "id": 5210 },
+        { "id": 5168 },
+        { "id": 5181 },
+        { "id": 5206 },
+        { "id": 5941 },
+        { "id": 5721 },
+        { "id": 5942 },
+        { "id": 5241 },
+        { "id": 5211 }
+      ]
+    },
+    {
+      "id": "linken",
+      "name": "Linken",
+      "zone": "Un'Goro Crater",
+      "summary": "A wrecked raft and a small pack in Un'Goro Crater start the trail. It runs through Linken, Donova Snowden, Gaeriyan, J.D. Collie and Eridan Bluewind and ends with Linken at Marshal's Refuge.",
+      "quests": [
+        { "id": 3844 },
+        { "id": 3845 },
+        { "id": 3908 },
+        { "id": 3909 },
+        { "id": 3912 },
+        { "id": 3913 },
+        { "id": 3914 },
+        { "id": 3941 },
+        { "id": 3942 },
+        { "id": 4084 },
+        { "id": 4005 },
+        { "id": 3961 },
+        { "id": 3962 }
+      ]
+    }
+  ],
+  "route": []
+}

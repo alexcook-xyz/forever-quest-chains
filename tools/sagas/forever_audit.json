@@ -1,0 +1,69 @@
+{
+ "comment": "Forever-exclusive audit (issue #21). foreverIds = quests on the PandaBase zone map page that the pinned QuestieDB lacks. Each one is in a MAIN chain, in tools/sagas/side_zones.json, or here with a reason. Refresh the IDs with: python tools/audit_forever.py fetch. Check: python tools/audit_forever.py check.",
+ "zones": {
+  "Burning Steppes": {
+   "page": "eastern-kingdoms/burning-steppes",
+   "foreverIds": [
+    81953,
+    84396
+   ]
+  },
+  "Dustwallow Marsh": {
+   "page": "kalimdor/dustwallow-marsh",
+   "foreverIds": [
+    79952,
+    81570,
+    81765,
+    95196,
+    95198,
+    95262,
+    95264,
+    95284,
+    95285,
+    95309,
+    96332,
+    96334,
+    96381,
+    98192,
+    98205,
+    98215,
+    98231,
+    98233
+   ]
+  },
+  "Winterspring": {
+   "page": "kalimdor/winterspring",
+   "foreverIds": [
+    84399,
+    92009,
+    92859,
+    93269,
+    93406,
+    97490,
+    98462
+   ]
+  }
+ },
+ "excluded": [
+  {
+   "id": 81953,
+   "reason": "Stonewrought Design starts with Owen Thadd in Undercity (PandaBase). It is not a Burning Steppes quest by its giver; it belongs to a future Undercity catalogue."
+  },
+  {
+   "id": 79952,
+   "reason": "RwlRwlRwlRwl! starts with Owen Thadd in Undercity (PandaBase). It is not a Dustwallow Marsh quest by its giver; it belongs to a future Undercity catalogue."
+  },
+  {
+   "id": 84396,
+   "reason": "Magma or Lava? starts with Jennea Cannon in Stormwind City (PandaBase). It belongs to a future Stormwind City catalogue."
+  },
+  {
+   "id": 84399,
+   "reason": "Ka-Boom! starts with Jennea Cannon in Stormwind City (PandaBase). It belongs to a future Stormwind City catalogue."
+  },
+  {
+   "id": 81765,
+   "reason": "Elrick, Paladin of the Silver Hand is a Paladin class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_HordeSpine.lua",
+ "manual": [
+  {
+   "giver": "Sharptalon's Claw",
+   "id": 2,
+   "name": "Sharptalon's Claw",
+   "what": "giver point"
+  },
+  {
+   "giver": "Ursangous's Paw",
+   "id": 23,
+   "name": "Ursangous's Paw",
+   "what": "giver point"
+  },
+  {
+   "giver": "Shadumbra's Head",
+   "id": 24,
+   "name": "Shadumbra's Head",
+   "what": "giver point"
+  },
+  {
+   "giver": "Gol'dir",
+   "id": 506,
+   "name": "Blackmoore's Legacy",
+   "what": "giver point"
+  },
+  {
+   "giver": "Elysa",
+   "id": 508,
+   "name": "Taretha's Gift",
+   "what": "giver point"
+  },
+  {
+   "giver": "Flayed Demon Skin",
+   "id": 1480,
+   "name": "The Corrupter",
+   "what": "giver point"
+  },
+  {
+   "giver": "Gordunni Scroll",
+   "id": 2978,
+   "name": "The Gordunni Scroll",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Orc"
+}

@@ -1,0 +1,425 @@
+{
+ "saga": "Dwarf",
+ "comment": "Chains the Dwarf saga owns. Gnomes walk them too (Shared_Alliance.lua). Text only; every name, level and point comes from the facts.",
+ "chains": [
+  {
+   "id": "coldridge",
+   "name": "Trouble in Coldridge Valley",
+   "zone": "Dun Morogh",
+   "summary": "Trouble stirs in Coldridge Valley in Dun Morogh, where Sten Stoutarm calls for provisions and Balir Frosthammer faces a new threat from the Rockjaw Troggs.",
+   "quests": [
+    {
+     "id": 179,
+     "task": "Hunt wolves in Coldridge Valley for 8 Tough Wolf Meat, then return to Sten Stoutarm."
+    },
+    {
+     "id": 170,
+     "task": "Kill 6 Rockjaw Troggs and 6 Burly Rockjaw Troggs in Coldridge Valley, then return to Balir Frosthammer."
+    },
+    {
+     "id": 233,
+     "task": "Take the stack of letters from Sten Stoutarm and deliver it to Talin Keeneye."
+    },
+    {
+     "id": 234,
+     "task": "Take the letter from Talin Keeneye and deliver it to Grelin Whitebeard."
+    },
+    {
+     "id": 182,
+     "task": "Kill 14 Frostmane Troll Whelps in the troll cave, then return to Grelin Whitebeard."
+    },
+    {
+     "id": 218,
+     "task": "Kill Grik'nir the Cold, take his journal, and bring it to Grelin Whitebeard."
+    },
+    {
+     "id": 282,
+     "task": "Leave Grelin Whitebeard and speak with Mountaineer Thalos."
+    },
+    {
+     "id": 420,
+     "kind": "lead",
+     "task": "Carry Grelin's report from Mountaineer Thalos to Senir Whitebeard in Kharanos."
+    }
+   ],
+   "walkers": [
+    "Dwarf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "frostmane",
+   "name": "The Frostmane Hold",
+   "zone": "Dun Morogh",
+   "summary": "Senir Whitebeard in Kharanos sends work to Frostmane Hold and the mountain posts of Dun Morogh, and his report goes on to Ironforge.",
+   "quests": [
+    {
+     "id": 287,
+     "task": "Explore Frostmane Hold and kill 5 Frostmane Headhunters, then return to Senir Whitebeard in Kharanos."
+    },
+    {
+     "id": 98322,
+     "task": "Leave Kharanos and head west to check in on Mountaineer Gretchen."
+    },
+    {
+     "id": 98319,
+     "task": "Find Mountaineer Cornelius in the Grizzled Den, then return to Mountaineer Gretchen west of Kharanos."
+    },
+    {
+     "id": 98323,
+     "task": "Take Mountaineer Gretchen's Report back to Senir Whitebeard in Kharanos."
+    },
+    {
+     "id": 291,
+     "task": "Carry Senir's report from Kharanos to Senator Barin Redstone in Ironforge."
+    }
+   ],
+   "walkers": [
+    "Dwarf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "kings_lands",
+   "name": "In Defense of the King's Lands",
+   "zone": "Loch Modan",
+   "summary": "Mountaineers and Captain Rugelfuss of the southern guard tower in Loch Modan call for the Stonesplinter troggs to be thinned, rank by rank.",
+   "quests": [
+    {
+     "id": 224,
+     "task": "Speak to Mountaineer Cobbleflint at the southern guard tower in Loch Modan. Kill 10 Stonesplinter Troggs and 10 Stonesplinter Scouts, then return to him."
+    },
+    {
+     "id": 267,
+     "task": "Collect 8 Trogg Stone Teeth and bring them to Captain Rugelfuss in the southern guard tower in Loch Modan."
+    },
+    {
+     "id": 237,
+     "task": "Find Mountaineer Gravelgaw in the southern guard tower. Kill 10 Stonesplinter Skullthumpers and 10 Stonesplinter Seers, then report back to him."
+    },
+    {
+     "id": 263,
+     "task": "Speak to Mountaineer Wallbang in the southern guard tower. Kill 10 Stonesplinter Shaman and 10 Stonesplinter Bonesnappers, then return to him."
+    },
+    {
+     "id": 217,
+     "task": "Kill the trogg leader Grawmug and his guards Gnasher and Brawler, then report to Captain Rugelfuss in the southern guard tower."
+    }
+   ],
+   "walkers": [
+    "Dwarf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "excavation",
+   "name": "Ironband's Excavation",
+   "zone": "Loch Modan",
+   "summary": "Prospector Ironband's excavation in Loch Modan depends on a report carried to Ironforge and a shipment brought to the dig.",
+   "quests": [
+    {
+     "id": 298,
+     "task": "Carry Ironband's Progress Report from Prospector Ironband to Jern Hornhelm in Thelsamar."
+    },
+    {
+     "id": 301,
+     "task": "Take Ironband's Progress Report from Jern Hornhelm in Thelsamar to Prospector Stormpike in Ironforge."
+    },
+    {
+     "id": 302,
+     "task": "Leave Prospector Stormpike in Ironforge and speak with Jern Hornhelm in Thelsamar."
+    },
+    {
+     "id": 273,
+     "task": "Take the request from Jern Hornhelm in Thelsamar and speak with Huldar in Loch Modan."
+    },
+    {
+     "id": 454,
+     "task": "Leave Huldar and speak with Miran in Loch Modan."
+    },
+    {
+     "id": 309,
+     "task": "Escort Miran and the shipment safely to the excavation site, then report to Prospector Ironband."
+    },
+    {
+     "id": 436,
+     "task": "Take the task from Jern Hornhelm in Thelsamar and speak with Magmar Fellhew, Explorer Fellhew, in Loch Modan."
+    },
+    {
+     "id": 297,
+     "task": "Gather 8 Carved Stone Idols and bring them to Magmar Fellhew in Loch Modan."
+    }
+   ],
+   "walkers": [
+    "Dwarf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dark_threat",
+   "name": "A Dark Threat Looms",
+   "zone": "Loch Modan",
+   "summary": "Chief Engineer Hinderweir VII seeks to learn what the Dark Iron Dwarves are up to in Loch Modan. A clue near the eastern ramp of the Dam is the first thread to follow.",
+   "quests": [
+    {
+     "id": 250,
+     "task": "Search near the eastern ramp of the Dam in Loch Modan for a clue, and find the Suspicious Barrel."
+    },
+    {
+     "id": 199,
+     "task": "Take the clue from the Suspicious Barrel back to Chief Engineer Hinderweir VII in Loch Modan."
+    },
+    {
+     "id": 161,
+     "task": "Carry the strange smelling powder to Ashlan Stonesmirk, the explosives expert in Dun Modr in the Wetlands."
+    },
+    {
+     "id": 274,
+     "task": "Return to Chief Engineer Hinderweir VII in Loch Modan and report Ashlan Stonesmirk's discovery."
+    },
+    {
+     "id": 278,
+     "task": "Gather Lurker Venom, a Mo'grosh Crystal, and a Crocolisk Tear, then bring them to Chief Engineer Hinderweir VII in Loch Modan."
+    },
+    {
+     "id": 280,
+     "task": "Swim down to the base of the dam in Loch Modan, locate the powder keg, and stir in the Disarming Mixture."
+    },
+    {
+     "id": 283,
+     "task": "Return to Chief Engineer Hinderweir VII in Loch Modan and report that the Disarming Mixture seemed to take effect."
+    }
+   ],
+   "walkers": [
+    "Dwarf",
+    "Gnome"
+   ]
+  }
+ ],
+ "routeExternal": [
+  2928,
+  2923,
+  2922,
+  2927,
+  2926,
+  2962,
+  2924,
+  2930,
+  2929,
+  65,
+  132,
+  135,
+  141,
+  142,
+  244,
+  20,
+  34,
+  125,
+  89,
+  91,
+  155,
+  166,
+  373,
+  377,
+  386,
+  387,
+  388,
+  389,
+  391,
+  66,
+  67,
+  68,
+  69,
+  70,
+  72,
+  74,
+  75,
+  78,
+  79,
+  80,
+  97,
+  98,
+  56,
+  57,
+  58,
+  95,
+  230,
+  262,
+  265,
+  266,
+  453,
+  268,
+  323,
+  269,
+  270,
+  321,
+  324,
+  322,
+  325,
+  55,
+  1274,
+  1241,
+  1242,
+  1243,
+  1244,
+  1245,
+  1246,
+  1447,
+  1247,
+  1248,
+  1249,
+  1250,
+  1264,
+  1265,
+  1266,
+  1324,
+  1267,
+  4182,
+  4183,
+  4184,
+  4185,
+  4186,
+  4223,
+  4224,
+  4241,
+  4242,
+  4264,
+  4282,
+  4322,
+  6402,
+  6403,
+  6501,
+  6502
+ ],
+ "route": [
+  179,
+  170,
+  233,
+  234,
+  182,
+  218,
+  282,
+  420,
+  287,
+  98322,
+  98319,
+  98323,
+  291,
+  224,
+  298,
+  301,
+  302,
+  267,
+  237,
+  263,
+  273,
+  454,
+  309,
+  217,
+  436,
+  297,
+  250,
+  199,
+  161,
+  274,
+  278,
+  280,
+  283,
+  65,
+  132,
+  135,
+  141,
+  142,
+  244,
+  20,
+  34,
+  125,
+  89,
+  91,
+  155,
+  166,
+  373,
+  377,
+  386,
+  387,
+  388,
+  389,
+  391,
+  2928,
+  2923,
+  2922,
+  2927,
+  2926,
+  2962,
+  2924,
+  2930,
+  2929,
+  66,
+  67,
+  68,
+  69,
+  70,
+  72,
+  74,
+  75,
+  78,
+  79,
+  80,
+  97,
+  98,
+  56,
+  57,
+  58,
+  95,
+  230,
+  262,
+  265,
+  266,
+  453,
+  268,
+  323,
+  269,
+  270,
+  321,
+  324,
+  322,
+  325,
+  55,
+  1274,
+  1241,
+  1242,
+  1243,
+  1244,
+  1245,
+  1246,
+  1447,
+  1247,
+  1248,
+  1249,
+  1250,
+  1264,
+  1265,
+  1266,
+  1324,
+  1267,
+  4182,
+  4183,
+  4184,
+  4185,
+  4186,
+  4223,
+  4224,
+  4241,
+  4242,
+  4264,
+  4282,
+  4322,
+  6402,
+  6403,
+  6501,
+  6502
+ ],
+ "routeTasks": {
+  "65": "Leave Loch Modan for Westfall and find Gryan Stoutmantle in the stone tower on Sentinel Hill. Begin his investigation: seek the contact who owes him a favor and can speak of the Brotherhood's leadership."
+ }
+}

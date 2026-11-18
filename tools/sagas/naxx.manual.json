@@ -1,0 +1,33 @@
+{
+ "classGated": [
+  9234,
+  9235,
+  9236,
+  9238,
+  9239,
+  9240,
+  9241,
+  9242,
+  9243,
+  9244,
+  9245,
+  9246
+ ],
+ "data": "MainStoryGuide/Data_Naxx.lua",
+ "manual": [
+  {
+   "giver": "The Phylactery of Kel'Thuzad",
+   "id": 9120,
+   "name": "The Fall of Kel'Thuzad",
+   "what": "giver point"
+  },
+  {
+   "giver": "Omarion's Handbook",
+   "id": 9233,
+   "name": "Omarion's Handbook",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Neutral"
+}

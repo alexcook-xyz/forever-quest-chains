@@ -1,0 +1,1088 @@
+{
+ "comment": "Investigated Questie/PandaBase mismatches for the Dwarf and Gnome sagas (issue #13), the Night Elf saga (issue #14), The Missing Diplomat (issue #38) the Tauren saga (issue #17) and the Forsaken saga and Horde spine (issue #18) and the Horde spine from level 18 to level 60. PandaBase shows Forever; the pinned QuestieDB v1.0.16 does not. tests/test_race_sagas.py checks that each route still meets the prerequisites of both sources, and the neutral chains (issue #19) and the dungeon codas and reputations (issue #20), and the zone side catalogues (issue #21).",
+ "accepted": [
+  {
+   "id": 217,
+   "field": "before",
+   "reason": "Forever adds The Trogg Threat (267) as a prerequisite. Both routes put 267 before 217.",
+   "questie": [
+    263
+   ],
+   "pandabase": [
+    263,
+    267
+   ]
+  },
+  {
+   "id": 287,
+   "field": "before",
+   "reason": "Forever drops the Senir's Observations (420) prerequisite. Both routes still put 420 before 287.",
+   "questie": [
+    420
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 291,
+   "field": "before",
+   "reason": "Forever adds Secure the Mountain (98323), a Forever-only quest read from PandaBase. Both routes put 98323 before 291.",
+   "questie": [
+    287
+   ],
+   "pandabase": [
+    287,
+    98323
+   ]
+  },
+  {
+   "id": 2922,
+   "field": "before",
+   "reason": "Forever drops the Tinkmaster Overspark (2923) prerequisite. Both routes still put 2923 before 2922.",
+   "questie": [
+    2923
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 2926,
+   "field": "before",
+   "reason": "Forever drops The Day After (2927) prerequisite. Both routes still put 2927 before 2926.",
+   "questie": [
+    2927
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 918,
+   "field": "before",
+   "reason": "Forever drops the Denalan's Earth (997) prerequisite. Both routes still put 997 before 918.",
+   "questie": [
+    997
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 935,
+   "field": "before",
+   "reason": "PandaBase adds 934 as an any-of prerequisite. 934 has no giver in Questie and no PandaBase page; the route puts 7383, the other member, before 935.",
+   "questie": [
+    7383
+   ],
+   "pandabase": [
+    934,
+    7383
+   ]
+  },
+  {
+   "id": 940,
+   "field": "before",
+   "reason": "Forever puts Darkness in the Glade (98392) and The Oracle Tree (98398) between The Enchanted Glade (937) and Teldrassil. The route walks 937, 98392, 98398, 940.",
+   "questie": [
+    937
+   ],
+   "pandabase": [
+    98398
+   ]
+  },
+  {
+   "id": 940,
+   "field": "startedBy.name",
+   "reason": "Forever starts Teldrassil at the Oracle Tree Bark, where The Oracle Tree (98398) ends. The spec sets giverFrom pandabase for 940.",
+   "questie": [
+    "Sentinel Arynia Cloudsbreak"
+   ],
+   "pandabase": "Oracle Tree Bark"
+  },
+  {
+   "id": 940,
+   "field": "startedBy.coords",
+   "reason": "The point of the Oracle Tree Bark, not of the sentinel. giverFrom pandabase uses the PandaBase point.",
+   "questie": {
+    "3519:141": [
+     [
+      38.32,
+      34.36
+     ]
+    ]
+   },
+   "pandabase": [
+    36.97,
+    34.04
+   ]
+  },
+  {
+   "id": 6341,
+   "field": "before",
+   "reason": "Forever drops the Nessa Shadowsong (6344) prerequisite. Both routes still put 6344 before 6341.",
+   "questie": [
+    6344
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 1267,
+   "field": "startedBy.name",
+   "reason": "Forever gives The Missing Diplomat's last step from Lady Jaina Proudmoore in Theramore; PandaBase records her at 66.27, 49.04 in Dustwallow Marsh. Questie's Archmage Tervosh spawn sits at 66.42, 49.26, the same place. The spec sets giverFrom pandabase, so the Data file names Jaina at the PandaBase point.",
+   "questie": [
+    "Archmage Tervosh"
+   ],
+   "pandabase": "Lady Jaina Proudmoore"
+  },
+  {
+   "id": 786,
+   "field": "startedBy.coords",
+   "reason": "PandaBase records Lar Prowltusk at (54.44, 74.35); Questie records the spawn at (54.24, 73.28). Both are in Sen'jin Village.",
+   "questie": {
+    "3140:14": [
+     [
+      54.24,
+      73.28
+     ]
+    ]
+   },
+   "pandabase": [
+    54.44,
+    74.35
+   ]
+  },
+  {
+   "id": 786,
+   "field": "finishedBy.coords",
+   "reason": "PandaBase records Lar Prowltusk at (54.44, 74.35); Questie records the spawn at (54.24, 73.28). Both are in Sen'jin Village.",
+   "questie": {
+    "3140:14": [
+     [
+      54.24,
+      73.28
+     ]
+    ]
+   },
+   "pandabase": [
+    54.44,
+    74.35
+   ]
+  },
+  {
+   "id": 834,
+   "field": "races",
+   "reason": "Questie lists the Horde races (Orc, Troll, Tauren, Undead); PandaBase lists no race limit. Orc and Troll are in both, so the Orc and Troll sagas are not affected. Not resolved for other races: the Tauren route (issue #17) does not hold this quest, so issue 3.2 did not resolve it. Recheck in issue 3.3 and by an in-game check.",
+   "questie": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 835,
+   "field": "races",
+   "reason": "Questie lists the Horde races (Orc, Troll, Tauren, Undead); PandaBase lists no race limit. Orc and Troll are in both, so the Orc and Troll sagas are not affected. Not resolved for other races: the Tauren route (issue #17) does not hold this quest, so issue 3.2 did not resolve it. Recheck in issue 3.3 and by an in-game check.",
+   "questie": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 4641,
+   "field": "races",
+   "reason": "Questie lists Orc and Troll only; PandaBase lists every Horde race. Orc and Troll are in both, so the Orc and Troll sagas are not affected. Whether Tauren and Undead can take it is not resolved: the Tauren route (issue #17) does not hold this quest, so issue 3.2 did not resolve it. Recheck in issue 3.3 and by an in-game check.",
+   "questie": [
+    "Orc",
+    "Troll"
+   ],
+   "pandabase": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ]
+  },
+  {
+   "id": 745,
+   "field": "questLevel",
+   "reason": "Forever raises the quest level from 6 to 8. The required level is 1 in both sources, and the Tauren route order does not depend on the quest level. Data_Tauren.lua holds the Questie level: recheck by an in-game check (issue #40).",
+   "questie": 6,
+   "pandabase": 8
+  },
+  {
+   "id": 753,
+   "field": "before",
+   "reason": "Questie gives the first A Humble Task (752) as the prerequisite; PandaBase lists none. The Tauren route puts 752 before 753, so it meets both sources.",
+   "questie": [
+    752
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 767,
+   "field": "before",
+   "reason": "Questie gives Rites of the Earthmother (763) as the prerequisite; PandaBase lists none. The Tauren route puts 763 before 767, so it meets both sources.",
+   "questie": [
+    763
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 355,
+   "field": "before",
+   "reason": "Forever adds The Haunted Mills (362) as a prerequisite. The route puts 362 before 355.",
+   "questie": [
+    354
+   ],
+   "pandabase": [
+    354,
+    362
+   ]
+  },
+  {
+   "id": 364,
+   "field": "before",
+   "reason": "Forever drops the Rude Awakening (363) prerequisite. The route still puts 363 before 364.",
+   "questie": [
+    363
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 367,
+   "field": "races",
+   "reason": "PandaBase lists the other Horde races as well; Questie lists Undead only. Both include Undead, the only race on this route.",
+   "questie": [
+    "Undead"
+   ],
+   "pandabase": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ]
+  },
+  {
+   "id": 368,
+   "field": "races",
+   "reason": "PandaBase lists the other Horde races as well; Questie lists Undead only. Both include Undead, the only race on this route.",
+   "questie": [
+    "Undead"
+   ],
+   "pandabase": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ]
+  },
+  {
+   "id": 369,
+   "field": "races",
+   "reason": "PandaBase lists the other Horde races as well; Questie lists Undead only. Both include Undead, the only race on this route.",
+   "questie": [
+    "Undead"
+   ],
+   "pandabase": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ]
+  },
+  {
+   "id": 421,
+   "field": "requiredLevel",
+   "reason": "Forever lists required level 12; Questie lists 9. The quests that follow it (422 to 424, 99) need level 9 in both sources, so the route keeps 421 first in Silverpine Forest. The real level is an in-game check (issue #40).",
+   "questie": 9,
+   "pandabase": 12
+  },
+  {
+   "id": 425,
+   "field": "before",
+   "reason": "Forever needs Return to Quinn (Again) (91921) instead of Return to Quinn (430). The route puts both 430 and 91921 before 425.",
+   "questie": [
+    430
+   ],
+   "pandabase": [
+    91921
+   ]
+  },
+  {
+   "id": 427,
+   "field": "before",
+   "reason": "Forever drops the Vital Intelligence (383) prerequisite. The route still puts 383 before 427.",
+   "questie": [
+    383
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 429,
+   "field": "before",
+   "reason": "Forever drops the Lost Deathstalkers (428) prerequisite. The route still puts 428 before 429.",
+   "questie": [
+    428
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 443,
+   "field": "before",
+   "reason": "Forever needs Rot Hide Clues (439) instead of The Decrepit Ferry (438). The route puts both 438 and 439 before 443.",
+   "questie": [
+    438
+   ],
+   "pandabase": [
+    439
+   ]
+  },
+  {
+   "id": 480,
+   "field": "before",
+   "reason": "Forever adds Watching the Roads (95981) as a prerequisite. The route puts 95981 before 480.",
+   "questie": [
+    479
+   ],
+   "pandabase": [
+    479,
+    95981
+   ]
+  },
+  {
+   "id": 598,
+   "field": "before",
+   "reason": "Forever adds The Vile Reef (629) as a prerequisite. The route puts 629 before 598.",
+   "questie": [
+    596
+   ],
+   "pandabase": [
+    596,
+    629
+   ]
+  },
+  {
+   "id": 5041,
+   "field": "before",
+   "reason": "Forever drops the Disrupt the Attacks (871) prerequisite. The route still puts 871 before 5041.",
+   "questie": [
+    871
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 639,
+   "field": "before",
+   "reason": "Forever drops 638 as a prerequisite. The routes put every one of them before 639, so both sources are met.",
+   "questie": [
+    638
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 677,
+   "field": "before",
+   "reason": "Forever drops 676 as a prerequisite. The routes put every one of them before 677, so both sources are met.",
+   "questie": [
+    676
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 3128,
+   "field": "before",
+   "reason": "Forever adds 3122 as a prerequisite. The routes put every one of them before 3128, so both sources are met.",
+   "questie": [],
+   "pandabase": [
+    3122
+   ]
+  },
+  {
+   "id": 4841,
+   "field": "before",
+   "reason": "Forever drops 4542 as a prerequisite. The routes put every one of them before 4841, so both sources are met.",
+   "questie": [
+    4542
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 5096,
+   "field": "before",
+   "reason": "Forever drops 5093, 5094, 5095 as a prerequisite. The routes put every one of them before 5096, so both sources are met.",
+   "questie": [
+    5093,
+    5094,
+    5095
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 6135,
+   "field": "before",
+   "reason": "Forever adds 6022, 6042 as a prerequisite. The routes put every one of them before 6135, so both sources are met.",
+   "questie": [
+    6133
+   ],
+   "pandabase": [
+    6022,
+    6042,
+    6133
+   ]
+  },
+  {
+   "id": 6136,
+   "field": "before",
+   "reason": "Forever adds 5961, 6022, 6042, 6133 as a prerequisite. The routes put every one of them before 6136, so both sources are met.",
+   "questie": [],
+   "pandabase": [
+    5961,
+    6022,
+    6042,
+    6133
+   ]
+  },
+  {
+   "id": 6144,
+   "field": "before",
+   "reason": "Forever adds 6135, 6136 as a prerequisite. The routes put every one of them before 6144, so both sources are met.",
+   "questie": [],
+   "pandabase": [
+    6135,
+    6136
+   ]
+  },
+  {
+   "id": 6382,
+   "field": "before",
+   "reason": "Forever adds 882 as a prerequisite. The routes put every one of them before 6382, so both sources are met.",
+   "questie": [],
+   "pandabase": [
+    882
+   ]
+  },
+  {
+   "id": 6383,
+   "field": "before",
+   "reason": "Forever drops 235, 742, 6382 as a prerequisite. The routes put every one of them before 6383, so both sources are met.",
+   "questie": [
+    235,
+    742,
+    6382
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 7541,
+   "field": "questLevel",
+   "reason": "Forever lists quest level 40; the pinned QuestieDB lists 45. The required level is the same in both and the route does not use the quest level.",
+   "questie": 45,
+   "pandabase": 40
+  },
+  {
+   "id": 532,
+   "field": "counts",
+   "reason": "Questie gives 4, PandaBase (Forever) gives 5 in the objective. The guide follows PandaBase, because the addon is for WoW Forever: the horde_spine spec task and the journal page use the Forever count. Check the count in game (issue #40).",
+   "questie": [
+    4
+   ],
+   "pandabase": [
+    5
+   ]
+  },
+  {
+   "id": 640,
+   "field": "counts",
+   "reason": "Questie gives 5, PandaBase (Forever) gives 11 in the objective. The guide follows PandaBase, because the addon is for WoW Forever: the horde_spine spec task and the journal page use the Forever count. Check the count in game (issue #40).",
+   "questie": [
+    5
+   ],
+   "pandabase": [
+    11
+   ]
+  },
+  {
+   "id": 1322,
+   "field": "counts",
+   "reason": "Questie gives 5, PandaBase (Forever) gives 6 in the objective. The guide follows PandaBase, because the addon is for WoW Forever: the horde_spine spec task and the journal page use the Forever count. Check the count in game (issue #40).",
+   "questie": [
+    5
+   ],
+   "pandabase": [
+    6
+   ]
+  },
+  {
+   "id": 4084,
+   "field": "questLevel",
+   "reason": "Questie gives the quest level 55 and PandaBase (Forever) gives 54. The data file keeps the Questie level. The real level is an in-game check in issue #40.",
+   "questie": 55,
+   "pandabase": 54
+  },
+  {
+   "id": 5149,
+   "field": "before",
+   "reason": "PandaBase lists no prerequisite for Pamela's Doll; Questie lists Little Pamela (5142) and Sister Pamela (5601), which exclude each other. The chain puts 5142 and 5601 before 5149, which meets both sources.",
+   "questie": [
+    5142,
+    5601
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 5211,
+   "field": "before",
+   "reason": "PandaBase lists no prerequisite for Defenders of Darrowshire; Questie lists Uncle Carlin (5241). The chain puts 5241 before 5211, which meets both sources.",
+   "questie": [
+    5241
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 17,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 36; Forever lists 38. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 36,
+   "pandabase": 38
+  },
+  {
+   "id": 303,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 25; Forever lists 22. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 25,
+   "pandabase": 22
+  },
+  {
+   "id": 738,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 707; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 738, so the chain order meets both sources.",
+   "questie": [
+    707
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 971,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 10; Forever lists 18. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 10,
+   "pandabase": 18
+  },
+  {
+   "id": 1275,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 3765; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 1275, so the chain order meets both sources.",
+   "questie": [
+    3765
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 2201,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 40; Forever lists 37. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 40,
+   "pandabase": 37
+  },
+  {
+   "id": 2240,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 2398; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 2240, so the chain order meets both sources.",
+   "questie": [
+    2398
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 2339,
+   "field": "counts",
+   "reason": "Questie's objective text gives the numbers 1, 3; PandaBase (Forever) gives 3. The guide follows PandaBase, because the addon is for WoW Forever: the journal page uses the Forever count. Check the count in game (issue #40).",
+   "questie": [
+    1,
+    3
+   ],
+   "pandabase": [
+    3
+   ]
+  },
+  {
+   "id": 2842,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 25; Forever lists 20. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 25,
+   "pandabase": 20
+  },
+  {
+   "id": 2865,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 2864; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 2865, so the chain order meets both sources.",
+   "questie": [
+    2864
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 3525,
+   "field": "finishedBy.name",
+   "reason": "Questie names the hand-in Belnistrasz; PandaBase names Belnistrasz's Brazier. The data file keeps the Questie name and point. The real hand-in is an in-game check (issue #40).",
+   "questie": [
+    "Belnistrasz"
+   ],
+   "pandabase": "Belnistrasz's Brazier"
+  },
+  {
+   "id": 4122,
+   "field": "before",
+   "reason": "Questie lists the prerequisites none; PandaBase (Forever) lists 4082. Every one of them is in the same chain and comes before 4122, so the chain order meets both sources.",
+   "questie": [],
+   "pandabase": [
+    4082
+   ]
+  },
+  {
+   "id": 4126,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 4128; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 4126, so the chain order meets both sources.",
+   "questie": [
+    4128
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 4134,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 4133; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 4134, so the chain order meets both sources.",
+   "questie": [
+    4133
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 4136,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 4324; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 4136, so the chain order meets both sources.",
+   "questie": [
+    4324
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 4342,
+   "field": "before",
+   "reason": "Questie lists the prerequisites none; PandaBase (Forever) lists 4341. Every one of them is in the same chain and comes before 4342, so the chain order meets both sources.",
+   "questie": [],
+   "pandabase": [
+    4341
+   ]
+  },
+  {
+   "id": 4361,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 4341; PandaBase (Forever) lists 4342. Every one of them is in the same chain and comes before 4361, so the chain order meets both sources.",
+   "questie": [
+    4341
+   ],
+   "pandabase": [
+    4342
+   ]
+  },
+  {
+   "id": 4764,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 4766; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 4764, so the chain order meets both sources.",
+   "questie": [
+    4766
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 4768,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 4769; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 4768, so the chain order meets both sources.",
+   "questie": [
+    4769
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 6563,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 6562; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 6563, so the chain order meets both sources.",
+   "questie": [
+    6562
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 6564,
+   "field": "before",
+   "reason": "Questie lists the prerequisites none; PandaBase (Forever) lists 6562. Every one of them is in the same chain and comes before 6564, so the chain order meets both sources.",
+   "questie": [],
+   "pandabase": [
+    6562
+   ]
+  },
+  {
+   "id": 7068,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 38; Forever lists 39. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 38,
+   "pandabase": 39
+  },
+  {
+   "id": 7070,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 38; Forever lists 39. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 38,
+   "pandabase": 39
+  },
+  {
+   "id": 7201,
+   "field": "before",
+   "reason": "Questie lists the prerequisites none; PandaBase (Forever) lists 3906. Every one of them is in the same chain and comes before 7201, so the chain order meets both sources.",
+   "questie": [],
+   "pandabase": [
+    3906
+   ]
+  },
+  {
+   "id": 8304,
+   "field": "requiredLevel",
+   "reason": "Questie lists required level 60; Forever lists 58. The data file keeps the Questie level, and no chain order depends on it. The real level is an in-game check (issue #40).",
+   "questie": 60,
+   "pandabase": 58
+  },
+  {
+   "id": 8332,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 8331; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 8332, so the chain order meets both sources.",
+   "questie": [
+    8331
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 8341,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 8343; PandaBase (Forever) lists none. Every one of them is in the same chain and comes before 8341, so the chain order meets both sources.",
+   "questie": [
+    8343
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 8348,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 8349; PandaBase (Forever) lists 8332. Every one of them is in the same chain and comes before 8348, so the chain order meets both sources.",
+   "questie": [
+    8349
+   ],
+   "pandabase": [
+    8332
+   ]
+  },
+  {
+   "id": 8352,
+   "field": "before",
+   "reason": "Questie lists the prerequisites 8351; PandaBase (Forever) lists 8341. Every one of them is in the same chain and comes before 8352, so the chain order meets both sources.",
+   "questie": [
+    8351
+   ],
+   "pandabase": [
+    8341
+   ]
+  },
+  {
+   "id": 1133,
+   "field": "before",
+   "reason": "Questie gives a quest outside the lists (1132) before Journey to Astranaar (1133); PandaBase gives none. The guide follows the pinned QuestieDB for `requires`. The side list links none of them: a quest outside the lists (1132) is outside the lists. The real order is an in-game check (issue #40).",
+   "questie": [
+    1132
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 1177,
+   "field": "counts",
+   "reason": "Forever changed the count of Hungry! (1177) (Questie [8], PandaBase [12]). The side row holds no count text, so the guide shows neither; the in-game check goes to issue #40.",
+   "questie": [
+    8
+   ],
+   "pandabase": [
+    12
+   ]
+  },
+  {
+   "id": 1204,
+   "field": "before",
+   "reason": "Questie gives Morgan Stern (1260) before Mudrock Soup and Bugs (1204); PandaBase gives none. The guide follows the pinned QuestieDB for `requires`. The side list links Morgan Stern (1260). The real order is an in-game check (issue #40).",
+   "questie": [
+    1260
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 1206,
+   "field": "counts",
+   "reason": "Forever changed the count of Jarl Needs Eyes (1206) (Questie [20], PandaBase [40]). The side row holds no count text, so the guide shows neither; the in-game check goes to issue #40.",
+   "questie": [
+    20
+   ],
+   "pandabase": [
+    40
+   ]
+  },
+  {
+   "id": 1252,
+   "field": "before",
+   "reason": "Questie gives none before Lieutenant Paval Reethe (1252); PandaBase gives They Call Him Smiling Jim (1282), a quest outside the lists (1302). The guide follows the pinned QuestieDB for `requires`. The side list links no quest (Questie gives no prerequisite). The real order is an in-game check (issue #40).",
+   "questie": [],
+   "pandabase": [
+    1282,
+    1302
+   ]
+  },
+  {
+   "id": 1253,
+   "field": "before",
+   "reason": "Questie gives none before The Black Shield (1253); PandaBase gives They Call Him Smiling Jim (1282), a quest outside the lists (1302). The guide follows the pinned QuestieDB for `requires`. The side list links no quest (Questie gives no prerequisite). The real order is an in-game check (issue #40).",
+   "questie": [],
+   "pandabase": [
+    1282,
+    1302
+   ]
+  },
+  {
+   "id": 1271,
+   "field": "before",
+   "reason": "Questie gives Stinky's Escape (1222), ... and Bugs (1258) before Feast at the Blue Recluse (1271); PandaBase gives Stinky's Escape (1222). The guide follows the pinned QuestieDB for `requires`. The side list links Stinky's Escape (1222), ... and Bugs (1258). The real order is an in-game check (issue #40).",
+   "questie": [
+    1222,
+    1258
+   ],
+   "pandabase": [
+    1222
+   ]
+  },
+  {
+   "id": 1276,
+   "field": "before",
+   "reason": "Questie gives a quest outside the lists (1323) before The Black Shield (1276); PandaBase gives Questioning Reethe (1273), a quest outside the lists (1323). The guide follows the pinned QuestieDB for `requires`. The side list links a quest outside the lists (1323). The real order is an in-game check (issue #40).",
+   "questie": [
+    1323
+   ],
+   "pandabase": [
+    1273,
+    1323
+   ]
+  },
+  {
+   "id": 1284,
+   "field": "before",
+   "reason": "Questie gives none before Suspicious Hoofprints (1284); PandaBase gives They Call Him Smiling Jim (1282), a quest outside the lists (1302). The guide follows the pinned QuestieDB for `requires`. The side list links no quest (Questie gives no prerequisite). The real order is an in-game check (issue #40).",
+   "questie": [],
+   "pandabase": [
+    1282,
+    1302
+   ]
+  },
+  {
+   "id": 4882,
+   "field": "before",
+   "reason": "Questie gives none before Guarding Secrets (4882); PandaBase gives a quest outside the lists (4741). The guide follows the pinned QuestieDB for `requires`. The side list links no quest (Questie gives no prerequisite). The real order is an in-game check (issue #40).",
+   "questie": [],
+   "pandabase": [
+    4741
+   ]
+  },
+  {
+   "id": 5057,
+   "field": "races",
+   "reason": "PandaBase (Forever) limits Past Endeavors (5057) to the Horde races; Questie lists no race. The side row follows PandaBase: faction = Horde (it comes after the Horde quest 5056).",
+   "questie": [],
+   "pandabase": [
+    "Orc",
+    "Skyborne (Horde)",
+    "Tauren",
+    "Troll",
+    "Undead"
+   ]
+  },
+  {
+   "id": 5063,
+   "field": "counts",
+   "reason": "The two objective texts of Cap of the Scarlet Savant (5063) hold other numbers (Questie [1, 5, 8, 50], PandaBase [1, 5, 8]). The side row holds no count text, so the guide shows neither; the gold price in the Questie text is not a count.",
+   "questie": [
+    1,
+    5,
+    8,
+    50
+   ],
+   "pandabase": [
+    1,
+    5,
+    8
+   ]
+  },
+  {
+   "id": 5067,
+   "field": "questLevel",
+   "reason": "Questie gives quest level 50 and PandaBase 60 for Leggings of Arcana (5067). The side row holds the required level only (from Questie), not the quest level, so the guide shows neither; the in-game check goes to issue #40.",
+   "questie": 50,
+   "pandabase": 60
+  },
+  {
+   "id": 5067,
+   "field": "counts",
+   "reason": "The two objective texts of Leggings of Arcana (5067) hold other numbers (Questie [1, 5, 50], PandaBase [1, 5]). The side row holds no count text, so the guide shows neither; the gold price in the Questie text is not a count.",
+   "questie": [
+    1,
+    5,
+    50
+   ],
+   "pandabase": [
+    1,
+    5
+   ]
+  },
+  {
+   "id": 5068,
+   "field": "counts",
+   "reason": "The two objective texts of Breastplate of Bloodthirst (5068) hold other numbers (Questie [1, 5, 10, 50], PandaBase [1, 5, 10]). The side row holds no count text, so the guide shows neither; the gold price in the Questie text is not a count.",
+   "questie": [
+    1,
+    5,
+    10,
+    50
+   ],
+   "pandabase": [
+    1,
+    5,
+    10
+   ]
+  },
+  {
+   "id": 5082,
+   "field": "before",
+   "reason": "Questie gives Trouble in Winterspring! (6603) before Threat of the Winterfall (5082); PandaBase gives none. The guide follows the pinned QuestieDB for `requires`. The side list links Trouble in Winterspring! (6603). The real order is an in-game check (issue #40).",
+   "questie": [
+    6603
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 5244,
+   "field": "before",
+   "reason": "Questie gives none before The Ruins of Kel'Theril (5244); PandaBase gives a quest outside the lists (5249), a quest outside the lists (5250). The guide follows the pinned QuestieDB for `requires`. The side list links no quest (Questie gives no prerequisite). The real order is an in-game check (issue #40).",
+   "questie": [],
+   "pandabase": [
+    5249,
+    5250
+   ]
+  },
+  {
+   "id": 6601,
+   "field": "finishedBy.coords",
+   "reason": "For the hand-in of Ascension... (6601, Rexxar), Questie records a spawn in zone 357 and PandaBase a point in Desolace at 54.0, 2.0 (the edge of the map). The two sources disagree on the zone, so the side row has no hand-in point (spec key noTurnPoint) and the real point is an in-game check (issue #40).",
+   "questie": {
+    "10182:357": [
+     [
+      46.39,
+      18.24
+     ]
+    ]
+   },
+   "pandabase": [
+    54.0,
+    2.0
+   ]
+  },
+  {
+   "id": 8575,
+   "field": "before",
+   "reason": "Questie gives Azuregos's Magical Ledger (8575) no prerequisite. PandaBase (Forever) makes The Charge of the Dragonflights (8555) its prerequisite. The guide holds 8555 in raid_blackwing_lair, a different chain from raid_molten_core, so the chooser order of the two quests may not follow PandaBase. The real order is an in-game check (issue #40).",
+   "questie": [],
+   "pandabase": [
+    8555
+   ]
+  },
+  {
+   "id": 8733,
+   "field": "before",
+   "reason": "Forever adds 8555 (The Charge of the Dragonflights) as a prerequisite. The guide holds 8555 in raid_blackwing_lair, so the route meets it. Checked live against PandaBase on 2026-11-15 for issue #64.",
+   "questie": [],
+   "pandabase": [
+    8555
+   ]
+  },
+  {
+   "id": 8728,
+   "field": "before",
+   "reason": "Forever adds 8578 (Scrying Goggles? No Problem!) and 8587 (Return to Narain) as prerequisites. The guide holds 8578 in raid_molten_core and 8587 in ahn_qiraj, so the route meets both. Checked live against PandaBase on 2026-11-15 for issue #66.",
+   "questie": [
+    8620
+   ],
+   "pandabase": [
+    8578,
+    8587,
+    8620
+   ]
+  },
+  {
+   "id": 5092,
+   "field": "before",
+   "reason": "Forever lists no prerequisite for Clear the Way. The Alliance chain still orders 5066, 5090 and 5091 before 5092, so the route meets both sources. Checked live against PandaBase on 2026-11-15 for issue #24.",
+   "questie": [
+    5066,
+    5090,
+    5091
+   ],
+   "pandabase": []
+  },
+  {
+   "id": 9120,
+   "field": "before",
+   "reason": "Forever adds the three Dread Citadel attunement quests 9121, 9122 and 9123 as exclusive prerequisites. The guide holds 9121 and 9122 in the Argent Dawn chain and 9123 in the naxxramas chain. Checked live against PandaBase on 2026-11-15 for issue #24.",
+   "questie": [],
+   "pandabase": [
+    9121,
+    9122,
+    9123
+   ]
+  },
+  {
+   "id": 9229,
+   "field": "before",
+   "reason": "Forever adds Echoes of War (9033) as a prerequisite. The guide holds 9033 in the naxxramas chain, before 9229. Checked live against PandaBase on 2026-11-15 for issue #24.",
+   "questie": [],
+   "pandabase": [
+    9033
+   ]
+  },
+  {
+   "id": 9232,
+   "field": "before",
+   "reason": "Forever adds Echoes of War (9033) as a prerequisite. The guide holds 9033 in the naxxramas chain, before 9232. Checked live against PandaBase on 2026-11-15 for issue #24.",
+   "questie": [],
+   "pandabase": [
+    9033
+   ]
+  },
+  {
+   "id": 9233,
+   "field": "before",
+   "reason": "Forever adds the three Dread Citadel attunement quests 9121, 9122 and 9123 as exclusive prerequisites. The guide holds 9121 and 9122 in the Argent Dawn chain and 9123 in the naxxramas chain. Checked live against PandaBase on 2026-11-15 for issue #24.",
+   "questie": [],
+   "pandabase": [
+    9121,
+    9122,
+    9123
+   ]
+  }
+ ]
+}

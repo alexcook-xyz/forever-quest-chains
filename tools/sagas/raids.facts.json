@@ -1,0 +1,1663 @@
+{
+ "missing": [],
+ "pandabase": [],
+ "pandabase_missing": [],
+ "pandabase_pages": {
+  "6822": {
+   "after": [
+    6823
+   ],
+   "before": [
+    6821
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6821
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   },
+   "id": 6822,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "The Molten Core",
+   "objective": "Kill 1 Fire Lord, 1 Molten Giant, 1 Ancient Core Hound and 1 Lava Surger, then return to Duke Hydraxis in Azshara.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "6823": {
+   "after": [
+    6824
+   ],
+   "before": [
+    6822
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6822
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   },
+   "id": 6823,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "Agent of Hydraxis",
+   "objective": "Earn an Honored faction with the Hydraxian Waterlords, then talk to Duke Hydraxis in Azshara.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "6824": {
+   "after": [
+    7486
+   ],
+   "before": [
+    6823
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6823
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   },
+   "id": 6824,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "Hands of the Enemy",
+   "objective": "Bring the Hands of Lucifron, Sulfuron, Gehennas and Shazzrah to Duke Hydraxis in Azshara.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "7486": {
+   "after": [],
+   "before": [
+    6824
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    6824
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Hydraxis' Coffer",
+    "x": 79.24,
+    "y": 74.87,
+    "zone": "Azshara"
+   },
+   "id": 7486,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "A Hero's Reward",
+   "objective": "Claim your reward from Hydraxis' Coffer.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "7848": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lothos Riftwaker",
+    "x": 32.13,
+    "y": 94.7,
+    "zone": "Searing Gorge"
+   },
+   "id": 7848,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "Attunement to the Core",
+   "objective": "Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lothos Riftwaker",
+    "x": 32.13,
+    "y": 94.7,
+    "zone": "Searing Gorge"
+   }
+  },
+  "8286": {
+   "after": [
+    8288
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   },
+   "id": 8286,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "What Tomorrow Brings",
+   "objective": "Venture to the Caverns of Time in Tanaris and find Anachronos, Brood of Nozdormu.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   }
+  },
+  "8288": {
+   "after": [
+    8301
+   ],
+   "before": [
+    8286
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8286
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   },
+   "id": 8288,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Only One May Rise",
+   "objective": "Return the Head of the Broodlord Lashlayer to Baristolth of the Shifting Sands at Cenarion Hold in Silithus.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   }
+  },
+  "8301": {
+   "after": [
+    8302,
+    8303
+   ],
+   "before": [
+    8288
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8288
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   },
+   "id": 8301,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Path of the Righteous",
+   "objective": "Collect 200 Silithid Carapace Fragments and return to Baristolth.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   }
+  },
+  "8303": {
+   "after": [
+    8305
+   ],
+   "before": [
+    8301
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8301
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.3,
+    "y": 50.0,
+    "zone": "Tanaris"
+   },
+   "id": 8303,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Anachronos",
+   "objective": "Seek out Anachronos at the Caverns of Time in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Baristolth of the Shifting Sands",
+    "x": 49.45,
+    "y": 36.45,
+    "zone": "Silithus"
+   }
+  },
+  "8305": {
+   "after": [
+    8519
+   ],
+   "before": [
+    8303
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8303
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Crystalline Tear",
+    "x": 28.7,
+    "y": 89.1,
+    "zone": "Silithus"
+   },
+   "id": 8305,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Long Forgotten Memories",
+   "objective": "Locate the Crystalline Tear in Silithus and gaze into its depths.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8519": {
+   "after": [
+    8555
+   ],
+   "before": [
+    8305
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8305
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.3,
+    "y": 50.0,
+    "zone": "Tanaris"
+   },
+   "id": 8519,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "A Pawn on the Eternal Board",
+   "objective": "Learn all that you can of the past, then speak with Anachronos at the Caverns of Time in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Crystalline Tear",
+    "x": 28.68,
+    "y": 89.14,
+    "zone": "Silithus"
+   }
+  },
+  "8555": {
+   "after": [
+    8575,
+    8730,
+    8733
+   ],
+   "before": [
+    8519
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8519
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8555,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Charge of the Dragonflights",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8575": {
+   "after": [
+    8576
+   ],
+   "before": [
+    8555
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8555
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.2,
+    "y": 18.6,
+    "zone": "Tanaris"
+   },
+   "id": 8575,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "Azuregos's Magical Ledger",
+   "objective": "Deliver Azuregos's Magical Ledger to Narain Soothfancy in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Spirit of Azuregos",
+    "x": 52.98,
+    "y": 81.73,
+    "zone": "Azshara"
+   }
+  },
+  "8576": {
+   "after": [
+    8577,
+    8584,
+    8597
+   ],
+   "before": [
+    8575
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8575
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   },
+   "id": 8576,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Translating the Ledger",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8577": {
+   "after": [
+    8578
+   ],
+   "before": [
+    8576
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8576
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Inconspicuous Crate",
+    "x": 46.2,
+    "y": 86.7,
+    "zone": "Silverpine Forest"
+   },
+   "id": 8577,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Stewvul, Ex-B.F.F.",
+   "objective": "Narain Soothfancy wants you to find his ex-best friend forever (BFF), Stewvul, and take back the scrying goggles that Stewvul stole from him.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8578": {
+   "after": [
+    8728
+   ],
+   "before": [
+    8577
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8577
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.2,
+    "y": 18.6,
+    "zone": "Tanaris"
+   },
+   "id": 8578,
+   "mapId": 1421,
+   "mapZone": "Silverpine Forest",
+   "name": "Scrying Goggles? No Problem!",
+   "objective": "Find Narain's Scrying Goggles and return them to Narain Soothfancy in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Inconspicuous Crate",
+    "x": 46.19,
+    "y": 86.68,
+    "zone": "Silverpine Forest"
+   }
+  },
+  "8730": {
+   "after": [
+    8742
+   ],
+   "before": [
+    8555
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8555
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.3,
+    "y": 50.0,
+    "zone": "Tanaris"
+   },
+   "id": 8730,
+   "mapId": 287,
+   "mapZone": null,
+   "name": "Nefarius's Corruption",
+   "objective": "Slay Nefarian and recover the Red Scepter Shard. Return the Red Scepter Shard to Anachronos at the Caverns of Time in Tanaris. You have 5 hours to complete this task.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": false,
+    "name": "Vaelastrasz the Corrupt",
+    "x": null,
+    "y": null,
+    "zone": "Referenced dungeon area"
+   }
+  }
+ },
+ "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6822,
+   "name": "The Molten Core",
+   "nextQuestInChain": 6823,
+   "objectivesText": [
+    "Kill 1 Fire Lord, 1 Molten Giant, 1 Ancient Core Hound and 1 Lava Surger, then return to Duke Hydraxis in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6821
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6823,
+   "name": "Agent of Hydraxis",
+   "nextQuestInChain": 6824,
+   "objectivesText": [
+    "Earn an Honored faction with the Hydraxian Waterlords, then talk to Duke Hydraxis in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6822
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6824,
+   "name": "Hands of the Enemy",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring the Hands of Lucifron, Sulfuron, Gehennas and Shazzrah to Duke Hydraxis in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6823
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     179551
+    ]
+   },
+   "id": 7486,
+   "name": "A Hero's Reward",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Claim your reward from Hydraxis' Coffer."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    6824
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14387,
+      "name": "Lothos Riftwaker",
+      "spawns": {},
+      "zoneID": 0
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7848,
+   "name": "Attunement to the Core",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Venture to the Molten Core entry portal in Blackrock Depths and recover a Core Fragment. Return to Lothos Riftwaker in Blackrock Mountain when you have recovered the Core Fragment."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 14387,
+      "name": "Lothos Riftwaker",
+      "spawns": {},
+      "zoneID": 0
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 2717
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8286,
+   "name": "What Tomorrow Brings",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Venture to the Caverns of Time in Tanaris and find Anachronos, Brood of Nozdormu."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8288,
+   "name": "Only One May Rise",
+   "nextQuestInChain": 8301,
+   "objectivesText": [
+    "Return the Head of the Broodlord Lashlayer to Baristolth of the Shifting Sands at Cenarion Hold in Silithus."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8286
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 2677
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8301,
+   "name": "The Path of the Righteous",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Collect 200 Silithid Carapace Fragments and return to Baristolth."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8288
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8303,
+   "name": "Anachronos",
+   "nextQuestInChain": 8305,
+   "objectivesText": [
+    "Seek out Anachronos at the Caverns of Time in Tanaris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8301
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15180,
+      "name": "Baristolth of the Shifting Sands",
+      "spawns": {
+       "1377": [
+        [
+         49.45,
+         36.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180633
+    ]
+   },
+   "id": 8305,
+   "name": "Long Forgotten Memories",
+   "nextQuestInChain": 8519,
+   "objectivesText": [
+    "Locate the Crystalline Tear in Silithus and gaze into its depths."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8303
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8519,
+   "name": "A Pawn on the Eternal Board",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Learn all that you can of the past, then speak with Anachronos at the Caverns of Time in Tanaris.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8305
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180633
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8555,
+   "name": "The Charge of the Dragonflights",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8519
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8575,
+   "name": "Azuregos's Magical Ledger",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Deliver Azuregos's Magical Ledger to Narain Soothfancy in Tanaris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     20949
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8576,
+   "name": "Translating the Ledger",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8575
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180642
+    ]
+   },
+   "id": 8577,
+   "name": "Stewvul, Ex-B.F.F.",
+   "nextQuestInChain": 8578,
+   "objectivesText": [
+    "Narain Soothfancy wants you to find his ex-best friend forever (BFF), Stewvul, and take back the scrying goggles that Stewvul stole from him."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8576
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8578,
+   "name": "Scrying Goggles? No Problem!",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Find Narain's Scrying Goggles and return them to Narain Soothfancy in Tanaris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8577
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180642
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 2717
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8730,
+   "name": "Nefarius's Corruption",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Slay Nefarian and recover the Red Scepter Shard. Return the Red Scepter Shard to Anachronos at the Caverns of Time in Tanaris. You have 5 hours to complete this task."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8555
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13020,
+      "name": "Vaelastrasz the Corrupt",
+      "spawns": {
+       "2677": [
+        [
+         -1,
+         -1
+        ]
+       ]
+      },
+      "zoneID": 2677
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 2677
+  }
+ ],
+ "source": {
+  "npcDbSha256": "a8c4169690726323dac3c6441f74f7a4d9cafcc08ec42231d72ff28c9471f0ee",
+  "questDbSha256": "621d4a1670232c047e7d171d8f1fdbd31581458935ee59dd70836016838dc942",
+  "ref": "v1.0.16"
+ }
+}

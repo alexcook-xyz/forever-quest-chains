@@ -1,0 +1,6436 @@
+{
+ "missing": [],
+ "pandabase": [],
+ "pandabase_missing": [],
+ "pandabase_pages": {
+  "5264": {
+   "after": [
+    5265
+   ],
+   "before": [
+    5263
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5263
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lord Maxwell Tyrosus",
+    "x": 71.9,
+    "y": 48.41,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5264,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Lord Maxwell Tyrosus",
+   "objective": "Speak with Lord Maxwell Tyrosus. He is inside the church.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Nicholas Zverenhoff",
+    "x": 71.63,
+    "y": 50.09,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5265": {
+   "after": [],
+   "before": [
+    5264
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5264
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "The Argent Hold",
+    "x": 71.96,
+    "y": 48.41,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5265,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Argent Hold",
+   "objective": "Open the Argent Hold and claim your reward.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lord Maxwell Tyrosus",
+    "x": 71.9,
+    "y": 48.41,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5503": {
+   "after": [
+    5402,
+    5403,
+    5404,
+    5406,
+    5407,
+    5408,
+    5508,
+    5509,
+    5510
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Nicholas Zverenhoff",
+    "x": 71.63,
+    "y": 50.09,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5503,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Argent Dawn Commission",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Nicholas Zverenhoff",
+    "x": 71.63,
+    "y": 50.09,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5526": {
+   "after": [],
+   "before": [
+    5527
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5527
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rabine Saturna",
+    "x": 51.69,
+    "y": 45.1,
+    "zone": "Moonglade"
+   },
+   "id": 5526,
+   "mapId": 1450,
+   "mapZone": "Moonglade",
+   "name": "Shards of the Felvine",
+   "objective": "Find the Felvine in Dire Maul and acquire a shard from it. Chances are you'll only be able to procure one with the demise of Alzzin the Wildshaper. Use the Reliquary of Purity to securely seal the shard inside, and return it to Rabine Saturna in Nighthaven, Moonglade.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rabine Saturna",
+    "x": 51.69,
+    "y": 45.1,
+    "zone": "Moonglade"
+   }
+  },
+  "5527": {
+   "after": [
+    5526
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rabine Saturna",
+    "x": 51.69,
+    "y": 45.1,
+    "zone": "Moonglade"
+   },
+   "id": 5527,
+   "mapId": 1450,
+   "mapZone": "Moonglade",
+   "name": "A Reliquary of Purity",
+   "objective": "Travel to Silithus and search for a Reliquary of Purity within the ruins of Southwind Village. If you are able to find it, return with it to Rabine Saturna in Nighthaven, Moonglade.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rabine Saturna",
+    "x": 51.69,
+    "y": 45.1,
+    "zone": "Moonglade"
+   }
+  },
+  "6021": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Caretaker Alen",
+    "x": 69.93,
+    "y": 53.72,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 6021,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Zaeldarr the Outcast",
+   "objective": "Bring Zaeldarr's Head to Caretaker Alen at Light's Hope Chapel.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Caretaker Alen",
+    "x": 69.93,
+    "y": 53.72,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "6031": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Meilosh",
+    "x": 65.69,
+    "y": 2.81,
+    "zone": "Felwood"
+   },
+   "id": 6031,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Runecloth",
+   "objective": "Bring 30 Runecloth to Meilosh in Timbermaw Hold.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Meilosh",
+    "x": 65.69,
+    "y": 2.81,
+    "zone": "Felwood"
+   }
+  },
+  "6032": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Meilosh",
+    "x": 65.69,
+    "y": 2.81,
+    "zone": "Felwood"
+   },
+   "id": 6032,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Sacred Cloth",
+   "objective": "Bring 2 Mooncloth to Meilosh in Timbermaw Hold.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Meilosh",
+    "x": 65.69,
+    "y": 2.81,
+    "zone": "Felwood"
+   }
+  },
+  "6804": {
+   "after": [
+    6821
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   },
+   "id": 6804,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "Poisoned Water",
+   "objective": "Use the Aspect of Neptulon on poisoned elementals of Eastern Plaguelands. Bring 12 Discordant Bracers and the Aspect of Neptulon to Duke Hydraxis in Azshara.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "6805": {
+   "after": [
+    6821
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   },
+   "id": 6805,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "Stormers and Rumblers",
+   "objective": "Kill 15 Dust Stormers and 15 Desert Rumblers and then return to Duke Hydraxis in Azshara.",
+   "questLevel": 57,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "6821": {
+   "after": [
+    6822
+   ],
+   "before": [
+    6804,
+    6805
+   ],
+   "beforeAll": [
+    6804,
+    6805
+   ],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   },
+   "id": 6821,
+   "mapId": 1447,
+   "mapZone": "Azshara",
+   "name": "Eye of the Emberseer",
+   "objective": "Bring the Eye of the Emberseer to Duke Hydraxis in Azshara.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 56,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Duke Hydraxis",
+    "x": 79.28,
+    "y": 73.7,
+    "zone": "Azshara"
+   }
+  },
+  "7701": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lookout Captain Lolo Longstriker",
+    "x": 37.74,
+    "y": 26.56,
+    "zone": "Searing Gorge"
+   },
+   "id": 7701,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "WANTED: Overseer Maltorius",
+   "objective": "Deep within the Slag Pit of the Cauldron, in the Searing Gorge, you will find the traitorous Dark Iron dwarf named Overseer Maltorius.",
+   "questLevel": 50,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Wanted/Missing/Lost & Found",
+    "x": 37.65,
+    "y": 26.47,
+    "zone": "Searing Gorge"
+   }
+  },
+  "7722": {
+   "after": [
+    7736,
+    7737,
+    8241,
+    8242
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Master Smith Burninate",
+    "x": 38.8,
+    "y": 28.51,
+    "zone": "Searing Gorge"
+   },
+   "id": 7722,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "What the Flux?",
+   "objective": "Somewhere in the Slag Pit of the Cauldron you will find the Secret Plans: Fiery Flux that Overseer Maltorius stole. Find those plans and return them to Master Smith Burninate in the Searing Gorge.",
+   "questLevel": 50,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Master Smith Burninate",
+    "x": 38.8,
+    "y": 28.51,
+    "zone": "Searing Gorge"
+   }
+  },
+  "7723": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hansel Heavyhands",
+    "x": 38.58,
+    "y": 27.81,
+    "zone": "Searing Gorge"
+   },
+   "id": 7723,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "Curse These Fat Fingers",
+   "objective": "Hansel Heavyhands wants you to kill 20 Heavy War Golems.",
+   "questLevel": 49,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hansel Heavyhands",
+    "x": 38.58,
+    "y": 27.81,
+    "zone": "Searing Gorge"
+   }
+  },
+  "7724": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hansel Heavyhands",
+    "x": 38.58,
+    "y": 27.81,
+    "zone": "Searing Gorge"
+   },
+   "id": 7724,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "Fiery Menace!",
+   "objective": "Hansel Heavyhands wants you to kill 20 Greater Lava Spiders in the Searing Gorge. You can find Greater Lava Spiders in the plateaus and lava pools of the Searing Gorge.",
+   "questLevel": 49,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hansel Heavyhands",
+    "x": 38.58,
+    "y": 27.81,
+    "zone": "Searing Gorge"
+   }
+  },
+  "7727": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hansel Heavyhands",
+    "x": 38.58,
+    "y": 27.81,
+    "zone": "Searing Gorge"
+   },
+   "id": 7727,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "Incendosaurs? Whateverosaur is More Like It",
+   "objective": "Hansel Heavyhands wants you to kill 20 Incendosaurs.",
+   "questLevel": 49,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hansel Heavyhands",
+    "x": 38.58,
+    "y": 27.81,
+    "zone": "Searing Gorge"
+   }
+  },
+  "7728": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Taskmaster Scrange",
+    "x": 38.97,
+    "y": 27.51,
+    "zone": "Searing Gorge"
+   },
+   "id": 7728,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+   "objective": "Find and return the Smithing Tuyere and Lookout's Spyglass to Taskmaster Scrange in the Searing Gorge.",
+   "questLevel": 48,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Wanted/Missing/Lost & Found",
+    "x": 37.65,
+    "y": 26.47,
+    "zone": "Searing Gorge"
+   }
+  },
+  "7729": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Taskmaster Scrange",
+    "x": 38.97,
+    "y": 27.51,
+    "zone": "Searing Gorge"
+   },
+   "id": 7729,
+   "mapId": 1427,
+   "mapZone": "Searing Gorge",
+   "name": "JOB OPPORTUNITY: Culling the Competition",
+   "objective": "Slay 15 Dark Iron Taskmasters and 15 Dark Iron Slavers. Return to Taskmaster Scrange in the Searing Gorge once you have accomplished this task.",
+   "questLevel": 48,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Wanted/Missing/Lost & Found",
+    "x": 37.65,
+    "y": 26.47,
+    "zone": "Searing Gorge"
+   }
+  },
+  "8277": {
+   "after": [
+    8278
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Beetix Ficklespragg",
+    "x": 51.61,
+    "y": 38.63,
+    "zone": "Silithus"
+   },
+   "id": 8277,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Deadly Desert Venom",
+   "objective": "Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 8 Stonelash Scorpid Stingers and 8 Sand Skitterer Fangs. Return to her when you have completed the task.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Beetix Ficklespragg",
+    "x": 51.61,
+    "y": 38.63,
+    "zone": "Silithus"
+   }
+  },
+  "8278": {
+   "after": [
+    8282
+   ],
+   "before": [
+    8277
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8277
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Beetix Ficklespragg",
+    "x": 51.61,
+    "y": 38.63,
+    "zone": "Silithus"
+   },
+   "id": 8278,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Noggle's Last Hope",
+   "objective": "Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 3 Stonelash Pincer Stingers, 3 Stonelash Flayer Stingers and 3 Rock Stalker Fangs.",
+   "questLevel": 57,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Beetix Ficklespragg",
+    "x": 51.61,
+    "y": 38.63,
+    "zone": "Silithus"
+   }
+  },
+  "8279": {
+   "after": [
+    8287,
+    8323
+   ],
+   "before": [
+    8285
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8285
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hermit Ortell",
+    "x": 67.19,
+    "y": 69.76,
+    "zone": "Silithus"
+   },
+   "id": 8279,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Twilight Lexicon",
+   "objective": "Bring the three chapters of the Twilight Lexicon to Hermit Ortell in Silithus.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hermit Ortell",
+    "x": 67.19,
+    "y": 69.76,
+    "zone": "Silithus"
+   }
+  },
+  "8280": {
+   "after": [
+    8281
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Windcaller Proudhorn",
+    "x": 51.15,
+    "y": 38.29,
+    "zone": "Silithus"
+   },
+   "id": 8280,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Securing the Supply Lines",
+   "objective": "Windcaller Proudhorn at Cenarion Hold in Silithus wants you to kill 15 Dredge Strikers.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Windcaller Proudhorn",
+    "x": 51.15,
+    "y": 38.29,
+    "zone": "Silithus"
+   }
+  },
+  "8281": {
+   "after": [],
+   "before": [
+    8280
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8280
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Windcaller Proudhorn",
+    "x": 51.15,
+    "y": 38.29,
+    "zone": "Silithus"
+   },
+   "id": 8281,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Stepping Up Security",
+   "objective": "Windcaller Proudhorn at Cenarion Hold in Silithus wants you to slay 20 Dredge Crushers.",
+   "questLevel": 57,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Windcaller Proudhorn",
+    "x": 51.15,
+    "y": 38.29,
+    "zone": "Silithus"
+   }
+  },
+  "8282": {
+   "after": [],
+   "before": [
+    8278
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8278
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Noggle Ficklespragg",
+    "x": 51.63,
+    "y": 38.5,
+    "zone": "Silithus"
+   },
+   "id": 8282,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Noggle's Lost Satchel",
+   "objective": "Retrieve Noggle's Satchel from the mountains in the south of Silithus and return it to him at Cenarion Hold.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Noggle Ficklespragg",
+    "x": 51.63,
+    "y": 38.5,
+    "zone": "Silithus"
+   }
+  },
+  "8283": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Vish Kozus",
+    "x": 50.75,
+    "y": 33.65,
+    "zone": "Silithus"
+   },
+   "id": 8283,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Wanted - Deathclasp, Terror of the Sands",
+   "objective": "Bring Deathclasp's Pincer to Vish Kozus, Captain of the Guard.",
+   "questLevel": 59,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Wanted Poster: Deathclasp",
+    "x": 51.35,
+    "y": 38.27,
+    "zone": "Silithus"
+   }
+  },
+  "8284": {
+   "after": [
+    8285
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Geologist Larksbane",
+    "x": 49.67,
+    "y": 37.46,
+    "zone": "Silithus"
+   },
+   "id": 8284,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Twilight Mystery",
+   "objective": "Geologist Larksbane at Cenarion Hold in Silithus wants you to collect 8 Twilight Tablet Fragments.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Geologist Larksbane",
+    "x": 49.67,
+    "y": 37.46,
+    "zone": "Silithus"
+   }
+  },
+  "8285": {
+   "after": [
+    8279
+   ],
+   "before": [
+    8284
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8284
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hermit Ortell",
+    "x": 67.19,
+    "y": 69.76,
+    "zone": "Silithus"
+   },
+   "id": 8285,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Deserter",
+   "objective": "Take the restored tablet to Hermit Ortell in Silithus.",
+   "questLevel": 59,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Geologist Larksbane",
+    "x": 49.67,
+    "y": 37.46,
+    "zone": "Silithus"
+   }
+  },
+  "8287": {
+   "after": [],
+   "before": [
+    8279
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8279
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   },
+   "id": 8287,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "A Terrible Purpose",
+   "objective": "Take the Decoded Tablet Parchment to Commander Mar'alith.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 54,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hermit Ortell",
+    "x": 67.19,
+    "y": 69.76,
+    "zone": "Silithus"
+   }
+  },
+  "8304": {
+   "after": [
+    8306,
+    8309,
+    8310
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   },
+   "id": 8304,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Dearest Natalia",
+   "objective": "Commander Mar'alith at Cenarion Hold in Silithus wants you to question the inhabitants of Bronzebeard's Encampment. You will find Bronzebeard's Encampment south of Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   }
+  },
+  "8306": {
+   "after": [],
+   "before": [
+    8304
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8304
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   },
+   "id": 8306,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Into The Maw of Madness",
+   "objective": "Commander Mar'alith at Cenarion Hold in Silithus wants you to find his beloved Natalia. The information that you gathered points to Hive'Regal in the south as being the area in which you may find Mistress Natalia Mar'alith.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   }
+  },
+  "8308": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rutgar Glyphshaper",
+    "x": 41.28,
+    "y": 88.45,
+    "zone": "Silithus"
+   },
+   "id": 8308,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Brann Bronzebeard's Lost Letter",
+   "objective": "Take Brann Bronzebeard's Letter to Bronzebeard's Encampment in southern Silithus.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Brann Bronzebeard's Lost Letter",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "8309": {
+   "after": [
+    8314
+   ],
+   "before": [
+    8304
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8304
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rutgar Glyphshaper",
+    "x": 41.28,
+    "y": 88.45,
+    "zone": "Silithus"
+   },
+   "id": 8309,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Glyph Chasing",
+   "objective": "Rutgar Glyphshaper at Bronzebeard's Encampment in Silithus wants you to venture to Hive'Ashi, Hive'Zora, and Hive'Regal and recover Glyphed Rubbings from the Glyphed Crystals of each hive.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rutgar Glyphshaper",
+    "x": 41.28,
+    "y": 88.45,
+    "zone": "Silithus"
+   }
+  },
+  "8310": {
+   "after": [
+    8314
+   ],
+   "before": [
+    8304
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8304
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Frankal Stonebridge",
+    "x": 40.81,
+    "y": 88.86,
+    "zone": "Silithus"
+   },
+   "id": 8310,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Breaking the Code",
+   "objective": "Frankal Stonebridge at Bronzebeard's Encampment in Silithus wants you to recover a Hive'Zora Silithid Brain, Hive'Ashi Silithid Brain, and a Hive'Regal Silithid Brain. Return to Frankal when you have completed this task.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Frankal Stonebridge",
+    "x": 40.81,
+    "y": 88.86,
+    "zone": "Silithus"
+   }
+  },
+  "8318": {
+   "after": [
+    8319
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   },
+   "id": 8318,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Secret Communication",
+   "objective": "Bring 10 Encrypted Twilight Texts to Bor Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 57,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   }
+  },
+  "8320": {
+   "after": [
+    8321
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huum Wildmane",
+    "x": 48.62,
+    "y": 37.87,
+    "zone": "Silithus"
+   },
+   "id": 8320,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Twilight Geolords",
+   "objective": "Kill 10 Twilight Geolords, then return to Huum Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huum Wildmane",
+    "x": 48.62,
+    "y": 37.87,
+    "zone": "Silithus"
+   }
+  },
+  "8321": {
+   "after": [],
+   "before": [
+    8320
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8320
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huum Wildmane",
+    "x": 48.62,
+    "y": 37.87,
+    "zone": "Silithus"
+   },
+   "id": 8321,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Vyral the Vile",
+   "objective": "Bring Vyral's Signet Ring to Huum Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huum Wildmane",
+    "x": 48.62,
+    "y": 37.87,
+    "zone": "Silithus"
+   }
+  },
+  "8331": {
+   "after": [
+    8332
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   },
+   "id": 8331,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Aurel Goldleaf",
+   "objective": "Speak with Aurel Goldleaf in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huum Wildmane",
+    "x": 48.62,
+    "y": 37.87,
+    "zone": "Silithus"
+   }
+  },
+  "8332": {
+   "after": [
+    8333,
+    8348,
+    8349
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   },
+   "id": 8332,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Dukes of the Council",
+   "objective": "Bring 1 Large Brilliant Shard and 3 Abyssal Crests to Aurel Goldleaf in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   }
+  },
+  "8341": {
+   "after": [
+    8342,
+    8351,
+    8352
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   },
+   "id": 8341,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Lords of the Council",
+   "objective": "Bring 5 Large Brilliant Shards and 3 Abyssal Signets to Aurel Goldleaf in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   }
+  },
+  "8343": {
+   "after": [
+    8341
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   },
+   "id": 8343,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Goldleaf's Discovery",
+   "objective": "Speak with Aurel Goldleaf in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huum Wildmane",
+    "x": 48.62,
+    "y": 37.87,
+    "zone": "Silithus"
+   }
+  },
+  "8348": {
+   "after": [
+    8363
+   ],
+   "before": [
+    8332
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8332
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   },
+   "id": 8348,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Signet of the Dukes",
+   "objective": "Bring the Abyssal Signet to Bor Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   }
+  },
+  "8349": {
+   "after": [
+    8348
+   ],
+   "before": [
+    8332
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8332
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   },
+   "id": 8349,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Bor Wildmane",
+   "objective": "Speak with Bor Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   }
+  },
+  "8351": {
+   "after": [
+    8352
+   ],
+   "before": [
+    8341
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8341
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   },
+   "id": 8351,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Bor Wishes to Speak",
+   "objective": "Speak with Bor Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   }
+  },
+  "8352": {
+   "after": [
+    8364
+   ],
+   "before": [
+    8341
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8341
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   },
+   "id": 8352,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Scepter of the Council",
+   "objective": "Bring an Abyssal Scepter to Bor Wildmane in Cenarion Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   }
+  },
+  "8361": {
+   "after": [
+    8362
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   },
+   "id": 8361,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Abyssal Contacts",
+   "objective": "Bor Wildmane at Cenarion Hold in Silithus wants you to destroy an Abyssal Templar and bring him an Abyssal Crest as proof of the deed.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bor Wildmane",
+    "x": 48.57,
+    "y": 37.78,
+    "zone": "Silithus"
+   }
+  },
+  "8460": {
+   "after": [
+    8462,
+    8466
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Grazle",
+    "x": 50.93,
+    "y": 85.01,
+    "zone": "Felwood"
+   },
+   "id": 8460,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Timbermaw Ally",
+   "objective": "Grazle wants you to prove yourself by killing 6 Deadwood Warriors, 6 Deadwood Pathfinders, and 6 Deadwood Gardeners. Return to him in southern Felwood near the Emerald Sanctuary when you are done.",
+   "questLevel": 48,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Grazle",
+    "x": 50.93,
+    "y": 85.01,
+    "zone": "Felwood"
+   }
+  },
+  "8461": {
+   "after": [
+    8465,
+    8467
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Nafien",
+    "x": 64.77,
+    "y": 8.13,
+    "zone": "Felwood"
+   },
+   "id": 8461,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Deadwood of the North",
+   "objective": "Nafien would like you to kill 6 Deadwood Den Watchers, 6 Deadwood Avengers, and 6 Deadwood Shamans. Return to him in northern Felwood near the entrance to Timbermaw Hold.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Nafien",
+    "x": 64.77,
+    "y": 8.13,
+    "zone": "Felwood"
+   }
+  },
+  "8462": {
+   "after": [],
+   "before": [
+    8460
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8460
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Nafien",
+    "x": 64.77,
+    "y": 8.13,
+    "zone": "Felwood"
+   },
+   "id": 8462,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Speak to Nafien",
+   "objective": "Travel north along the main road in Felwood and speak with the furbolg named Nafien. He stands guard outside the entrance to Timbermaw Hold.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Grazle",
+    "x": 50.93,
+    "y": 85.01,
+    "zone": "Felwood"
+   }
+  },
+  "8464": {
+   "after": [
+    8469
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Salfa",
+    "x": 27.73,
+    "y": 34.5,
+    "zone": "Winterspring"
+   },
+   "id": 8464,
+   "mapId": 1452,
+   "mapZone": "Winterspring",
+   "name": "Winterfall Activity",
+   "objective": "Salfa wants you to kill 8 Winterfall Shaman, 8 Winterfall Den Watchers, and 8 Winterfall Ursa. Salfa is located just outside the entrance to Timbermaw Hold in Winterspring.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Salfa",
+    "x": 27.73,
+    "y": 34.5,
+    "zone": "Winterspring"
+   }
+  },
+  "8465": {
+   "after": [],
+   "before": [
+    8461
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8461
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Salfa",
+    "x": 27.7,
+    "y": 34.5,
+    "zone": "Winterspring"
+   },
+   "id": 8465,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Speak to Salfa",
+   "objective": "Travel through Timbermaw Hold and exit into Winterspring. Speak with Salfa, who stands guard outside the entrance to Timbermaw Hold.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Nafien",
+    "x": 64.77,
+    "y": 8.13,
+    "zone": "Felwood"
+   }
+  },
+  "8470": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Kernda",
+    "x": 65.5,
+    "y": 3.52,
+    "zone": "Felwood"
+   },
+   "id": 8470,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Deadwood Ritual Totem",
+   "objective": "Take the Deadwood Ritual Totem inside Timbermaw Hold and see if one of the furbolgs there will find a use for the item. The Timbermaw will not speak with you unless you are of Neutral reputation or greater with them.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Deadwood Ritual Totem",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "8471": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Kernda",
+    "x": 65.5,
+    "y": 3.52,
+    "zone": "Felwood"
+   },
+   "id": 8471,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Winterfall Ritual Totem",
+   "objective": "Take the Winterfall Ritual Totem inside Timbermaw Hold and see if one of the furbolgs there will find a use for the item. The Timbermaw will not speak with you unless you are of Neutral reputation or greater with them.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Winterfall Ritual Totem",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "8481": {
+   "after": [
+    8484,
+    8485
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gorn One Eye",
+    "x": 65.18,
+    "y": 2.68,
+    "zone": "Felwood"
+   },
+   "id": 8481,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "The Root of All Evil",
+   "objective": "Plant the Demon Summoning Torch in the mouth of High Chief Winterfall's cave in the Winterfall furbolg village. Defeat the demon and retrieve the Essence of Xandivious for Gorn One Eye in Timbermaw Hold.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 45,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gorn One Eye",
+    "x": 65.18,
+    "y": 2.68,
+    "zone": "Felwood"
+   }
+  },
+  "8498": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   },
+   "id": 8498,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Twilight Battle Orders",
+   "objective": "Obtain the Twilight Battle Orders and bring them Commander Mar'alith at Cenarion Hold in Silithus. You must also bring Tactical Task Briefing X in order to complete this quest.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Tactical Task Briefing X",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "8800": {
+   "after": [
+    8548,
+    8572,
+    8573,
+    8574
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Vargus",
+    "x": 51.23,
+    "y": 38.86,
+    "zone": "Silithus"
+   },
+   "id": 8800,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Cenarion Battlegear",
+   "objective": "Talk to Vargus at Cenarion Hold in Silithus.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Windcaller Kaldon",
+    "x": 49.98,
+    "y": 36.35,
+    "zone": "Silithus"
+   }
+  },
+  "8829": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   },
+   "id": 8829,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Ultimate Deception",
+   "objective": "Bring a Skin of Shadow, 3 Frayed Abomination Stitchings and 1 Twilight Cultist Robe to Aurel Goldleaf at Cenarion Hold in Silithus. You must also bring Logistics Task Briefing XI in order to complete this quest.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Logistics Task Briefing XI",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "9023": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirk Thunderwood",
+    "x": 52.13,
+    "y": 39.14,
+    "zone": "Silithus"
+   },
+   "id": 9023,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Perfect Poison",
+   "objective": "Dirk Thunderwood at Cenarion Hold wants you to bring him Venoxis's Venom Sac and Kurinnaxx's Venom Sac.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirk Thunderwood",
+    "x": 52.13,
+    "y": 39.14,
+    "zone": "Silithus"
+   }
+  },
+  "9121": {
+   "after": [
+    9033,
+    9120,
+    9233
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9121,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Dread Citadel - Naxxramas",
+   "objective": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 5 Arcane Crystals, 2 Nexus Crystals, 1 Righteous Orb and 60 gold pieces. You must also be Honored with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9122": {
+   "after": [
+    9033,
+    9120,
+    9233
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9122,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Dread Citadel - Naxxramas",
+   "objective": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 2 Arcane Crystals, 1 Nexus Crystal and 30 gold pieces. You must also be Revered with the Argent Dawn.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9124": {
+   "after": [
+    9125
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huntsman Leopold",
+    "x": 71.69,
+    "y": 48.94,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9124,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Cryptstalker Armor Doesn't Make Itself...",
+   "objective": "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands wants 30 Crypt Fiend Parts.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Huntsman Leopold",
+    "x": 71.69,
+    "y": 48.94,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9126": {
+   "after": [
+    9127
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rohan the Assassin",
+    "x": 71.62,
+    "y": 48.91,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9126,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Bonescythe Digs",
+   "objective": "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands wants 30 Bone Fragments.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rohan the Assassin",
+    "x": 71.62,
+    "y": 48.91,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9128": {
+   "after": [
+    9129
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9128,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "The Elemental Equation",
+   "objective": "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 30 Core of Elements.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Angela Dosantos",
+    "x": 71.7,
+    "y": 48.69,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9131": {
+   "after": [
+    9132
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Korfax, Champion of the Light",
+    "x": 71.95,
+    "y": 48.52,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9131,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Binding the Dreadnaught",
+   "objective": "Korfax at Light's Hope Chapel in the Eastern Plaguelands wants 30 Dark Iron Scraps.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Korfax, Champion of the Light",
+    "x": 71.95,
+    "y": 48.52,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9136": {
+   "after": [
+    9137
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rayne",
+    "x": 71.41,
+    "y": 49.35,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9136,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Savage Flora",
+   "objective": "Rayne at Light's Hope Chapel in the Eastern Plaguelands wants 30 Savage Fronds.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Rayne",
+    "x": 71.41,
+    "y": 49.35,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9141": {
+   "after": [
+    9142
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dispatch Commander Metz",
+    "x": 71.28,
+    "y": 48.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 9141,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "They Call Me \"The Rooster\"",
+   "objective": "Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands wants an Argent Dawn Valor Token.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dispatch Commander Metz",
+    "x": 71.28,
+    "y": 48.04,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "9248": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   },
+   "id": 9248,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "A Humble Offering",
+   "objective": "Aurel Goldleaf at Cenarion Hold in Silithus wants you to bring her 1 Abyssal Scepter. You must also be Honored with the Cenarion Circle.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Aurel Goldleaf",
+    "x": 51.96,
+    "y": 38.16,
+    "zone": "Silithus"
+   }
+  }
+ },
+ "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11034,
+      "name": "Lord Maxwell Tyrosus",
+      "spawns": {
+       "139": [
+        [
+         71.9,
+         48.41
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5264,
+   "name": "Lord Maxwell Tyrosus",
+   "nextQuestInChain": 5265,
+   "objectivesText": [
+    "Speak with Lord Maxwell Tyrosus. He is inside the church."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5263
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11039,
+      "name": "Duke Nicholas Zverenhoff",
+      "spawns": {
+       "139": [
+        [
+         71.63,
+         50.09
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     176317
+    ]
+   },
+   "id": 5265,
+   "name": "The Argent Hold",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Open the Argent Hold and claim your reward."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5264
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11034,
+      "name": "Lord Maxwell Tyrosus",
+      "spawns": {
+       "139": [
+        [
+         71.9,
+         48.41
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5401,
+    5405
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11039,
+      "name": "Duke Nicholas Zverenhoff",
+      "spawns": {
+       "139": [
+        [
+         71.63,
+         50.09
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5503,
+   "name": "Argent Dawn Commission",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11039,
+      "name": "Duke Nicholas Zverenhoff",
+      "spawns": {
+       "139": [
+        [
+         71.63,
+         50.09
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11801,
+      "name": "Rabine Saturna",
+      "spawns": {
+       "493": [
+        [
+         51.69,
+         45.1
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5526,
+   "name": "Shards of the Felvine",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Find the Felvine in Dire Maul and acquire a shard from it. Chances are you'll only be able to procure one with the demise of Alzzin the Wildshaper. Use the Reliquary of Purity to securely seal the shard inside, and return it to Rabine Saturna in Nighthaven, Moonglade."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5527
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11801,
+      "name": "Rabine Saturna",
+      "spawns": {
+       "493": [
+        [
+         51.69,
+         45.1
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 493
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11801,
+      "name": "Rabine Saturna",
+      "spawns": {
+       "493": [
+        [
+         51.69,
+         45.1
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5527,
+   "name": "A Reliquary of Purity",
+   "nextQuestInChain": 5526,
+   "objectivesText": [
+    "Travel to Silithus and search for a Reliquary of Purity within the ruins of Southwind Village. If you are able to find it, return with it to Rabine Saturna in Nighthaven, Moonglade."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11801,
+      "name": "Rabine Saturna",
+      "spawns": {
+       "493": [
+        [
+         51.69,
+         45.1
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 493
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11038,
+      "name": "Caretaker Alen",
+      "spawns": {
+       "139": [
+        [
+         69.93,
+         53.72
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6021,
+   "name": "Zaeldarr the Outcast",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring Zaeldarr's Head to Caretaker Alen at Light's Hope Chapel."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11038,
+      "name": "Caretaker Alen",
+      "spawns": {
+       "139": [
+        [
+         69.93,
+         53.72
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11557,
+      "name": "Meilosh",
+      "spawns": {
+       "361": [
+        [
+         65.69,
+         2.81
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6031,
+   "name": "Runecloth",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 30 Runecloth to Meilosh in Timbermaw Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11557,
+      "name": "Meilosh",
+      "spawns": {
+       "361": [
+        [
+         65.69,
+         2.81
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1769
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11557,
+      "name": "Meilosh",
+      "spawns": {
+       "361": [
+        [
+         65.69,
+         2.81
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6032,
+   "name": "Sacred Cloth",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 2 Mooncloth to Meilosh in Timbermaw Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11557,
+      "name": "Meilosh",
+      "spawns": {
+       "361": [
+        [
+         65.69,
+         2.81
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1769
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6804,
+   "name": "Poisoned Water",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Use the Aspect of Neptulon on poisoned elementals of Eastern Plaguelands. Bring 12 Discordant Bracers and the Aspect of Neptulon to Duke Hydraxis in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6805,
+   "name": "Stormers and Rumblers",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Kill 15 Dust Stormers and 15 Desert Rumblers and then return to Duke Hydraxis in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 57,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 6821,
+   "name": "Eye of the Emberseer",
+   "nextQuestInChain": 6822,
+   "objectivesText": [
+    "Bring the Eye of the Emberseer to Duke Hydraxis in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [
+    6804,
+    6805
+   ],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 56,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 13278,
+      "name": "Duke Hydraxis",
+      "spawns": {
+       "16": [
+        [
+         79.28,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 16
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14634,
+      "name": "Lookout Captain Lolo Longstriker",
+      "spawns": {
+       "51": [
+        [
+         37.74,
+         26.56
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7701,
+   "name": "WANTED: Overseer Maltorius",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Deep within the Slag Pit of the Cauldron, in the Searing Gorge, you will find the traitorous Dark Iron dwarf named Overseer Maltorius.",
+    "",
+    "Slay Overseer Maltorius and take his head. Return the head to Lookout Captain Lolo Longstriker in the Searing Gorge for your reward."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 50,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     179827
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14624,
+      "name": "Master Smith Burninate",
+      "spawns": {
+       "51": [
+        [
+         38.8,
+         28.51
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7722,
+   "name": "What the Flux?",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Somewhere in the Slag Pit of the Cauldron you will find the Secret Plans: Fiery Flux that Overseer Maltorius stole. Find those plans and return them to Master Smith Burninate in the Searing Gorge.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 50,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 14624,
+      "name": "Master Smith Burninate",
+      "spawns": {
+       "51": [
+        [
+         38.8,
+         28.51
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14627,
+      "name": "Hansel Heavyhands",
+      "spawns": {
+       "51": [
+        [
+         38.58,
+         27.81
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7723,
+   "name": "Curse These Fat Fingers",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Hansel Heavyhands wants you to kill 20 Heavy War Golems.",
+    "",
+    "The Heavy War Golems wander the areas surrounding the Cauldron in the Searing Gorge. When you've killed enough, return to Hansel in Searing Gorge."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 49,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 14627,
+      "name": "Hansel Heavyhands",
+      "spawns": {
+       "51": [
+        [
+         38.58,
+         27.81
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14627,
+      "name": "Hansel Heavyhands",
+      "spawns": {
+       "51": [
+        [
+         38.58,
+         27.81
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7724,
+   "name": "Fiery Menace!",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Hansel Heavyhands wants you to kill 20 Greater Lava Spiders in the Searing Gorge. You can find Greater Lava Spiders in the plateaus and lava pools of the Searing Gorge.",
+    "",
+    "Return to Hansel Heavyhands in the Searing Gorge when you have killed enough Greater Lava Spiders."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 49,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 14627,
+      "name": "Hansel Heavyhands",
+      "spawns": {
+       "51": [
+        [
+         38.58,
+         27.81
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14627,
+      "name": "Hansel Heavyhands",
+      "spawns": {
+       "51": [
+        [
+         38.58,
+         27.81
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7727,
+   "name": "Incendosaurs? Whateverosaur is More Like It",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Hansel Heavyhands wants you to kill 20 Incendosaurs.",
+    "",
+    "You will find Incendosaurs occupying the lava pools inside the Slag Pit. The Slag Pit can be found in the Cauldron of the Searing Gorge.",
+    "",
+    "Return to Hansel Heavyhands in the Searing Gorge when you have killed enough Incendosaurs."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 49,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 14627,
+      "name": "Hansel Heavyhands",
+      "spawns": {
+       "51": [
+        [
+         38.58,
+         27.81
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14626,
+      "name": "Taskmaster Scrange",
+      "spawns": {
+       "51": [
+        [
+         38.97,
+         27.51
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7728,
+   "name": "STOLEN: Smithing Tuyere and Lookout's Spyglass",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Find and return the Smithing Tuyere and Lookout's Spyglass to Taskmaster Scrange in the Searing Gorge.",
+    "",
+    "The only information you have about these items is the following: They were definitely stolen by Dark Iron dwarves. The Smithing Tuyere is a blacksmithing tool used by blacksmiths and the Lookout's Spyglass is an invaluable monitoring tool to lookouts."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 48,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     179827
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14626,
+      "name": "Taskmaster Scrange",
+      "spawns": {
+       "51": [
+        [
+         38.97,
+         27.51
+        ]
+       ]
+      },
+      "zoneID": 51
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 7729,
+   "name": "JOB OPPORTUNITY: Culling the Competition",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Slay 15 Dark Iron Taskmasters and 15 Dark Iron Slavers. Return to Taskmaster Scrange in the Searing Gorge once you have accomplished this task."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 48,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     179827
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 51
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15189,
+      "name": "Beetix Ficklespragg",
+      "spawns": {
+       "1377": [
+        [
+         51.61,
+         38.63
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8277,
+   "name": "Deadly Desert Venom",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 8 Stonelash Scorpid Stingers and 8 Sand Skitterer Fangs. Return to her when you have completed the task."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15189,
+      "name": "Beetix Ficklespragg",
+      "spawns": {
+       "1377": [
+        [
+         51.61,
+         38.63
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15189,
+      "name": "Beetix Ficklespragg",
+      "spawns": {
+       "1377": [
+        [
+         51.61,
+         38.63
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8278,
+   "name": "Noggle's Last Hope",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Beetix Ficklespragg at Cenarion Hold in Silithus wants you to gather 3 Stonelash Pincer Stingers, 3 Stonelash Flayer Stingers and 3 Rock Stalker Fangs."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8277
+   ],
+   "questLevel": 57,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15189,
+      "name": "Beetix Ficklespragg",
+      "spawns": {
+       "1377": [
+        [
+         51.61,
+         38.63
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15194,
+      "name": "Hermit Ortell",
+      "spawns": {
+       "1377": [
+        [
+         67.19,
+         69.76
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8279,
+   "name": "The Twilight Lexicon",
+   "nextQuestInChain": 8287,
+   "objectivesText": [
+    "Bring the three chapters of the Twilight Lexicon to Hermit Ortell in Silithus."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8285
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15194,
+      "name": "Hermit Ortell",
+      "spawns": {
+       "1377": [
+        [
+         67.19,
+         69.76
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    8275,
+    8276
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15191,
+      "name": "Windcaller Proudhorn",
+      "spawns": {
+       "1377": [
+        [
+         51.15,
+         38.29
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8280,
+   "name": "Securing the Supply Lines",
+   "nextQuestInChain": 8281,
+   "objectivesText": [
+    "Windcaller Proudhorn at Cenarion Hold in Silithus wants you to kill 15 Dredge Strikers."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15191,
+      "name": "Windcaller Proudhorn",
+      "spawns": {
+       "1377": [
+        [
+         51.15,
+         38.29
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15191,
+      "name": "Windcaller Proudhorn",
+      "spawns": {
+       "1377": [
+        [
+         51.15,
+         38.29
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8281,
+   "name": "Stepping Up Security",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Windcaller Proudhorn at Cenarion Hold in Silithus wants you to slay 20 Dredge Crushers."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8280
+   ],
+   "questLevel": 57,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15191,
+      "name": "Windcaller Proudhorn",
+      "spawns": {
+       "1377": [
+        [
+         51.15,
+         38.29
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15190,
+      "name": "Noggle Ficklespragg",
+      "spawns": {
+       "1377": [
+        [
+         51.63,
+         38.5
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8282,
+   "name": "Noggle's Lost Satchel",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Retrieve Noggle's Satchel from the mountains in the south of Silithus and return it to him at Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8278
+   ],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15190,
+      "name": "Noggle Ficklespragg",
+      "spawns": {
+       "1377": [
+        [
+         51.63,
+         38.5
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15182,
+      "name": "Vish Kozus",
+      "spawns": {
+       "1377": [
+        [
+         50.75,
+         33.65
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8283,
+   "name": "Wanted - Deathclasp, Terror of the Sands",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring Deathclasp's Pincer to Vish Kozus, Captain of the Guard."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 59,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180448
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15183,
+      "name": "Geologist Larksbane",
+      "spawns": {
+       "1377": [
+        [
+         49.67,
+         37.46
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8284,
+   "name": "The Twilight Mystery",
+   "nextQuestInChain": 8285,
+   "objectivesText": [
+    "Geologist Larksbane at Cenarion Hold in Silithus wants you to collect 8 Twilight Tablet Fragments."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15183,
+      "name": "Geologist Larksbane",
+      "spawns": {
+       "1377": [
+        [
+         49.67,
+         37.46
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15194,
+      "name": "Hermit Ortell",
+      "spawns": {
+       "1377": [
+        [
+         67.19,
+         69.76
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8285,
+   "name": "The Deserter",
+   "nextQuestInChain": 8279,
+   "objectivesText": [
+    "Take the restored tablet to Hermit Ortell in Silithus.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8284
+   ],
+   "questLevel": 59,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15183,
+      "name": "Geologist Larksbane",
+      "spawns": {
+       "1377": [
+        [
+         49.67,
+         37.46
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8287,
+   "name": "A Terrible Purpose",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Decoded Tablet Parchment to Commander Mar'alith."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8279
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 54,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15194,
+      "name": "Hermit Ortell",
+      "spawns": {
+       "1377": [
+        [
+         67.19,
+         69.76
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8304,
+   "name": "Dearest Natalia",
+   "nextQuestInChain": 8306,
+   "objectivesText": [
+    "Commander Mar'alith at Cenarion Hold in Silithus wants you to question the inhabitants of Bronzebeard's Encampment. You will find Bronzebeard's Encampment south of Cenarion Hold.",
+    "",
+    "Once you have gathered the requested information, return to Commander Mar'alith."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8306,
+   "name": "Into The Maw of Madness",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Commander Mar'alith at Cenarion Hold in Silithus wants you to find his beloved Natalia. The information that you gathered points to Hive'Regal in the south as being the area in which you may find Mistress Natalia Mar'alith.",
+    "",
+    "Do not forget to visit the dwarves at Bronzebeard's camp before venturing into the hive. They might have some additional work and advice for you.",
+    "",
+    "And $N, remember the Commander's words: \"Do what you must...\""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8304
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15170,
+      "name": "Rutgar Glyphshaper",
+      "spawns": {
+       "1377": [
+        [
+         41.28,
+         88.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8308,
+   "name": "Brann Bronzebeard's Lost Letter",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take Brann Bronzebeard's Letter to Bronzebeard's Encampment in southern Silithus."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     20461
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15170,
+      "name": "Rutgar Glyphshaper",
+      "spawns": {
+       "1377": [
+        [
+         41.28,
+         88.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8309,
+   "name": "Glyph Chasing",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Rutgar Glyphshaper at Bronzebeard's Encampment in Silithus wants you to venture to Hive'Ashi, Hive'Zora, and Hive'Regal and recover Glyphed Rubbings from the Glyphed Crystals of each hive.",
+    "",
+    "Use the Geologist's Transcription Kit to make a reasonable facsimile of the ancient glyphs. Return to Rutgar Glyphshaper when you complete this task."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8304
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15170,
+      "name": "Rutgar Glyphshaper",
+      "spawns": {
+       "1377": [
+        [
+         41.28,
+         88.45
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15171,
+      "name": "Frankal Stonebridge",
+      "spawns": {
+       "1377": [
+        [
+         40.81,
+         88.86
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8310,
+   "name": "Breaking the Code",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Frankal Stonebridge at Bronzebeard's Encampment in Silithus wants you to recover a Hive'Zora Silithid Brain, Hive'Ashi Silithid Brain, and a Hive'Regal Silithid Brain. Return to Frankal when you have completed this task."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8304
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15171,
+      "name": "Frankal Stonebridge",
+      "spawns": {
+       "1377": [
+        [
+         40.81,
+         88.86
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8318,
+   "name": "Secret Communication",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 10 Encrypted Twilight Texts to Bor Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 57,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15270,
+      "name": "Huum Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.62,
+         37.87
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8320,
+   "name": "Twilight Geolords",
+   "nextQuestInChain": 8321,
+   "objectivesText": [
+    "Kill 10 Twilight Geolords, then return to Huum Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15270,
+      "name": "Huum Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.62,
+         37.87
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15270,
+      "name": "Huum Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.62,
+         37.87
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8321,
+   "name": "Vyral the Vile",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring Vyral's Signet Ring to Huum Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8320
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15270,
+      "name": "Huum Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.62,
+         37.87
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8331,
+   "name": "Aurel Goldleaf",
+   "nextQuestInChain": 8332,
+   "objectivesText": [
+    "Speak with Aurel Goldleaf in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15270,
+      "name": "Huum Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.62,
+         37.87
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8332,
+   "name": "Dukes of the Council",
+   "nextQuestInChain": 8349,
+   "objectivesText": [
+    "Bring 1 Large Brilliant Shard and 3 Abyssal Crests to Aurel Goldleaf in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8331
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8341,
+   "name": "Lords of the Council",
+   "nextQuestInChain": 8351,
+   "objectivesText": [
+    "Bring 5 Large Brilliant Shards and 3 Abyssal Signets to Aurel Goldleaf in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8343
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8343,
+   "name": "Goldleaf's Discovery",
+   "nextQuestInChain": 8341,
+   "objectivesText": [
+    "Speak with Aurel Goldleaf in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15270,
+      "name": "Huum Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.62,
+         37.87
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8348,
+   "name": "Signet of the Dukes",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring the Abyssal Signet to Bor Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8349
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8349,
+   "name": "Bor Wildmane",
+   "nextQuestInChain": 8348,
+   "objectivesText": [
+    "Speak with Bor Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8332
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8351,
+   "name": "Bor Wishes to Speak",
+   "nextQuestInChain": 8352,
+   "objectivesText": [
+    "Speak with Bor Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8341
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8352,
+   "name": "Scepter of the Council",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring an Abyssal Scepter to Bor Wildmane in Cenarion Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8351
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8361,
+   "name": "Abyssal Contacts",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bor Wildmane at Cenarion Hold in Silithus wants you to destroy an Abyssal Templar and bring him an Abyssal Crest as proof of the deed."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15306,
+      "name": "Bor Wildmane",
+      "spawns": {
+       "1377": [
+        [
+         48.57,
+         37.78
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11554,
+      "name": "Grazle",
+      "spawns": {
+       "361": [
+        [
+         50.93,
+         85.01
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8460,
+   "name": "Timbermaw Ally",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Grazle wants you to prove yourself by killing 6 Deadwood Warriors, 6 Deadwood Pathfinders, and 6 Deadwood Gardeners. Return to him in southern Felwood near the Emerald Sanctuary when you are done."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 48,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11554,
+      "name": "Grazle",
+      "spawns": {
+       "361": [
+        [
+         50.93,
+         85.01
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 361
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15395,
+      "name": "Nafien",
+      "spawns": {
+       "361": [
+        [
+         64.77,
+         8.13
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8461,
+   "name": "Deadwood of the North",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Nafien would like you to kill 6 Deadwood Den Watchers, 6 Deadwood Avengers, and 6 Deadwood Shamans. Return to him in northern Felwood near the entrance to Timbermaw Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15395,
+      "name": "Nafien",
+      "spawns": {
+       "361": [
+        [
+         64.77,
+         8.13
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1769
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15395,
+      "name": "Nafien",
+      "spawns": {
+       "361": [
+        [
+         64.77,
+         8.13
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8462,
+   "name": "Speak to Nafien",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Travel north along the main road in Felwood and speak with the furbolg named Nafien. He stands guard outside the entrance to Timbermaw Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8460
+   ],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11554,
+      "name": "Grazle",
+      "spawns": {
+       "361": [
+        [
+         50.93,
+         85.01
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 361
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11556,
+      "name": "Salfa",
+      "spawns": {
+       "618": [
+        [
+         27.73,
+         34.5
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8464,
+   "name": "Winterfall Activity",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Salfa wants you to kill 8 Winterfall Shaman, 8 Winterfall Den Watchers, and 8 Winterfall Ursa. Salfa is located just outside the entrance to Timbermaw Hold in Winterspring."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11556,
+      "name": "Salfa",
+      "spawns": {
+       "618": [
+        [
+         27.73,
+         34.5
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1769
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11556,
+      "name": "Salfa",
+      "spawns": {
+       "618": [
+        [
+         27.73,
+         34.5
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8465,
+   "name": "Speak to Salfa",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Travel through Timbermaw Hold and exit into Winterspring. Speak with Salfa, who stands guard outside the entrance to Timbermaw Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8461
+   ],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15395,
+      "name": "Nafien",
+      "spawns": {
+       "361": [
+        [
+         64.77,
+         8.13
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 361
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11558,
+      "name": "Kernda",
+      "spawns": {
+       "361": [
+        [
+         65.5,
+         3.52
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8470,
+   "name": "Deadwood Ritual Totem",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Deadwood Ritual Totem inside Timbermaw Hold and see if one of the furbolgs there will find a use for the item. The Timbermaw will not speak with you unless you are of Neutral reputation or greater with them."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     20741
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 361
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11558,
+      "name": "Kernda",
+      "spawns": {
+       "361": [
+        [
+         65.5,
+         3.52
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8471,
+   "name": "Winterfall Ritual Totem",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Winterfall Ritual Totem inside Timbermaw Hold and see if one of the furbolgs there will find a use for the item. The Timbermaw will not speak with you unless you are of Neutral reputation or greater with them."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     20742
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 618
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11555,
+      "name": "Gorn One Eye",
+      "spawns": {
+       "361": [
+        [
+         65.18,
+         2.68
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8481,
+   "name": "The Root of All Evil",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Plant the Demon Summoning Torch in the mouth of High Chief Winterfall's cave in the Winterfall furbolg village. Defeat the demon and retrieve the Essence of Xandivious for Gorn One Eye in Timbermaw Hold."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 45,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11555,
+      "name": "Gorn One Eye",
+      "spawns": {
+       "361": [
+        [
+         65.18,
+         2.68
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1769
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8498,
+   "name": "Twilight Battle Orders",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Obtain the Twilight Battle Orders and bring them Commander Mar'alith at Cenarion Hold in Silithus. You must also bring Tactical Task Briefing X in order to complete this quest."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     20943
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15176,
+      "name": "Vargus",
+      "spawns": {
+       "1377": [
+        [
+         51.23,
+         38.86
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8800,
+   "name": "Cenarion Battlegear",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Talk to Vargus at Cenarion Hold in Silithus."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15540,
+      "name": "Windcaller Kaldon",
+      "spawns": {
+       "1377": [
+        [
+         49.98,
+         36.35
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8829,
+   "name": "The Ultimate Deception",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring a Skin of Shadow, 3 Frayed Abomination Stitchings and 1 Twilight Cultist Robe to Aurel Goldleaf at Cenarion Hold in Silithus. You must also bring Logistics Task Briefing XI in order to complete this quest.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     21514
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16091,
+      "name": "Dirk Thunderwood",
+      "spawns": {
+       "1377": [
+        [
+         52.13,
+         39.14
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9023,
+   "name": "The Perfect Poison",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Dirk Thunderwood at Cenarion Hold wants you to bring him Venoxis's Venom Sac and Kurinnaxx's Venom Sac."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16091,
+      "name": "Dirk Thunderwood",
+      "spawns": {
+       "1377": [
+        [
+         52.13,
+         39.14
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    9122,
+    9123
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9121,
+   "name": "The Dread Citadel - Naxxramas",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 5 Arcane Crystals, 2 Nexus Crystals, 1 Righteous Orb and 60 gold pieces. You must also be Honored with the Argent Dawn.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    9121,
+    9123
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9122,
+   "name": "The Dread Citadel - Naxxramas",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 2 Arcane Crystals, 1 Nexus Crystal and 30 gold pieces. You must also be Revered with the Argent Dawn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16132,
+      "name": "Huntsman Leopold",
+      "spawns": {
+       "139": [
+        [
+         71.69,
+         48.94
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9124,
+   "name": "Cryptstalker Armor Doesn't Make Itself...",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Huntsman Leopold at Light's Hope Chapel in the Eastern Plaguelands wants 30 Crypt Fiend Parts."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16132,
+      "name": "Huntsman Leopold",
+      "spawns": {
+       "139": [
+        [
+         71.69,
+         48.94
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16131,
+      "name": "Rohan the Assassin",
+      "spawns": {
+       "139": [
+        [
+         71.62,
+         48.91
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9126,
+   "name": "Bonescythe Digs",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Rohan the Assassin at Light's Hope Chapel in the Eastern Plaguelands wants 30 Bone Fragments.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16131,
+      "name": "Rohan the Assassin",
+      "spawns": {
+       "139": [
+        [
+         71.62,
+         48.91
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9128,
+   "name": "The Elemental Equation",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Archmage Angela Dosantos at Light's Hope Chapel in the Eastern Plaguelands wants 30 Core of Elements.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16116,
+      "name": "Archmage Angela Dosantos",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         48.69
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16112,
+      "name": "Korfax, Champion of the Light",
+      "spawns": {
+       "139": [
+        [
+         71.95,
+         48.52
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9131,
+   "name": "Binding the Dreadnaught",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Korfax at Light's Hope Chapel in the Eastern Plaguelands wants 30 Dark Iron Scraps."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16112,
+      "name": "Korfax, Champion of the Light",
+      "spawns": {
+       "139": [
+        [
+         71.95,
+         48.52
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16135,
+      "name": "Rayne",
+      "spawns": {
+       "139": [
+        [
+         71.41,
+         49.35
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9136,
+   "name": "Savage Flora",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Rayne at Light's Hope Chapel in the Eastern Plaguelands wants 30 Savage Fronds."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16135,
+      "name": "Rayne",
+      "spawns": {
+       "139": [
+        [
+         71.41,
+         49.35
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 16212,
+      "name": "Dispatch Commander Metz",
+      "spawns": {
+       "139": [
+        [
+         71.28,
+         48.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9141,
+   "name": "They Call Me \"The Rooster\"",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Dispatch Commander Metz at Light's Hope Chapel in the Eastern Plaguelands wants an Argent Dawn Valor Token.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 16212,
+      "name": "Dispatch Commander Metz",
+      "spawns": {
+       "139": [
+        [
+         71.28,
+         48.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 9248,
+   "name": "A Humble Offering",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Aurel Goldleaf at Cenarion Hold in Silithus wants you to bring her 1 Abyssal Scepter. You must also be Honored with the Cenarion Circle."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15282,
+      "name": "Aurel Goldleaf",
+      "spawns": {
+       "1377": [
+        [
+         51.96,
+         38.16
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  }
+ ],
+ "source": {
+  "npcDbSha256": "a8c4169690726323dac3c6441f74f7a4d9cafcc08ec42231d72ff28c9471f0ee",
+  "questDbSha256": "621d4a1670232c047e7d171d8f1fdbd31581458935ee59dd70836016838dc942",
+  "ref": "v1.0.16"
+ }
+}

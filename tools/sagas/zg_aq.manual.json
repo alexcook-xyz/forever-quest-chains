@@ -1,0 +1,44 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_ZGAQ.lua",
+ "manual": [
+  {
+   "giver": "Kandrostrasz",
+   "id": 8579,
+   "name": "Mortal Champions",
+   "what": "giver point"
+  },
+  {
+   "giver": "Freshly Dug Dirt",
+   "id": 8598,
+   "name": "rAnS0m",
+   "what": "giver point"
+  },
+  {
+   "giver": "Malfurion Stormrage",
+   "id": 8733,
+   "name": "Eranikus, Tyrant of the Dream",
+   "what": "giver point"
+  },
+  {
+   "giver": "Head of Ossirian the Unscarred",
+   "id": 8791,
+   "name": "The Fall of Ossirian",
+   "what": "giver point"
+  },
+  {
+   "giver": "Eye of C'Thun",
+   "id": 8801,
+   "name": "C'Thun's Legacy",
+   "what": "giver point"
+  },
+  {
+   "giver": "Caelestrasz",
+   "id": 8802,
+   "name": "The Savior of Kalimdor",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Neutral"
+}

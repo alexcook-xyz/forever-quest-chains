@@ -1,0 +1,69 @@
+## Interface: 16001
+## Title: Forever Quest Chains
+## Notes: A simple, selectable quest-chain list for WoW Forever. Browse storylines and zones, see what is done, set waypoints and track quests. Open with /story.
+## Author: alexcook-xyz
+## Version: 0.1.0-alpha
+## OptionalDeps: WaypointUI
+## X-Website: https://github.com/alexcook-xyz/forever-quest-chains
+## X-License: GPL-3.0-or-later
+## X-Category: Quests
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+## SavedVariables: MainStoryGuideDB
+## SavedVariablesPerCharacter: MainStoryGuideCharDB
+## DefaultState: Enabled
+
+Bindings.xml
+Sagas.lua
+Shared_Alliance.lua
+Shared_Durotar.lua
+Shared_Horde.lua
+Data_Human.lua
+Data_HumanDiplomat.lua
+Journal_Human.lua
+Route_Human.lua
+Data_Dwarf.lua
+Journal_Dwarf.lua
+Route_Dwarf.lua
+Data_Gnome.lua
+Journal_Gnome.lua
+Route_Gnome.lua
+Data_NightElf.lua
+Journal_NightElf.lua
+Route_NightElf.lua
+Data_Orc.lua
+Data_HordeSpine.lua
+Journal_Orc.lua
+Route_Orc.lua
+Data_Troll.lua
+Journal_Troll.lua
+Route_Troll.lua
+Data_Tauren.lua
+Journal_Tauren.lua
+Route_Tauren.lua
+Data_Scourge.lua
+Journal_Scourge.lua
+Journal_HordeSpine.lua
+Route_Scourge.lua
+Data_Neutral.lua
+Journal_Neutral.lua
+Data_Dungeons.lua
+Journal_Dungeons.lua
+Data_Reputations.lua
+Journal_Reputations.lua
+Data_Raids.lua
+Journal_Raids.lua
+Data_ZGAQ.lua
+Journal_ZGAQ.lua
+Data_Naxx.lua
+Journal_Naxx.lua
+ZoneSideQuests.lua
+Core.lua
+Guide.lua
+Journal.lua
+Route.lua
+HubChooser.lua
+Hub.lua
+HubStory.lua
+HubMap.lua
+System.lua
+Tags.lua

@@ -1,0 +1,113 @@
+{
+ "anyOfPrereqs": [],
+ "counts": {
+  "Burning Steppes": 11,
+  "Dustwallow Marsh": 58,
+  "Winterspring": 59
+ },
+ "file": "MainStoryGuide/ZoneSideQuests.lua",
+ "manual": [
+  {
+   "giver": "Blue-feathered Necklace",
+   "id": 4882,
+   "name": "Guarding Secrets",
+   "what": "giver point"
+  },
+  {
+   "giver": "Empty Firewater Flask",
+   "id": 5083,
+   "name": "Winterfall Firewater",
+   "what": "giver point"
+  },
+  {
+   "giver": "Crudely-written Log",
+   "id": 5123,
+   "name": "The Final Piece",
+   "what": "giver point"
+  },
+  {
+   "giver": "Rexxar",
+   "id": 6601,
+   "name": "Ascension...",
+   "what": "turn-in point"
+  },
+  {
+   "giver": "Kaylaena Springwhisper",
+   "id": 92009,
+   "name": "Crate Expectations",
+   "what": "turn-in point"
+  },
+  {
+   "giver": "Sebelia",
+   "id": 93269,
+   "name": "Top of the Post",
+   "what": "turn-in point"
+  }
+ ],
+ "outsidePrereqs": [
+  {
+   "id": 626,
+   "prereq": 625
+  },
+  {
+   "id": 1133,
+   "prereq": 1132
+  },
+  {
+   "id": 3822,
+   "prereq": 3821
+  },
+  {
+   "id": 4842,
+   "prereq": 980
+  },
+  {
+   "id": 4901,
+   "prereq": 979
+  },
+  {
+   "id": 5063,
+   "prereq": 5047
+  },
+  {
+   "id": 5067,
+   "prereq": 5047
+  },
+  {
+   "id": 5068,
+   "prereq": 5047
+  },
+  {
+   "id": 5124,
+   "prereq": 5103
+  },
+  {
+   "id": 5127,
+   "prereq": 5126
+  },
+  {
+   "id": 5252,
+   "prereq": 5248
+  },
+  {
+   "id": 6570,
+   "prereq": 6569
+  },
+  {
+   "id": 92009,
+   "prereq": 92008
+  },
+  {
+   "id": 93406,
+   "prereq": 93197
+  },
+  {
+   "id": 95196,
+   "prereq": 95194
+  },
+  {
+   "id": 95264,
+   "prereq": 95263
+  }
+ ]
+}

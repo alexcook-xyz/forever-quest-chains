@@ -1,0 +1,3101 @@
+{
+ "missing": [],
+ "pandabase": [],
+ "pandabase_missing": [],
+ "pandabase_pages": {
+  "8181": {
+   "after": [
+    8182
+   ],
+   "before": [
+    4788
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    4788
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Yeh'kinya",
+    "x": 66.99,
+    "y": 22.36,
+    "zone": "Tanaris"
+   },
+   "id": 8181,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Confront Yeh'kinya",
+   "objective": "Speak with Yeh'kinya.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 40,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Prospector Ironboot",
+    "x": 66.89,
+    "y": 24.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8182": {
+   "after": [],
+   "before": [
+    8181
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8181
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Molthor",
+    "x": 15.0,
+    "y": 15.1,
+    "zone": "Stranglethorn Vale"
+   },
+   "id": 8182,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Hand of Rastakhan",
+   "objective": "Speak with Molthor in Stranglethorn.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 40,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Prospector Ironboot",
+    "x": 66.89,
+    "y": 24.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8201": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Exzhal",
+    "x": 15.26,
+    "y": 15.5,
+    "zone": "Stranglethorn Vale"
+   },
+   "id": 8201,
+   "mapId": 1434,
+   "mapZone": "Stranglethorn Vale",
+   "name": "A Collection of Heads",
+   "objective": "String 5 Channeler's Heads, then return the Collection of Troll Heads to Exzhal on Yojamba Isle.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Exzhal",
+    "x": 15.26,
+    "y": 15.5,
+    "zone": "Stranglethorn Vale"
+   }
+  },
+  "8240": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Vinchaxa",
+    "x": 14.5,
+    "y": 15.83,
+    "zone": "Stranglethorn Vale"
+   },
+   "id": 8240,
+   "mapId": 1434,
+   "mapZone": "Stranglethorn Vale",
+   "name": "A Bijou for Zanza",
+   "objective": "Destroy any one of the Hakkari Bijous found in Zul'Gurub at the Altar of Zanza on Yojamba Isle. When done, speak with Vinchaxa nearby.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 58,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Vinchaxa",
+    "x": 14.5,
+    "y": 15.83,
+    "zone": "Stranglethorn Vale"
+   }
+  },
+  "8579": {
+   "after": [
+    8544,
+    8559,
+    8560,
+    8561,
+    8562,
+    8592,
+    8593,
+    8594,
+    8595,
+    8596,
+    8602,
+    8603
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": false,
+    "name": "Kandrostrasz",
+    "x": null,
+    "y": null,
+    "zone": "Referenced dungeon area"
+   },
+   "id": 8579,
+   "mapId": 320,
+   "mapZone": null,
+   "name": "Mortal Champions",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": false,
+    "name": "Kandrostrasz",
+    "x": null,
+    "y": null,
+    "zone": "Referenced dungeon area"
+   }
+  },
+  "8584": {
+   "after": [
+    8585
+   ],
+   "before": [
+    8576
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8576
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirge Quikcleave",
+    "x": 52.63,
+    "y": 28.11,
+    "zone": "Tanaris"
+   },
+   "id": 8584,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Never Ask Me About My Business",
+   "objective": "Narain Soothfancy in Tanaris wants you to speak with Dirge Quikcleave in Gadgetzan.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8585": {
+   "after": [
+    8586
+   ],
+   "before": [
+    8584
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8584
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirge Quikcleave",
+    "x": 52.63,
+    "y": 28.11,
+    "zone": "Tanaris"
+   },
+   "id": 8585,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Isle of Dread!",
+   "objective": "Recover Lakmaeran's Carcass and 20 Chimaerok Tenderloins for Dirge Quikcleave in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirge Quikcleave",
+    "x": 52.63,
+    "y": 28.11,
+    "zone": "Tanaris"
+   }
+  },
+  "8586": {
+   "after": [
+    8587
+   ],
+   "before": [
+    8585
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8585
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirge Quikcleave",
+    "x": 52.63,
+    "y": 28.11,
+    "zone": "Tanaris"
+   },
+   "id": 8586,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Dirge's Kickin' Chimaerok Chops",
+   "objective": "Dirge Quikcleave in Gadgetzan wants you to bring him 20 Goblin Rocket Fuel and 20 Deeprock Salt.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirge Quikcleave",
+    "x": 52.63,
+    "y": 28.11,
+    "zone": "Tanaris"
+   }
+  },
+  "8587": {
+   "after": [
+    8728
+   ],
+   "before": [
+    8586
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8586
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   },
+   "id": 8587,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Return to Narain",
+   "objective": "Deliver the 500 Pound Chicken to Narain Soothfancy in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dirge Quikcleave",
+    "x": 52.63,
+    "y": 28.11,
+    "zone": "Tanaris"
+   }
+  },
+  "8597": {
+   "after": [
+    8598
+   ],
+   "before": [
+    8576
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8576
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Freshly Dug Dirt",
+    "x": 30.0,
+    "y": 89.1,
+    "zone": "Synthetic AreaID: Azeroth world map"
+   },
+   "id": 8597,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Draconic for Dummies",
+   "objective": "Find Narain Soothfancy's book, buried on an island in the South Seas.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8598": {
+   "after": [
+    8606
+   ],
+   "before": [
+    8597
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8597
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.2,
+    "y": 18.6,
+    "zone": "Tanaris"
+   },
+   "id": 8598,
+   "mapId": 947,
+   "mapZone": "Azeroth",
+   "name": "rAnS0m",
+   "objective": "Return the Ransom Letter to Narain Soothfancy in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Freshly Dug Dirt",
+    "x": 30.0,
+    "y": 89.1,
+    "zone": "Synthetic AreaID: Azeroth world map"
+   }
+  },
+  "8606": {
+   "after": [
+    8620
+   ],
+   "before": [
+    8598
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8598
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   },
+   "id": 8606,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Decoy!",
+   "objective": "Narain Soothfancy in Tanaris wants you to travel to Winterspring and place the Bag of Gold at the drop off point documented by the booknappers.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8620": {
+   "after": [
+    8728
+   ],
+   "before": [
+    8606
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8606
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   },
+   "id": 8620,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Only Prescription",
+   "objective": "Recover the 8 lost chapters of Draconic for Dummies and combine them with the Magical Book Binding and return the completed book of Draconic for Dummies: Volume II to Narain Soothfancy in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8728": {
+   "after": [
+    8729
+   ],
+   "before": [
+    8578,
+    8587,
+    8620
+   ],
+   "beforeAll": [
+    8578,
+    8587,
+    8620
+   ],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   },
+   "id": 8728,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Good News and The Bad News",
+   "objective": "Narain Soothfancy in Tanaris wants you to bring him 20 Arcanite Bars, 10 Elementium Ore, 10 Azerothian Diamonds, and 10 Blue Sapphires.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8729": {
+   "after": [
+    8742
+   ],
+   "before": [
+    8728
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8728
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8729,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Wrath of Neptulon",
+   "objective": "Use the Arcanite Buoy at the Swirling Maelstrom at the Bay of Storms in Azshara.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Narain Soothfancy",
+    "x": 65.24,
+    "y": 18.58,
+    "zone": "Tanaris"
+   }
+  },
+  "8733": {
+   "after": [
+    8734
+   ],
+   "before": [
+    8555
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8555
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Forest Wisp",
+    "x": 37.6,
+    "y": 47.9,
+    "zone": "Teldrassil"
+   },
+   "id": 8733,
+   "mapId": 220,
+   "mapZone": null,
+   "name": "Eranikus, Tyrant of the Dream",
+   "objective": "Travel to the continent of Teldrassil and find Malfurion's agent somewhere outside the walls of Darnassus.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": false,
+    "name": "Malfurion Stormrage",
+    "x": null,
+    "y": null,
+    "zone": "Referenced dungeon area"
+   }
+  },
+  "8734": {
+   "after": [
+    8735
+   ],
+   "before": [
+    8733
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8733
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Keeper Remulos",
+    "x": 36.2,
+    "y": 41.8,
+    "zone": "Moonglade"
+   },
+   "id": 8734,
+   "mapId": 1438,
+   "mapZone": "Teldrassil",
+   "name": "Tyrande and Remulos",
+   "objective": "Travel to the Moonglade and speak to Keeper Remulos.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Forest Wisp",
+    "x": 37.55,
+    "y": 47.92,
+    "zone": "Teldrassil"
+   }
+  },
+  "8735": {
+   "after": [
+    8736
+   ],
+   "before": [
+    8734
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8734
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Keeper Remulos",
+    "x": 36.18,
+    "y": 41.79,
+    "zone": "Moonglade"
+   },
+   "id": 8735,
+   "mapId": 1450,
+   "mapZone": "Moonglade",
+   "name": "The Nightmare's Corruption",
+   "objective": "Travel to the four Emerald Dream portals in Azeroth and collect a Fragment of the Nightmare's Corruption from each. Return to Keeper Remulos in the Moonglade when you have completed this task.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Keeper Remulos",
+    "x": 36.18,
+    "y": 41.79,
+    "zone": "Moonglade"
+   }
+  },
+  "8736": {
+   "after": [
+    8741
+   ],
+   "before": [
+    8735
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8735
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Keeper Remulos",
+    "x": 36.18,
+    "y": 41.79,
+    "zone": "Moonglade"
+   },
+   "id": 8736,
+   "mapId": 1450,
+   "mapZone": "Moonglade",
+   "name": "The Nightmare Manifests",
+   "objective": "Defend Nighthaven from Eranikus. Do not let Keeper Remulos perish. Do not slay Eranikus. Defend yourself. Await Tyrande.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Keeper Remulos",
+    "x": 36.18,
+    "y": 41.79,
+    "zone": "Moonglade"
+   }
+  },
+  "8741": {
+   "after": [
+    8742
+   ],
+   "before": [
+    8736
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8736
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.3,
+    "y": 50.0,
+    "zone": "Tanaris"
+   },
+   "id": 8741,
+   "mapId": 1450,
+   "mapZone": "Moonglade",
+   "name": "The Champion Returns",
+   "objective": "Take the Green Scepter Shard to Anachronos at the Caverns of Time in Tanaris.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Keeper Remulos",
+    "x": 36.18,
+    "y": 41.79,
+    "zone": "Moonglade"
+   }
+  },
+  "8742": {
+   "after": [
+    8743,
+    8745
+   ],
+   "before": [
+    8729,
+    8730,
+    8741
+   ],
+   "beforeAll": [
+    8729,
+    8730,
+    8741
+   ],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8742,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Might of Kalimdor",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8743": {
+   "after": [],
+   "before": [
+    8742
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8742
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "The Scarab Gong",
+    "x": 25.72,
+    "y": 90.86,
+    "zone": "Silithus"
+   },
+   "id": 8743,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Bang a Gong!",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "The Scarab Gong",
+    "x": 25.72,
+    "y": 90.86,
+    "zone": "Silithus"
+   }
+  },
+  "8745": {
+   "after": [],
+   "before": [
+    8742
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8742
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jonathan the Revelator",
+    "x": 25.94,
+    "y": 90.96,
+    "zone": "Silithus"
+   },
+   "id": 8745,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "Treasure of the Timeless One",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jonathan the Revelator",
+    "x": 25.94,
+    "y": 90.96,
+    "zone": "Silithus"
+   }
+  },
+  "8752": {
+   "after": [
+    8753
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8752,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Path of the Conqueror",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8753": {
+   "after": [
+    8754
+   ],
+   "before": [
+    8752
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8752
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8753,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Path of the Conqueror",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8754": {
+   "after": [
+    8755
+   ],
+   "before": [
+    8753
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8753
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8754,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Path of the Conqueror",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8755": {
+   "after": [
+    8756
+   ],
+   "before": [
+    8754
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8754
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8755,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Path of the Conqueror",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8756": {
+   "after": [
+    8766
+   ],
+   "before": [
+    8755
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8755
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   },
+   "id": 8756,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "The Qiraji Conqueror",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.27,
+    "y": 50.03,
+    "zone": "Tanaris"
+   }
+  },
+  "8791": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Mar'alith",
+    "x": 49.2,
+    "y": 34.18,
+    "zone": "Silithus"
+   },
+   "id": 8791,
+   "mapId": 1451,
+   "mapZone": "Silithus",
+   "name": "The Fall of Ossirian",
+   "objective": "Deliver the Head of Ossirian the Unscarred to Commander Mar'alith at Cenarion Hold in Silithus.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Head of Ossirian the Unscarred",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "8801": {
+   "after": [
+    8802
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": false,
+    "name": "Caelestrasz",
+    "x": null,
+    "y": null,
+    "zone": "Referenced dungeon area"
+   },
+   "id": 8801,
+   "mapId": 320,
+   "mapZone": null,
+   "name": "C'Thun's Legacy",
+   "objective": "Take the Eye of C'Thun to Caelastrasz in the Temple of Ahn'Qiraj.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Eye of C'Thun",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "8802": {
+   "after": [],
+   "before": [
+    8801
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    8801
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Anachronos",
+    "x": 65.3,
+    "y": 50.0,
+    "zone": "Tanaris"
+   },
+   "id": 8802,
+   "mapId": 320,
+   "mapZone": null,
+   "name": "The Savior of Kalimdor",
+   "objective": "Take the Eye of C'Thun to Anachronos at the Caverns of Time.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 60,
+   "startedBy": {
+    "kind": "npc",
+    "located": false,
+    "name": "Caelestrasz",
+    "x": null,
+    "y": null,
+    "zone": "Referenced dungeon area"
+   }
+  }
+ },
+ "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8579,
+      "name": "Yeh'kinya",
+      "spawns": {
+       "440": [
+        [
+         66.99,
+         22.36
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8181,
+   "name": "Confront Yeh'kinya",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Yeh'kinya."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    4788
+   ],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 40,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10460,
+      "name": "Prospector Ironboot",
+      "spawns": {
+       "440": [
+        [
+         66.89,
+         24.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 19
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14875,
+      "name": "Molthor",
+      "spawns": {
+       "33": [
+        [
+         15.04,
+         15.13
+        ]
+       ]
+      },
+      "zoneID": 33
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8182,
+   "name": "The Hand of Rastakhan",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Molthor in Stranglethorn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8181
+   ],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 40,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10460,
+      "name": "Prospector Ironboot",
+      "spawns": {
+       "440": [
+        [
+         66.89,
+         24.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 14910,
+      "name": "Exzhal",
+      "spawns": {
+       "33": [
+        [
+         15.26,
+         15.5
+        ]
+       ]
+      },
+      "zoneID": 33
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8201,
+   "name": "A Collection of Heads",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "String 5 Channeler's Heads, then return the Collection of Troll Heads to Exzhal on Yojamba Isle."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 14910,
+      "name": "Exzhal",
+      "spawns": {
+       "33": [
+        [
+         15.26,
+         15.5
+        ]
+       ]
+      },
+      "zoneID": 33
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 19
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15070,
+      "name": "Vinchaxa",
+      "spawns": {
+       "33": [
+        [
+         14.5,
+         15.83
+        ]
+       ]
+      },
+      "zoneID": 33
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8240,
+   "name": "A Bijou for Zanza",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Destroy any one of the Hakkari Bijous found in Zul'Gurub at the Altar of Zanza on Yojamba Isle. When done, speak with Vinchaxa nearby."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 58,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15070,
+      "name": "Vinchaxa",
+      "spawns": {
+       "33": [
+        [
+         14.5,
+         15.83
+        ]
+       ]
+      },
+      "zoneID": 33
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 19
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15503,
+      "name": "Kandrostrasz",
+      "spawns": {
+       "3428": [
+        [
+         -1,
+         -1
+        ]
+       ]
+      },
+      "zoneID": 3428
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8579,
+   "name": "Mortal Champions",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15503,
+      "name": "Kandrostrasz",
+      "spawns": {
+       "3428": [
+        [
+         -1,
+         -1
+        ]
+       ]
+      },
+      "zoneID": 3428
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3428
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8125,
+      "name": "Dirge Quikcleave",
+      "spawns": {
+       "440": [
+        [
+         52.63,
+         28.11
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8584,
+   "name": "Never Ask Me About My Business",
+   "nextQuestInChain": 8585,
+   "objectivesText": [
+    "Narain Soothfancy in Tanaris wants you to speak with Dirge Quikcleave in Gadgetzan."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8576
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8125,
+      "name": "Dirge Quikcleave",
+      "spawns": {
+       "440": [
+        [
+         52.63,
+         28.11
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8585,
+   "name": "The Isle of Dread!",
+   "nextQuestInChain": 8586,
+   "objectivesText": [
+    "Recover Lakmaeran's Carcass and 20 Chimaerok Tenderloins for Dirge Quikcleave in Tanaris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8584
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 8125,
+      "name": "Dirge Quikcleave",
+      "spawns": {
+       "440": [
+        [
+         52.63,
+         28.11
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8125,
+      "name": "Dirge Quikcleave",
+      "spawns": {
+       "440": [
+        [
+         52.63,
+         28.11
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8586,
+   "name": "Dirge's Kickin' Chimaerok Chops",
+   "nextQuestInChain": 8587,
+   "objectivesText": [
+    "Dirge Quikcleave in Gadgetzan wants you to bring him 20 Goblin Rocket Fuel and 20 Deeprock Salt."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8585
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 8125,
+      "name": "Dirge Quikcleave",
+      "spawns": {
+       "440": [
+        [
+         52.63,
+         28.11
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8587,
+   "name": "Return to Narain",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Deliver the 500 Pound Chicken to Narain Soothfancy in Tanaris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8586
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 8125,
+      "name": "Dirge Quikcleave",
+      "spawns": {
+       "440": [
+        [
+         52.63,
+         28.11
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180652
+    ]
+   },
+   "id": 8597,
+   "name": "Draconic for Dummies",
+   "nextQuestInChain": 8598,
+   "objectivesText": [
+    "Find Narain Soothfancy's book, buried on an island in the South Seas."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8576
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8598,
+   "name": "rAnS0m",
+   "nextQuestInChain": 8606,
+   "objectivesText": [
+    "Return the Ransom Letter to Narain Soothfancy in Tanaris.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8597
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180652
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8606,
+   "name": "Decoy!",
+   "nextQuestInChain": 8620,
+   "objectivesText": [
+    "Narain Soothfancy in Tanaris wants you to travel to Winterspring and place the Bag of Gold at the drop off point documented by the booknappers."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8598
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8620,
+   "name": "The Only Prescription",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Recover the 8 lost chapters of Draconic for Dummies and combine them with the Magical Book Binding and return the completed book of Draconic for Dummies: Volume II to Narain Soothfancy in Tanaris."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8606
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8728,
+   "name": "The Good News and The Bad News",
+   "nextQuestInChain": 8729,
+   "objectivesText": [
+    "Narain Soothfancy in Tanaris wants you to bring him 20 Arcanite Bars, 10 Elementium Ore, 10 Azerothian Diamonds, and 10 Blue Sapphires."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8620
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8729,
+   "name": "The Wrath of Neptulon",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Use the Arcanite Buoy at the Swirling Maelstrom at the Bay of Storms in Azshara."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8728
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11811,
+      "name": "Narain Soothfancy",
+      "spawns": {
+       "440": [
+        [
+         65.24,
+         18.58
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 16
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15624,
+      "name": "Forest Wisp",
+      "spawns": {
+       "141": [
+        [
+         37.55,
+         47.92
+        ]
+       ]
+      },
+      "zoneID": 141
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8733,
+   "name": "Eranikus, Tyrant of the Dream",
+   "nextQuestInChain": 8734,
+   "objectivesText": [
+    "Travel to the continent of Teldrassil and find Malfurion's agent somewhere outside the walls of Darnassus.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15362,
+      "name": "Malfurion Stormrage",
+      "spawns": {},
+      "zoneID": 0
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1417
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11832,
+      "name": "Keeper Remulos",
+      "spawns": {
+       "493": [
+        [
+         36.18,
+         41.79
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8734,
+   "name": "Tyrande and Remulos",
+   "nextQuestInChain": 8735,
+   "objectivesText": [
+    "Travel to the Moonglade and speak to Keeper Remulos."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8733
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15624,
+      "name": "Forest Wisp",
+      "spawns": {
+       "141": [
+        [
+         37.55,
+         47.92
+        ]
+       ]
+      },
+      "zoneID": 141
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 141
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11832,
+      "name": "Keeper Remulos",
+      "spawns": {
+       "493": [
+        [
+         36.18,
+         41.79
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8735,
+   "name": "The Nightmare's Corruption",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Travel to the four Emerald Dream portals in Azeroth and collect a Fragment of the Nightmare's Corruption from each. Return to Keeper Remulos in the Moonglade when you have completed this task.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8734
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11832,
+      "name": "Keeper Remulos",
+      "spawns": {
+       "493": [
+        [
+         36.18,
+         41.79
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 493
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11832,
+      "name": "Keeper Remulos",
+      "spawns": {
+       "493": [
+        [
+         36.18,
+         41.79
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8736,
+   "name": "The Nightmare Manifests",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Defend Nighthaven from Eranikus. Do not let Keeper Remulos perish. Do not slay Eranikus. Defend yourself. Await Tyrande.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8735
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11832,
+      "name": "Keeper Remulos",
+      "spawns": {
+       "493": [
+        [
+         36.18,
+         41.79
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 493
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8741,
+   "name": "The Champion Returns",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Green Scepter Shard to Anachronos at the Caverns of Time in Tanaris.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8736
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11832,
+      "name": "Keeper Remulos",
+      "spawns": {
+       "493": [
+        [
+         36.18,
+         41.79
+        ]
+       ]
+      },
+      "zoneID": 493
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 493
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8742,
+   "name": "The Might of Kalimdor",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [
+    8729,
+    8730,
+    8741
+   ],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180717
+    ]
+   },
+   "id": 8743,
+   "name": "Bang a Gong!",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8742
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     180717
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15693,
+      "name": "Jonathan the Revelator",
+      "spawns": {
+       "1377": [
+        [
+         25.94,
+         90.96
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8745,
+   "name": "Treasure of the Timeless One",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8742
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15693,
+      "name": "Jonathan the Revelator",
+      "spawns": {
+       "1377": [
+        [
+         25.94,
+         90.96
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1377
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    8747,
+    8757
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8752,
+   "name": "The Path of the Conqueror",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    8748,
+    8758
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8753,
+   "name": "The Path of the Conqueror",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8752
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    8749,
+    8759
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8754,
+   "name": "The Path of the Conqueror",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8753
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    8750,
+    8760
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8755,
+   "name": "The Path of the Conqueror",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8754
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    8751,
+    8761
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8756,
+   "name": "The Qiraji Conqueror",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8755
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 440
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15181,
+      "name": "Commander Mar'alith",
+      "spawns": {
+       "1377": [
+        [
+         49.2,
+         34.18
+        ]
+       ]
+      },
+      "zoneID": 1377
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8791,
+   "name": "The Fall of Ossirian",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Deliver the Head of Ossirian the Unscarred to Commander Mar'alith at Cenarion Hold in Silithus.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     21220
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3429
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15379,
+      "name": "Caelestrasz",
+      "spawns": {
+       "3428": [
+        [
+         -1,
+         -1
+        ]
+       ]
+      },
+      "zoneID": 3428
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8801,
+   "name": "C'Thun's Legacy",
+   "nextQuestInChain": 8802,
+   "objectivesText": [
+    "Take the Eye of C'Thun to Caelastrasz in the Temple of Ahn'Qiraj."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [
+     21221
+    ],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3428
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 15192,
+      "name": "Anachronos",
+      "spawns": {
+       "440": [
+        [
+         65.27,
+         50.03
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 8802,
+   "name": "The Savior of Kalimdor",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Eye of C'Thun to Anachronos at the Caverns of Time."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    8801
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 60,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 15379,
+      "name": "Caelestrasz",
+      "spawns": {
+       "3428": [
+        [
+         -1,
+         -1
+        ]
+       ]
+      },
+      "zoneID": 3428
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 3428
+  }
+ ],
+ "source": {
+  "npcDbSha256": "a8c4169690726323dac3c6441f74f7a4d9cafcc08ec42231d72ff28c9471f0ee",
+  "questDbSha256": "621d4a1670232c047e7d171d8f1fdbd31581458935ee59dd70836016838dc942",
+  "ref": "v1.0.16"
+ }
+}

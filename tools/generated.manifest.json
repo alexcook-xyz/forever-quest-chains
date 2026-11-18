@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "files": {
+    "MainStoryGuide/Data_Dungeons.lua": "e66412beb04a9714c1f75007b2d773882f36846f25aa787dc79e8a49ff2f5a9f",
+    "MainStoryGuide/Data_Dwarf.lua": "80f6e2bdf3f0fb8d69bc0e2ff07f625829e03452bb0ff4df0f2e29818e1acac5",
+    "MainStoryGuide/Data_Gnome.lua": "a7582a126b77f5d2e728543c34f2313e9d0826d7760fa0d2ce59ba8882f8cfec",
+    "MainStoryGuide/Data_HordeSpine.lua": "5918c4208d8e85af15006cfd31094a80c6ceeb41912d45b0a57b1203cf84cfca",
+    "MainStoryGuide/Data_HumanDiplomat.lua": "3b741ed4ca8e2901facba254475de2e8dc7cc2fe96fe02152e5c26270ce7f83a",
+    "MainStoryGuide/Data_Naxx.lua": "ba997c80a5781d553833c90acf685025ed07c022ae19215fdbcf1fc6fd140d04",
+    "MainStoryGuide/Data_Neutral.lua": "5901e3536749642fd8015c175b9089dc98b1c2c3bce469a6622ec420a1cf5b13",
+    "MainStoryGuide/Data_NightElf.lua": "4f258d485c29e12178af80058832334f6f6786313c840d3d74a4dffd68fbf04a",
+    "MainStoryGuide/Data_Orc.lua": "9d791bbb1a051a28802f88d71ead6022441661838206c326e3b53287640aadce",
+    "MainStoryGuide/Data_Raids.lua": "b093833f6769c2b740180a3d0acfc00c05366e0e781e4e452a95be482326f1db",
+    "MainStoryGuide/Data_Reputations.lua": "aa106ecc0ba44cfee9a3ad2b200351e05ddb43a3ccfac47fea725a036d19ba04",
+    "MainStoryGuide/Data_Scourge.lua": "a6e3dae7ec7123005792865ec8c45184526912a3b7117d31740d86282efe6c42",
+    "MainStoryGuide/Data_Tauren.lua": "e3033699908d89444aabd6e63bd84ed4a447bc4ce3e0c32b55fd4ac7305757c5",
+    "MainStoryGuide/Data_Troll.lua": "4e175035e90c53c716109ff9db741240587c362e83fcb1003ebdc945c3906b30",
+    "MainStoryGuide/Data_ZGAQ.lua": "bd18c6a5a6a0564d7463403fb1ae02b65bcda404d92f341dba6d094a6f2afe98",
+    "MainStoryGuide/Journal_Dungeons.lua": "eecfd1e8d516e4f6bfcc28e64bc0f757f1d0068b9e0c5b28c0cac2196a309a45",
+    "MainStoryGuide/Journal_Naxx.lua": "6c13f12fc3856ec5c25ac0d9e4f78fa0b707a554d310ccbc8dcc803198fb077f",
+    "MainStoryGuide/Journal_Raids.lua": "867a438dea62b4cfd204699af035054363fa66e402c44b19c732e3e720bc1bc2",
+    "MainStoryGuide/Journal_Reputations.lua": "08c3c8dfaa3c929f80d92527683054d94ecbf3f39f555bacecd6c4a72e43bd56",
+    "MainStoryGuide/Journal_ZGAQ.lua": "080fb9d46bce6dd14c1ad11cb9ab9c36822f9687285572aa35f615e37544e9b0",
+    "MainStoryGuide/Route_Dwarf.lua": "874439c2ae95492e834f369f480faca117f452b2a13b8dc8fed81e52bb8f981f",
+    "MainStoryGuide/Route_Gnome.lua": "23577af682774da585f7d4ecb166f77ad5a600554638c35f49c88e2d29f0cfc4",
+    "MainStoryGuide/Route_NightElf.lua": "62e8aaf5b8ee466dffb422e48e3282727234ea0cb93e9fdeae4d3d46de4e2af5",
+    "MainStoryGuide/Route_Orc.lua": "65fdbfa57ae89179fe3e034ecc96395ef36912fd8c2c95de6dff6f238bf86a1a",
+    "MainStoryGuide/Route_Scourge.lua": "70e609a6f9d14b70bfe83aba9d367bca427132d80d89b544f7e9250c370811d5",
+    "MainStoryGuide/Route_Tauren.lua": "9913387019d4f0a18566967d5e5d6942ef128765eb6b9ebf4b135a1dcad24f06",
+    "MainStoryGuide/Route_Troll.lua": "2ba58145a1edeec6216514a979db1c4b5a29501b603e2876321495b97f7f31dd",
+    "MainStoryGuide/ZoneSideQuests.lua": "b082ec54ac4f362c19ca8b3ecb7cee31a28f64260856647dc2e95ef3dfd782d9"
+  }
+}

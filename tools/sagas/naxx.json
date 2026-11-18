@@ -1,0 +1,243 @@
+{
+ "saga": "Neutral",
+ "file": "Naxx",
+ "chainsOnly": true,
+ "route": [],
+ "comment": "Naxxramas and the endgame Plaguelands (issue #24): the quests of Naxxramas and the quests of the two Plaguelands at the required level of 55 or more, with the quests they need. Chains only: no saga route holds them. Selection rules: tools/select_naxx.py.",
+ "chains": [
+  {
+   "id": "naxxramas",
+   "name": "Naxxramas",
+   "zone": "Naxxramas",
+   "summary": "20 quests for Naxxramas at required level 60. The quests start with Archmage Angela Dosantos, Commander Eligor Dawnbringer, Korfax, Champion of the Light and 1 more.",
+   "quests": [
+    {
+     "id": 9123
+    },
+    {
+     "id": 9033
+    },
+    {
+     "id": 9120
+    },
+    {
+     "id": 9229
+    },
+    {
+     "id": 9230
+    },
+    {
+     "id": 9232
+    },
+    {
+     "id": 9233
+    },
+    {
+     "id": 9234
+    },
+    {
+     "id": 9235
+    },
+    {
+     "id": 9236
+    },
+    {
+     "id": 9237
+    },
+    {
+     "id": 9238
+    },
+    {
+     "id": 9239
+    },
+    {
+     "id": 9240
+    },
+    {
+     "id": 9241
+    },
+    {
+     "id": 9242
+    },
+    {
+     "id": 9243
+    },
+    {
+     "id": 9244
+    },
+    {
+     "id": 9245
+    },
+    {
+     "id": 9246
+    }
+   ]
+  },
+  {
+   "id": "plaguelands_endgame",
+   "name": "Plaguelands Endgame",
+   "zone": "Plaguelands",
+   "summary": "9 quests for Plaguelands Endgame at required levels 55 to 57. The quests start with Quartermaster Miranda Breechlock, Guard Didier, Haleh and 1 more.",
+   "quests": [
+    {
+     "id": 5513
+    },
+    {
+     "id": 5517
+    },
+    {
+     "id": 9165
+    },
+    {
+     "id": 9223
+    },
+    {
+     "id": 5161
+    },
+    {
+     "id": 5162
+    },
+    {
+     "id": 5164
+    },
+    {
+     "id": 5166
+    },
+    {
+     "id": 5167
+    }
+   ]
+  },
+  {
+   "id": "plaguelands_endgame_alliance",
+   "name": "Plaguelands Endgame (Alliance)",
+   "zone": "Plaguelands",
+   "summary": "20 quests for Plaguelands Endgame at required levels 50 to 56. The quests start with Crier Goodman, Courier Hammerfall, Herald Moonstalker and 8 more.",
+   "quests": [
+    {
+     "id": 5066
+    },
+    {
+     "id": 5090
+    },
+    {
+     "id": 5091
+    },
+    {
+     "id": 5092
+    },
+    {
+     "id": 5097
+    },
+    {
+     "id": 5507
+    },
+    {
+     "id": 5521
+    },
+    {
+     "id": 5533
+    },
+    {
+     "id": 5537
+    },
+    {
+     "id": 5538
+    },
+    {
+     "id": 5801
+    },
+    {
+     "id": 5803
+    },
+    {
+     "id": 5505
+    },
+    {
+     "id": 9664
+    },
+    {
+     "id": 6182
+    },
+    {
+     "id": 6183
+    },
+    {
+     "id": 6184
+    },
+    {
+     "id": 6185
+    },
+    {
+     "id": 6186
+    },
+    {
+     "id": 6187
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "plaguelands_endgame_horde",
+   "name": "Plaguelands Endgame (Horde)",
+   "zone": "Plaguelands",
+   "summary": "9 quests for Plaguelands Endgame at required level 55. The quests start with High Executor Derrington, Apothecary Dithers, Argent Quartermaster Hasana and 2 more.",
+   "quests": [
+    {
+     "id": 838
+    },
+    {
+     "id": 964
+    },
+    {
+     "id": 5504
+    },
+    {
+     "id": 5514
+    },
+    {
+     "id": 5524
+    },
+    {
+     "id": 5802
+    },
+    {
+     "id": 5804
+    },
+    {
+     "id": 5511
+    },
+    {
+     "id": 9665
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  }
+ ],
+ "pandabaseFacts": [
+  9234,
+  9235,
+  9236,
+  9238,
+  9239,
+  9240,
+  9241,
+  9242,
+  9243,
+  9244,
+  9245,
+  9246
+ ]
+}

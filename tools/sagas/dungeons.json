@@ -1,0 +1,1320 @@
+{
+ "saga": "Neutral",
+ "file": "Dungeons",
+ "chainsOnly": true,
+ "route": [],
+ "comment": "Dungeon codas (issue #20): the leveling dungeon quests, one chain per dungeon for both factions and one per faction for the quests only that faction takes. Chains only: no saga route holds them. Selection rules: tools/select_codas.py.",
+ "chains": [
+  {
+   "id": "dungeon_ragefire_chasm_horde",
+   "name": "Ragefire Chasm (Horde)",
+   "zone": "Ragefire Chasm",
+   "summary": "8 quests for Ragefire Chasm at required level 9. The quests start with Rahauro, Maur Grimtotem, Varimathras and 2 more.",
+   "quests": [
+    {
+     "id": 5722
+    },
+    {
+     "id": 5723
+    },
+    {
+     "id": 5724
+    },
+    {
+     "id": 5725
+    },
+    {
+     "id": 5726
+    },
+    {
+     "id": 5727
+    },
+    {
+     "id": 5728
+    },
+    {
+     "id": 5761
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_blackfathom_deeps_alliance",
+   "name": "Blackfathom Deeps (Alliance)",
+   "zone": "Blackfathom Deeps",
+   "summary": "4 quests for Blackfathom Deeps at required levels 10 to 20. The quests start with Gerrig Bonegrip, Argos Nightwhisper, Gershala Nightwhisper and 1 more.",
+   "quests": [
+    {
+     "id": 971
+    },
+    {
+     "id": 3765
+    },
+    {
+     "id": 1275
+    },
+    {
+     "id": 1199
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_blackfathom_deeps_horde",
+   "name": "Blackfathom Deeps (Horde)",
+   "zone": "Blackfathom Deeps",
+   "summary": "6 quests for Blackfathom Deeps at required levels 17 to 21. The quests start with Tsunaman, Je'neu Sancrea, Argent Guard Thaelrid.",
+   "quests": [
+    {
+     "id": 6562
+    },
+    {
+     "id": 6563
+    },
+    {
+     "id": 6564
+    },
+    {
+     "id": 6565
+    },
+    {
+     "id": 6561
+    },
+    {
+     "id": 6921
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_wailing_caverns",
+   "name": "Wailing Caverns",
+   "zone": "Wailing Caverns",
+   "summary": "6 quests for Wailing Caverns at required levels 13 to 15. The quests start with Mebok Mizzyrix, Nalpak, Crane Operator Bigglefuzz and 1 more.",
+   "quests": [
+    {
+     "id": 865
+    },
+    {
+     "id": 1486
+    },
+    {
+     "id": 1491
+    },
+    {
+     "id": 959
+    },
+    {
+     "id": 1487
+    },
+    {
+     "id": 6981
+    }
+   ]
+  },
+  {
+   "id": "dungeon_wailing_caverns_horde",
+   "name": "Wailing Caverns (Horde)",
+   "zone": "Wailing Caverns",
+   "summary": "4 quests for Wailing Caverns at required levels 11 to 14. The quests start with Tonga Runetotem, Arch Druid Hamuul Runetotem, Nara Wildmane and 1 more.",
+   "quests": [
+    {
+     "id": 1489
+    },
+    {
+     "id": 1490
+    },
+    {
+     "id": 914
+    },
+    {
+     "id": 962
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_the_deadmines_alliance",
+   "name": "The Deadmines (Alliance)",
+   "zone": "The Deadmines",
+   "summary": "3 quests for The Deadmines at required levels 14 to 15. The quests start with Wilder Thistlenettle, Scout Riell.",
+   "quests": [
+    {
+     "id": 168
+    },
+    {
+     "id": 214
+    },
+    {
+     "id": 167
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_shadowfang_keep_horde",
+   "name": "Shadowfang Keep (Horde)",
+   "zone": "Shadowfang Keep",
+   "summary": "3 quests for Shadowfang Keep at required levels 16 to 18. The quests start with Keeper Bel'dugur, Dalar Dawnweaver, High Executor Hadrec.",
+   "quests": [
+    {
+     "id": 1013
+    },
+    {
+     "id": 1014
+    },
+    {
+     "id": 1098
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_gnomeregan",
+   "name": "Gnomeregan",
+   "zone": "Gnomeregan",
+   "summary": "3 quests for Gnomeregan at required levels 24 to 28. The quests start with Kernobee.",
+   "quests": [
+    {
+     "id": 2904
+    },
+    {
+     "id": 2951
+    },
+    {
+     "id": 2945
+    }
+   ]
+  },
+  {
+   "id": "dungeon_gnomeregan_alliance",
+   "name": "Gnomeregan (Alliance)",
+   "zone": "Gnomeregan",
+   "summary": "3 quests for Gnomeregan at required levels 24 to 28. The quests start with Mathiel, Gaxim Rustfizzle.",
+   "quests": [
+    {
+     "id": 2925
+    },
+    {
+     "id": 2931
+    },
+    {
+     "id": 2947
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_gnomeregan_horde",
+   "name": "Gnomeregan (Horde)",
+   "zone": "Gnomeregan",
+   "summary": "4 quests for Gnomeregan at required levels 20 to 28. The quests start with Nogg, Sovik, Scooty.",
+   "quests": [
+    {
+     "id": 2841
+    },
+    {
+     "id": 2842
+    },
+    {
+     "id": 2843
+    },
+    {
+     "id": 2949
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_razorfen_kraul",
+   "name": "Razorfen Kraul",
+   "zone": "Razorfen Kraul",
+   "summary": "2 quests for Razorfen Kraul at required levels 20 to 23. The quests start with Mebok Mizzyrix, Willix the Importer.",
+   "quests": [
+    {
+     "id": 1221
+    },
+    {
+     "id": 1144
+    }
+   ]
+  },
+  {
+   "id": "dungeon_razorfen_kraul_alliance",
+   "name": "Razorfen Kraul (Alliance)",
+   "zone": "Razorfen Kraul",
+   "summary": "3 quests for Razorfen Kraul at required levels 25 to 29. The quests start with Heralath Fallowbrook, Falfindel Waywarder.",
+   "quests": [
+    {
+     "id": 1142
+    },
+    {
+     "id": 1100
+    },
+    {
+     "id": 1101
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_razorfen_kraul_horde",
+   "name": "Razorfen Kraul (Horde)",
+   "zone": "Razorfen Kraul",
+   "summary": "2 quests for Razorfen Kraul at required levels 29 to 30. The quests start with Auld Stonespire, Master Apothecary Faranell.",
+   "quests": [
+    {
+     "id": 1102
+    },
+    {
+     "id": 1109
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_the_stockade_alliance",
+   "name": "The Stockade (Alliance)",
+   "zone": "The Stockade",
+   "summary": "2 quests for The Stockade at required levels 22 to 25. The quests start with Motley Garmason.",
+   "quests": [
+    {
+     "id": 303
+    },
+    {
+     "id": 378
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_scarlet_monastery_alliance",
+   "name": "Scarlet Monastery (Alliance)",
+   "zone": "Scarlet Monastery",
+   "summary": "4 quests for Scarlet Monastery at required levels 28 to 34. The quests start with Librarian Mae Paledust, Brother Anton, Raleigh the Devout.",
+   "quests": [
+    {
+     "id": 1050
+    },
+    {
+     "id": 261
+    },
+    {
+     "id": 1052
+    },
+    {
+     "id": 1053
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_scarlet_monastery_horde",
+   "name": "Scarlet Monastery (Horde)",
+   "zone": "Scarlet Monastery",
+   "summary": "11 quests for Scarlet Monastery at required levels 25 to 33. The quests start with Vorrel Sengutz, Dorn Plainstalker, Braug Dimspirit and 3 more.",
+   "quests": [
+    {
+     "id": 1051
+    },
+    {
+     "id": 1149
+    },
+    {
+     "id": 1150
+    },
+    {
+     "id": 1151
+    },
+    {
+     "id": 1152
+    },
+    {
+     "id": 1154
+    },
+    {
+     "id": 6627
+    },
+    {
+     "id": 1159
+    },
+    {
+     "id": 1160
+    },
+    {
+     "id": 1113
+    },
+    {
+     "id": 1048
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_razorfen_downs",
+   "name": "Razorfen Downs",
+   "zone": "Razorfen Downs",
+   "summary": "3 quests for Razorfen Downs at required levels 28 to 32. The quests start with Myriam Moonsinger, Belnistrasz.",
+   "quests": [
+    {
+     "id": 6626
+    },
+    {
+     "id": 3523
+    },
+    {
+     "id": 3525
+    }
+   ]
+  },
+  {
+   "id": "dungeon_razorfen_downs_alliance",
+   "name": "Razorfen Downs (Alliance)",
+   "zone": "Razorfen Downs",
+   "summary": "1 quests for Razorfen Downs at required level 39. The quests start with Archbishop Benedictus.",
+   "quests": [
+    {
+     "id": 3636
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_razorfen_downs_horde",
+   "name": "Razorfen Downs (Horde)",
+   "zone": "Razorfen Downs",
+   "summary": "3 quests for Razorfen Downs at required levels 28 to 37. The quests start with Varimathras, Andrew Brownell.",
+   "quests": [
+    {
+     "id": 6522
+    },
+    {
+     "id": 6521
+    },
+    {
+     "id": 3341
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_uldaman",
+   "name": "Uldaman",
+   "zone": "Uldaman",
+   "summary": "3 quests for Uldaman at required levels 30 to 40. The quests start with Theldurin the Lost, Rigglefuzz.",
+   "quests": [
+    {
+     "id": 709
+    },
+    {
+     "id": 2418
+    },
+    {
+     "id": 2278
+    }
+   ]
+  },
+  {
+   "id": "dungeon_uldaman_alliance",
+   "name": "Uldaman (Alliance)",
+   "zone": "Uldaman",
+   "summary": "16 quests for Uldaman at required levels 30 to 40. The quests start with Prospector Stormpike, Prospector Ironband, Krom Stoutarm and 4 more.",
+   "quests": [
+    {
+     "id": 707
+    },
+    {
+     "id": 738
+    },
+    {
+     "id": 739
+    },
+    {
+     "id": 704
+    },
+    {
+     "id": 1360
+    },
+    {
+     "id": 2398
+    },
+    {
+     "id": 2240
+    },
+    {
+     "id": 2500
+    },
+    {
+     "id": 17
+    },
+    {
+     "id": 2198
+    },
+    {
+     "id": 2199
+    },
+    {
+     "id": 2200
+    },
+    {
+     "id": 2201
+    },
+    {
+     "id": 2204
+    },
+    {
+     "id": 2361
+    },
+    {
+     "id": 2279
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_uldaman_horde",
+   "name": "Uldaman (Horde)",
+   "zone": "Uldaman",
+   "summary": "11 quests for Uldaman at required levels 33 to 40. The quests start with Patrick Garrett, Jarkal Mossmeld, Dran Droffers and 1 more.",
+   "quests": [
+    {
+     "id": 2342
+    },
+    {
+     "id": 2258
+    },
+    {
+     "id": 2202
+    },
+    {
+     "id": 2283
+    },
+    {
+     "id": 2284
+    },
+    {
+     "id": 2318
+    },
+    {
+     "id": 2338
+    },
+    {
+     "id": 2339
+    },
+    {
+     "id": 2340
+    },
+    {
+     "id": 2280
+    },
+    {
+     "id": 2341
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_maraudon",
+   "name": "Maraudon",
+   "zone": "Maraudon",
+   "summary": "5 quests for Maraudon at required levels 39 to 45. The quests start with Centaur Pariah, Willow, Cavindra and 2 more.",
+   "quests": [
+    {
+     "id": 7067
+    },
+    {
+     "id": 7028
+    },
+    {
+     "id": 7044
+    },
+    {
+     "id": 7046
+    },
+    {
+     "id": 7066
+    }
+   ]
+  },
+  {
+   "id": "dungeon_maraudon_alliance",
+   "name": "Maraudon (Alliance)",
+   "zone": "Maraudon",
+   "summary": "3 quests for Maraudon at required levels 38 to 45. The quests start with Archmage Tervosh, Talendria, Keeper Marandis.",
+   "quests": [
+    {
+     "id": 7070
+    },
+    {
+     "id": 7041
+    },
+    {
+     "id": 7065
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_maraudon_horde",
+   "name": "Maraudon (Horde)",
+   "zone": "Maraudon",
+   "summary": "3 quests for Maraudon at required levels 38 to 45. The quests start with Uthel'nay, Vark Battlescar, Selendra.",
+   "quests": [
+    {
+     "id": 7068
+    },
+    {
+     "id": 7029
+    },
+    {
+     "id": 7064
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_the_temple_of_atal_hakkar",
+   "name": "The Temple of Atal'Hakkar",
+   "zone": "The Temple of Atal'Hakkar",
+   "summary": "6 quests for The Temple of Atal'Hakkar at required levels 38 to 48. The quests start with Atal'ai Exile, Yeh'kinya, Marvon Rivetseeker.",
+   "quests": [
+    {
+     "id": 1446
+    },
+    {
+     "id": 4787
+    },
+    {
+     "id": 3528
+    },
+    {
+     "id": 3446
+    },
+    {
+     "id": 3447
+    },
+    {
+     "id": 3373
+    }
+   ],
+   "after": [
+    "dungeon_the_temple_of_atal_hakkar_alliance",
+    "dungeon_zul_farrak"
+   ]
+  },
+  {
+   "id": "dungeon_the_temple_of_atal_hakkar_alliance",
+   "name": "The Temple of Atal'Hakkar (Alliance)",
+   "zone": "The Temple of Atal'Hakkar",
+   "summary": "9 quests for The Temple of Atal'Hakkar at required levels 38 to 46. The quests start with Brohann Caskbelly, Falstad Wildhammer, Gryphon Master Talonaxe and 3 more.",
+   "quests": [
+    {
+     "id": 1448
+    },
+    {
+     "id": 1449
+    },
+    {
+     "id": 1450
+    },
+    {
+     "id": 1451
+    },
+    {
+     "id": 1452
+    },
+    {
+     "id": 1469
+    },
+    {
+     "id": 1475
+    },
+    {
+     "id": 3445
+    },
+    {
+     "id": 3444
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_the_temple_of_atal_hakkar_horde",
+   "name": "The Temple of Atal'Hakkar (Horde)",
+   "zone": "The Temple of Atal'Hakkar",
+   "summary": "1 quests for The Temple of Atal'Hakkar at required level 46. The quests start with Witch Doctor Uzer'i.",
+   "quests": [
+    {
+     "id": 3380
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_zul_farrak",
+   "name": "Zul'Farrak",
+   "zone": "Zul'Farrak",
+   "summary": "9 quests for Zul'Farrak at required level 40. The quests start with Chief Engineer Bilgewhizzle, Wizzle Brassbolts, Tabetha and 5 more.",
+   "quests": [
+    {
+     "id": 2768
+    },
+    {
+     "id": 2770
+    },
+    {
+     "id": 2846
+    },
+    {
+     "id": 2861
+    },
+    {
+     "id": 2864
+    },
+    {
+     "id": 2865
+    },
+    {
+     "id": 3042
+    },
+    {
+     "id": 3520
+    },
+    {
+     "id": 3527
+    }
+   ]
+  },
+  {
+   "id": "dungeon_zul_farrak_alliance",
+   "name": "Zul'Farrak (Alliance)",
+   "zone": "Zul'Farrak",
+   "summary": "4 quests for Zul'Farrak at required level 40. The quests start with Gryphon Master Talonaxe, Thadius Grimshade.",
+   "quests": [
+    {
+     "id": 2988
+    },
+    {
+     "id": 2989
+    },
+    {
+     "id": 2990
+    },
+    {
+     "id": 2991
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_blackrock_depths",
+   "name": "Blackrock Depths",
+   "zone": "Blackrock Depths",
+   "summary": "19 quests for Blackrock Depths at required levels 40 to 52. The quests start with Kalaran Windblade, Squire Maltrake, Franclorn Forgewright and 5 more.",
+   "quests": [
+    {
+     "id": 3441
+    },
+    {
+     "id": 3442
+    },
+    {
+     "id": 3443
+    },
+    {
+     "id": 3452
+    },
+    {
+     "id": 3453
+    },
+    {
+     "id": 3454
+    },
+    {
+     "id": 3462
+    },
+    {
+     "id": 3463
+    },
+    {
+     "id": 3481
+    },
+    {
+     "id": 4083
+    },
+    {
+     "id": 3801
+    },
+    {
+     "id": 3802
+    },
+    {
+     "id": 4324
+    },
+    {
+     "id": 4136
+    },
+    {
+     "id": 4123
+    },
+    {
+     "id": 4201
+    },
+    {
+     "id": 4022
+    },
+    {
+     "id": 4023
+    },
+    {
+     "id": 4024
+    }
+   ]
+  },
+  {
+   "id": "dungeon_blackrock_depths_alliance",
+   "name": "Blackrock Depths (Alliance)",
+   "zone": "Blackrock Depths",
+   "summary": "12 quests for Blackrock Depths at required levels 48 to 50. The quests start with Jalinda Sprig, Royal Historian Archesonus, Enohar Thunderbrew and 5 more.",
+   "quests": [
+    {
+     "id": 4262
+    },
+    {
+     "id": 4263
+    },
+    {
+     "id": 3702
+    },
+    {
+     "id": 3701
+    },
+    {
+     "id": 4128
+    },
+    {
+     "id": 4126
+    },
+    {
+     "id": 4286
+    },
+    {
+     "id": 4341
+    },
+    {
+     "id": 4342
+    },
+    {
+     "id": 4361
+    },
+    {
+     "id": 4362
+    },
+    {
+     "id": 4363
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_blackrock_depths_horde",
+   "name": "Blackrock Depths (Horde)",
+   "zone": "Blackrock Depths",
+   "summary": "14 quests for Blackrock Depths at required levels 48 to 52. The quests start with Thunderheart, Galamav the Marksman, Shadowmage Vivian Lagrave and 6 more.",
+   "quests": [
+    {
+     "id": 3906
+    },
+    {
+     "id": 3907
+    },
+    {
+     "id": 3981
+    },
+    {
+     "id": 4081
+    },
+    {
+     "id": 7201
+    },
+    {
+     "id": 4082
+    },
+    {
+     "id": 4133
+    },
+    {
+     "id": 4134
+    },
+    {
+     "id": 4061
+    },
+    {
+     "id": 4062
+    },
+    {
+     "id": 4063
+    },
+    {
+     "id": 4122
+    },
+    {
+     "id": 4121
+    },
+    {
+     "id": 4132
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_blackrock_spire",
+   "name": "Blackrock Spire",
+   "zone": "Blackrock Spire",
+   "summary": "15 quests for Blackrock Spire at required levels 40 to 57. The quests start with Prospector Ironboot, Tinkee Steamboil, Felnok Steelspring and 4 more.",
+   "quests": [
+    {
+     "id": 5065
+    },
+    {
+     "id": 4788
+    },
+    {
+     "id": 4726
+    },
+    {
+     "id": 4808
+    },
+    {
+     "id": 4809
+    },
+    {
+     "id": 4810
+    },
+    {
+     "id": 4729
+    },
+    {
+     "id": 4862
+    },
+    {
+     "id": 4866
+    },
+    {
+     "id": 4867
+    },
+    {
+     "id": 7761
+    },
+    {
+     "id": 4734
+    },
+    {
+     "id": 4735
+    },
+    {
+     "id": 4907
+    },
+    {
+     "id": 5160
+    }
+   ]
+  },
+  {
+   "id": "dungeon_blackrock_spire_alliance",
+   "name": "Blackrock Spire (Alliance)",
+   "zone": "Blackrock Spire",
+   "summary": "9 quests for Blackrock Spire at required levels 55 to 57. The quests start with Helendis Riverhorn, Bijou, Marshal Maxwell and 2 more.",
+   "quests": [
+    {
+     "id": 4701
+    },
+    {
+     "id": 5001
+    },
+    {
+     "id": 5002
+    },
+    {
+     "id": 5081
+    },
+    {
+     "id": 5089
+    },
+    {
+     "id": 5102
+    },
+    {
+     "id": 4766
+    },
+    {
+     "id": 4764
+    },
+    {
+     "id": 4765
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_blackrock_spire_horde",
+   "name": "Blackrock Spire (Horde)",
+   "zone": "Blackrock Spire",
+   "summary": "9 quests for Blackrock Spire at required levels 55 to 57. The quests start with Galamav the Marksman, Warlord Goretooth, Thrall and 4 more.",
+   "quests": [
+    {
+     "id": 4724
+    },
+    {
+     "id": 4903
+    },
+    {
+     "id": 4941
+    },
+    {
+     "id": 4974
+    },
+    {
+     "id": 4981
+    },
+    {
+     "id": 4982
+    },
+    {
+     "id": 4983
+    },
+    {
+     "id": 4769
+    },
+    {
+     "id": 4768
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_scholomance",
+   "name": "Scholomance",
+   "zone": "Scholomance",
+   "summary": "13 quests for Scholomance at required levels 55 to 57. The quests start with Eva Sarkhoff, Betina Bigglezink, Magistrate Marduke and 2 more.",
+   "quests": [
+    {
+     "id": 5382
+    },
+    {
+     "id": 5515
+    },
+    {
+     "id": 5384
+    },
+    {
+     "id": 5529
+    },
+    {
+     "id": 5461
+    },
+    {
+     "id": 5462
+    },
+    {
+     "id": 5463
+    },
+    {
+     "id": 5464
+    },
+    {
+     "id": 5465
+    },
+    {
+     "id": 5466
+    },
+    {
+     "id": 5522
+    },
+    {
+     "id": 5531
+    },
+    {
+     "id": 4771
+    }
+   ]
+  },
+  {
+   "id": "dungeon_scholomance_alliance",
+   "name": "Scholomance (Alliance)",
+   "zone": "Scholomance",
+   "summary": "1 quests for Scholomance at required level 52. The quests start with Weldon Barov.",
+   "quests": [
+    {
+     "id": 5343
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_scholomance_horde",
+   "name": "Scholomance (Horde)",
+   "zone": "Scholomance",
+   "summary": "1 quests for Scholomance at required level 52. The quests start with Alexi Barov.",
+   "quests": [
+    {
+     "id": 5341
+    }
+   ],
+   "faction": "Horde",
+   "walkers": [
+    "Orc",
+    "Troll",
+    "Tauren",
+    "Scourge"
+   ]
+  },
+  {
+   "id": "dungeon_dire_maul",
+   "name": "Dire Maul",
+   "zone": "Dire Maul",
+   "summary": "7 quests for Dire Maul at required levels 54 to 57. The quests start with Azj'Tordin, Knot Thimblejack, Shen'dralar Ancient and 2 more.",
+   "quests": [
+    {
+     "id": 7441
+    },
+    {
+     "id": 1193
+    },
+    {
+     "id": 5518
+    },
+    {
+     "id": 7461
+    },
+    {
+     "id": 7703
+    },
+    {
+     "id": 5525
+    },
+    {
+     "id": 5528
+    }
+   ]
+  },
+  {
+   "id": "dungeon_dire_maul_alliance",
+   "name": "Dire Maul (Alliance)",
+   "zone": "Dire Maul",
+   "summary": "3 quests for Dire Maul at required level 54. The quests start with Scholar Runethorn, Crier Goodman, Latronicus Moonspear.",
+   "quests": [
+    {
+     "id": 7482
+    },
+    {
+     "id": 7494
+    },
+    {
+     "id": 7488
+    }
+   ],
+   "faction": "Alliance",
+   "walkers": [
+    "Human",
+    "Dwarf",
+    "NightElf",
+    "Gnome"
+   ]
+  },
+  {
+   "id": "dungeon_stratholme",
+   "name": "Stratholme",
+   "zone": "Stratholme",
+   "summary": "8 quests for Stratholme at required level 55. The quests start with Betina Bigglezink, Leonid Barthalomew the Revered, Duke Nicholas Zverenhoff and 2 more.",
+   "quests": [
+    {
+     "id": 5212
+    },
+    {
+     "id": 5213
+    },
+    {
+     "id": 5243
+    },
+    {
+     "id": 5251
+    },
+    {
+     "id": 5262
+    },
+    {
+     "id": 5263
+    },
+    {
+     "id": 5281
+    },
+    {
+     "id": 5282
+    }
+   ]
+  }
+ ]
+}

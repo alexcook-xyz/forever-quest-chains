@@ -1,0 +1,3948 @@
+{
+ "missing": [],
+ "pandabase": [],
+ "pandabase_missing": [],
+ "pandabase_pages": {
+  "3844": {
+   "after": [
+    3845
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "A Small Pack",
+    "x": 63.11,
+    "y": 69.06,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 3844,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "It's a Secret to Everybody",
+   "objective": "Look around in the pond for a clue about who this wrecked raft may belong to.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "A Wrecked Raft",
+    "x": 63.02,
+    "y": 68.6,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "3845": {
+   "after": [
+    3908
+   ],
+   "before": [
+    3844
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3844
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.66,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 3845,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "It's a Secret to Everybody",
+   "objective": "Examine the items inside the pack and bring them to their owner.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "A Small Pack",
+    "x": 63.11,
+    "y": 69.06,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "3908": {
+   "after": [
+    3909
+   ],
+   "before": [
+    3845
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3845
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Donova Snowden",
+    "x": 31.3,
+    "y": 45.2,
+    "zone": "Winterspring"
+   },
+   "id": 3908,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "It's a Secret to Everybody",
+   "objective": "Take Linken's Sword to Donova Snowden in Winterspring.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.66,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "3909": {
+   "after": [
+    3912
+   ],
+   "before": [
+    3908
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3908
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Donova Snowden",
+    "x": 31.27,
+    "y": 45.16,
+    "zone": "Winterspring"
+   },
+   "id": 3909,
+   "mapId": 1452,
+   "mapZone": "Winterspring",
+   "name": "The Videre Elixir",
+   "objective": "Seek out Gregan Brewspewer in northern Feralas. From him, learn how you may acquire the Videre Elixir, then return to Donova Snowden in Winterspring.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Donova Snowden",
+    "x": 31.27,
+    "y": 45.16,
+    "zone": "Winterspring"
+   }
+  },
+  "3912": {
+   "after": [
+    3913
+   ],
+   "before": [
+    3909
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3909
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gaeriyan",
+    "x": 53.9,
+    "y": 23.3,
+    "zone": "Tanaris"
+   },
+   "id": 3912,
+   "mapId": 1452,
+   "mapZone": "Winterspring",
+   "name": "Meet at the Grave",
+   "objective": "Go to the graveyard outside Gadgetzan, and use the Videre Elixir. Follow the rest of Donova's instructions to find Gaeriyan.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Donova Snowden",
+    "x": 31.27,
+    "y": 45.16,
+    "zone": "Winterspring"
+   }
+  },
+  "3913": {
+   "after": [
+    3914
+   ],
+   "before": [
+    3912
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3912
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "A Conspicuous Gravestone",
+    "x": 53.81,
+    "y": 29.06,
+    "zone": "Tanaris"
+   },
+   "id": 3913,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "A Grave Situation",
+   "objective": "Resurrect, then look for the gravestone that Gaeriyan told you to find.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gaeriyan",
+    "x": 53.92,
+    "y": 23.33,
+    "zone": "Tanaris"
+   }
+  },
+  "3914": {
+   "after": [
+    3941
+   ],
+   "before": [
+    3913
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3913
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.7,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 3914,
+   "mapId": 1446,
+   "mapZone": "Tanaris",
+   "name": "Linken's Sword",
+   "objective": "Deliver Linken's Superior Sword to Linken in Un'Goro Crater.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "A Conspicuous Gravestone",
+    "x": 53.81,
+    "y": 29.06,
+    "zone": "Tanaris"
+   }
+  },
+  "3941": {
+   "after": [
+    3942
+   ],
+   "before": [
+    3914
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3914
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "J.D. Collie",
+    "x": 41.92,
+    "y": 2.7,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 3941,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "A Gnome's Assistance",
+   "objective": "Find J.D. Collie in the cave at Marshal's Refuge.",
+   "questLevel": 52,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.66,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "3942": {
+   "after": [
+    4084
+   ],
+   "before": [
+    3941
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3941
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Eridan Bluewind",
+    "x": 51.3,
+    "y": 81.5,
+    "zone": "Felwood"
+   },
+   "id": 3942,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "Linken's Memory",
+   "objective": "Find Eridan Bluewind in southern Felwood.",
+   "questLevel": 54,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "J.D. Collie",
+    "x": 41.92,
+    "y": 2.7,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "3961": {
+   "after": [
+    3962
+   ],
+   "before": [
+    4005
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    4005
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.66,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 3961,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "Linken's Adventure",
+   "objective": "Take the Silver Totem of Aquementas to Linken in Marshal's Refuge.",
+   "questLevel": 54,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "J.D. Collie",
+    "x": 41.92,
+    "y": 2.7,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "3962": {
+   "after": [],
+   "before": [
+    3961
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3961
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.66,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 3962,
+   "mapId": 1449,
+   "mapZone": "Un'Goro Crater",
+   "name": "It's Dangerous to Go Alone",
+   "objective": "Travel to Fire Plume Ridge, south of Marshal's Refuge.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Linken",
+    "x": 44.66,
+    "y": 8.1,
+    "zone": "Un'Goro Crater"
+   }
+  },
+  "4005": {
+   "after": [
+    3961
+   ],
+   "before": [
+    4084
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    4084
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "J.D. Collie",
+    "x": 41.9,
+    "y": 2.7,
+    "zone": "Un'Goro Crater"
+   },
+   "id": 4005,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Aquementas",
+   "objective": "Take the Book of Aquor, the Silvery Claws, and the Irontree Heart to Tanaris.",
+   "questLevel": 54,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Eridan Bluewind",
+    "x": 51.35,
+    "y": 81.51,
+    "zone": "Felwood"
+   }
+  },
+  "4084": {
+   "after": [
+    4005
+   ],
+   "before": [
+    3942
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    3942
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Eridan Bluewind",
+    "x": 51.35,
+    "y": 81.51,
+    "zone": "Felwood"
+   },
+   "id": 4084,
+   "mapId": 1448,
+   "mapZone": "Felwood",
+   "name": "Silver Heart",
+   "objective": "Collect 11 Silvery Claws and 1 Irontree Heart for Eridan Bluewind in Felwood.",
+   "questLevel": 54,
+   "races": [],
+   "requiredLevel": 47,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Eridan Bluewind",
+    "x": 51.35,
+    "y": 81.51,
+    "zone": "Felwood"
+   }
+  },
+  "5142": {
+   "after": [
+    5149
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.1,
+    "y": 78.0,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5142,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Little Pamela",
+   "objective": "Find Pamela Redpath.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marlene Redpath",
+    "x": 49.17,
+    "y": 78.57,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5149": {
+   "after": [
+    5152,
+    5241
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.15,
+    "y": 77.98,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5149,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Pamela's Doll",
+   "objective": "Find Pamela's doll.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.15,
+    "y": 77.98,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5152": {
+   "after": [
+    5153
+   ],
+   "before": [
+    5149
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5149
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marlene Redpath",
+    "x": 49.2,
+    "y": 78.6,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5152,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Auntie Marlene",
+   "objective": "Speak with Marlene, south of the Ruins of Andorhal.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.15,
+    "y": 77.98,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5153": {
+   "after": [
+    5154
+   ],
+   "before": [
+    5152
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5152
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Chromie",
+    "x": 39.46,
+    "y": 66.76,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5153,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "A Strange Historian",
+   "objective": "Bring Joseph's Wedding Ring to Chromie.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marlene Redpath",
+    "x": 49.17,
+    "y": 78.57,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5154": {
+   "after": [
+    5210
+   ],
+   "before": [
+    5153
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5153
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Chromie",
+    "x": 39.46,
+    "y": 66.76,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5154,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "The Annals of Darrowshire",
+   "objective": "Bring the Annals of Darrowshire to Chromie in Andorhal.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Chromie",
+    "x": 39.46,
+    "y": 66.76,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5168": {
+   "after": [
+    5206
+   ],
+   "before": [
+    5210
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5210
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5168,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Heroes of Darrowshire",
+   "objective": "Bring Davil's Libram and Redpath's Shield to Carlin Redpath.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5181": {
+   "after": [
+    5206
+   ],
+   "before": [
+    5210
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5210
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5181,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Villains of Darrowshire",
+   "objective": "Bring the Skull of Horgus and the Shattered Sword of Marduk to Carlin Redpath at Light's Hope Chapel.",
+   "questLevel": 57,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5206": {
+   "after": [
+    5941
+   ],
+   "before": [
+    5168,
+    5181
+   ],
+   "beforeAll": [
+    5168,
+    5181
+   ],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5206,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Marauders of Darrowshire",
+   "objective": "Bring 5 Resonating Skulls and the Mystic Crystal to Carlin Redpath in Eastern Plaguelands.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5210": {
+   "after": [
+    5168,
+    5181
+   ],
+   "before": [
+    5154
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5154
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.0,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5210,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Brother Carlin",
+   "objective": "Bring the Extended Annals of Darrowshire to Carlin Redpath in Eastern Plaguelands.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Chromie",
+    "x": 39.46,
+    "y": 66.76,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5211": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5211,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Defenders of Darrowshire",
+   "objective": "Free 15 Darrowshire Spirits and return to Carlin Redpath.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5241": {
+   "after": [
+    5211
+   ],
+   "before": [
+    5149
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5149
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5241,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Uncle Carlin",
+   "objective": "Find Carlin Redpath.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.15,
+    "y": 77.98,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5542": {
+   "after": [
+    5742
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5542,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Demon Dogs",
+   "objective": "Slay 20 Plaguehound Runts, 5 Plaguehounds and 5 Frenzied Plaguehounds. Return to Tirion Fordring when the task is complete.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5543": {
+   "after": [
+    5742
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5543,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Blood Tinged Skies",
+   "objective": "Slay 30 Plaguebats and return to Tirion Fordring.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5544": {
+   "after": [
+    5742
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5544,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Carrion Grubbage",
+   "objective": "Seek out the Carrion Grubs and Devourers of the region. Slay them and harvest their meat. Return to Tirion Fordring when you have gathered 15 Slabs of Carrion Worm Meat.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5601": {
+   "after": [
+    5149
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.1,
+    "y": 78.0,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5601,
+   "mapId": 1452,
+   "mapZone": "Winterspring",
+   "name": "Sister Pamela",
+   "objective": "Find Pamela Redpath in Darrowshire.",
+   "questLevel": 55,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jessica Redpath",
+    "x": 61.28,
+    "y": 38.98,
+    "zone": "Winterspring"
+   }
+  },
+  "5721": {
+   "after": [
+    5942
+   ],
+   "before": [
+    5941
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5941
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.1,
+    "y": 78.0,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5721,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "The Battle of Darrowshire",
+   "objective": "Place the Relic Bundle at the Darrowshire town square.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 55,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Chromie",
+    "x": 39.46,
+    "y": 66.76,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5742": {
+   "after": [
+    5781
+   ],
+   "before": [
+    5542,
+    5543,
+    5544
+   ],
+   "beforeAll": [
+    5542,
+    5543,
+    5544
+   ],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5742,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Redemption",
+   "objective": "Listen to what Tirion Fordring has to say.",
+   "questLevel": 56,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5781": {
+   "after": [
+    5845
+   ],
+   "before": [
+    5742
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5742
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5781,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Of Forgotten Memories",
+   "objective": "Travel to the Undercroft - at the southernmost section of the Eastern Plaguelands - and recover Taelan's Hammer. Return to Tirion Fordring upon completion of your objective.",
+   "questLevel": 57,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5845": {
+   "after": [
+    5846
+   ],
+   "before": [
+    5781
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5781
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5845,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Of Lost Honor",
+   "objective": "Travel to Northdale, in the northeastern region of the Eastern Plaguelands, and recover the Symbol of Lost Honor. Return to Tirion Fordring upon completion of your objective.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5846": {
+   "after": [
+    5848
+   ],
+   "before": [
+    5845
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5845
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Artist Renfray",
+    "x": 65.8,
+    "y": 75.4,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5846,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Of Love and Family",
+   "objective": "Travel to island of Caer Darrow, in the south-central region of the Plaguelands, and look for any clues as to the whereabouts of the painting.",
+   "questLevel": 58,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5848": {
+   "after": [
+    5861
+   ],
+   "before": [
+    5846
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5846
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.2,
+    "y": 35.6,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5848,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Of Love and Family",
+   "objective": "Travel to Stratholme, in the northern part of the Plaguelands. It is in the Scarlet Bastion that you will find the painting 'Of Love and Family,' hidden behind another painting depicting the twin moons of our world.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Artist Renfray",
+    "x": 65.77,
+    "y": 75.37,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5861": {
+   "after": [
+    5862
+   ],
+   "before": [
+    5848
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5848
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Myranda the Hag",
+    "x": 50.8,
+    "y": 77.8,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5861,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Find Myranda",
+   "objective": "Travel to Uther's Tomb, located in the southern Plaguelands. Show Myranda the Hag Tirion's Gift.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.16,
+    "y": 35.57,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5862": {
+   "after": [
+    5944
+   ],
+   "before": [
+    5861
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5861
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Highlord Taelan Fordring",
+    "x": 42.02,
+    "y": 14.79,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5862,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "Scarlet Subterfuge",
+   "objective": "Speak to Myranda to gain the Scarlet Illusion. Travel to Hearthglen while under the Scarlet Illusion and deliver Tirion's Gift to Highlord Taelan Fordring.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Myranda the Hag",
+    "x": 50.79,
+    "y": 77.85,
+    "zone": "Western Plaguelands"
+   }
+  },
+  "5941": {
+   "after": [
+    5721
+   ],
+   "before": [
+    5206
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5206
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Chromie",
+    "x": 39.5,
+    "y": 66.8,
+    "zone": "Western Plaguelands"
+   },
+   "id": 5941,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Return to Chromie",
+   "objective": "Take the Bundle of Relics to Chromie in Andorhal.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Carlin Redpath",
+    "x": 71.7,
+    "y": 50.04,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5942": {
+   "after": [],
+   "before": [
+    5721
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5721
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Joseph's Chest",
+    "x": 30.92,
+    "y": 77.78,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5942,
+   "mapId": 1423,
+   "mapZone": "Eastern Plaguelands",
+   "name": "Hidden Treasures",
+   "objective": "Bring Joseph's Key to Joseph's Chest.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 50,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Pamela Redpath",
+    "x": 31.15,
+    "y": 77.98,
+    "zone": "Eastern Plaguelands"
+   }
+  },
+  "5944": {
+   "after": [],
+   "before": [
+    5862
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    5862
+   ],
+   "classes": [],
+   "faction": "Alliance and Horde",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tirion Fordring",
+    "x": 5.2,
+    "y": 35.6,
+    "zone": "Eastern Plaguelands"
+   },
+   "id": 5944,
+   "mapId": 1422,
+   "mapZone": "Western Plaguelands",
+   "name": "In Dreams",
+   "objective": "Escort Taelan Fordring out of Hearthglen.",
+   "questLevel": 60,
+   "races": [],
+   "requiredLevel": 52,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Highlord Taelan Fordring",
+    "x": 42.02,
+    "y": 14.79,
+    "zone": "Western Plaguelands"
+   }
+  }
+ },
+ "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     161504
+    ]
+   },
+   "id": 3844,
+   "name": "It's a Secret to Everybody",
+   "nextQuestInChain": 3845,
+   "objectivesText": [
+    "Look around in the pond for a clue about who this wrecked raft may belong to."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     161505
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3845,
+   "name": "It's a Secret to Everybody",
+   "nextQuestInChain": 3908,
+   "objectivesText": [
+    "Examine the items inside the pack and bring them to their owner."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3844
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     161504
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9298,
+      "name": "Donova Snowden",
+      "spawns": {
+       "618": [
+        [
+         31.27,
+         45.16
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3908,
+   "name": "It's a Secret to Everybody",
+   "nextQuestInChain": 3909,
+   "objectivesText": [
+    "Take Linken's Sword to Donova Snowden in Winterspring."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3845
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9298,
+      "name": "Donova Snowden",
+      "spawns": {
+       "618": [
+        [
+         31.27,
+         45.16
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3909,
+   "name": "The Videre Elixir",
+   "nextQuestInChain": 3912,
+   "objectivesText": [
+    "Seek out Gregan Brewspewer in northern Feralas. From him, learn how you may acquire the Videre Elixir, then return to Donova Snowden in Winterspring."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3908
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9298,
+      "name": "Donova Snowden",
+      "spawns": {
+       "618": [
+        [
+         31.27,
+         45.16
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9299,
+      "name": "Gaeriyan",
+      "spawns": {
+       "440": [
+        [
+         53.92,
+         23.33
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3912,
+   "name": "Meet at the Grave",
+   "nextQuestInChain": 3913,
+   "objectivesText": [
+    "Go to the graveyard outside Gadgetzan, and use the Videre Elixir. Follow the rest of Donova's instructions to find Gaeriyan."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3909
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9298,
+      "name": "Donova Snowden",
+      "spawns": {
+       "618": [
+        [
+         31.27,
+         45.16
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     148504
+    ]
+   },
+   "id": 3913,
+   "name": "A Grave Situation",
+   "nextQuestInChain": 3914,
+   "objectivesText": [
+    "Resurrect, then look for the gravestone that Gaeriyan told you to find."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3912
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9299,
+      "name": "Gaeriyan",
+      "spawns": {
+       "440": [
+        [
+         53.92,
+         23.33
+        ]
+       ]
+      },
+      "zoneID": 440
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3914,
+   "name": "Linken's Sword",
+   "nextQuestInChain": 3941,
+   "objectivesText": [
+    "Deliver Linken's Superior Sword to Linken in Un'Goro Crater."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3913
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     148504
+    ]
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9117,
+      "name": "J.D. Collie",
+      "spawns": {
+       "490": [
+        [
+         41.92,
+         2.7
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3941,
+   "name": "A Gnome's Assistance",
+   "nextQuestInChain": 3942,
+   "objectivesText": [
+    "Find J.D. Collie in the cave at Marshal's Refuge."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3914
+   ],
+   "questLevel": 52,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9116,
+      "name": "Eridan Bluewind",
+      "spawns": {
+       "361": [
+        [
+         51.35,
+         81.51
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3942,
+   "name": "Linken's Memory",
+   "nextQuestInChain": 4084,
+   "objectivesText": [
+    "Find Eridan Bluewind in southern Felwood."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3941
+   ],
+   "questLevel": 54,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9117,
+      "name": "J.D. Collie",
+      "spawns": {
+       "490": [
+        [
+         41.92,
+         2.7
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3961,
+   "name": "Linken's Adventure",
+   "nextQuestInChain": 3962,
+   "objectivesText": [
+    "Take the Silver Totem of Aquementas to Linken in Marshal's Refuge."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    4005
+   ],
+   "questLevel": 54,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9117,
+      "name": "J.D. Collie",
+      "spawns": {
+       "490": [
+        [
+         41.92,
+         2.7
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 3962,
+   "name": "It's Dangerous to Go Alone",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Travel to Fire Plume Ridge, south of Marshal's Refuge.",
+    "",
+    "Find Blazerunner and use the totem to remove his protective aura. Once he has been defeated, acquire the Golden Flame from the cave."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3961
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 8737,
+      "name": "Linken",
+      "spawns": {
+       "490": [
+        [
+         44.66,
+         8.1
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9117,
+      "name": "J.D. Collie",
+      "spawns": {
+       "490": [
+        [
+         41.92,
+         2.7
+        ]
+       ]
+      },
+      "zoneID": 490
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 4005,
+   "name": "Aquementas",
+   "nextQuestInChain": 3961,
+   "objectivesText": [
+    "Take the Book of Aquor, the Silvery Claws, and the Irontree Heart to Tanaris.",
+    "",
+    "Use the Book of Aquor to summon Aquementas.",
+    "",
+    "After you have the completed totem, take it to J.D. Collie in Marshal's Refuge."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    4084
+   ],
+   "questLevel": 54,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9116,
+      "name": "Eridan Bluewind",
+      "spawns": {
+       "361": [
+        [
+         51.35,
+         81.51
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 9116,
+      "name": "Eridan Bluewind",
+      "spawns": {
+       "361": [
+        [
+         51.35,
+         81.51
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 4084,
+   "name": "Silver Heart",
+   "nextQuestInChain": 4005,
+   "objectivesText": [
+    "Collect 11 Silvery Claws and 1 Irontree Heart for Eridan Bluewind in Felwood."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    3942
+   ],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 47,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 9116,
+      "name": "Eridan Bluewind",
+      "spawns": {
+       "361": [
+        [
+         51.35,
+         81.51
+        ]
+       ]
+      },
+      "zoneID": 361
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 490
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5601
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5142,
+   "name": "Little Pamela",
+   "nextQuestInChain": 5149,
+   "objectivesText": [
+    "Find Pamela Redpath."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10927,
+      "name": "Marlene Redpath",
+      "spawns": {
+       "28": [
+        [
+         49.17,
+         78.57
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5149,
+   "name": "Pamela's Doll",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Find Pamela's doll."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5142,
+    5601
+   ],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10927,
+      "name": "Marlene Redpath",
+      "spawns": {
+       "28": [
+        [
+         49.17,
+         78.57
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5152,
+   "name": "Auntie Marlene",
+   "nextQuestInChain": 5153,
+   "objectivesText": [
+    "Speak with Marlene, south of the Ruins of Andorhal."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5149
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10667,
+      "name": "Chromie",
+      "spawns": {
+       "28": [
+        [
+         39.46,
+         66.76
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5153,
+   "name": "A Strange Historian",
+   "nextQuestInChain": 5154,
+   "objectivesText": [
+    "Bring Joseph's Wedding Ring to Chromie."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5152
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10927,
+      "name": "Marlene Redpath",
+      "spawns": {
+       "28": [
+        [
+         49.17,
+         78.57
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10667,
+      "name": "Chromie",
+      "spawns": {
+       "28": [
+        [
+         39.46,
+         66.76
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5154,
+   "name": "The Annals of Darrowshire",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring the Annals of Darrowshire to Chromie in Andorhal."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5153
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10667,
+      "name": "Chromie",
+      "spawns": {
+       "28": [
+        [
+         39.46,
+         66.76
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5168,
+   "name": "Heroes of Darrowshire",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring Davil's Libram and Redpath's Shield to Carlin Redpath."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5210
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5181,
+   "name": "Villains of Darrowshire",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring the Skull of Horgus and the Shattered Sword of Marduk to Carlin Redpath at Light's Hope Chapel."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5210
+   ],
+   "questLevel": 57,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5206,
+   "name": "Marauders of Darrowshire",
+   "nextQuestInChain": 5941,
+   "objectivesText": [
+    "Bring 5 Resonating Skulls and the Mystic Crystal to Carlin Redpath in Eastern Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [
+    5168,
+    5181
+   ],
+   "preQuestSingle": [],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5210,
+   "name": "Brother Carlin",
+   "nextQuestInChain": 5181,
+   "objectivesText": [
+    "Bring the Extended Annals of Darrowshire to Carlin Redpath in Eastern Plaguelands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5154
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10667,
+      "name": "Chromie",
+      "spawns": {
+       "28": [
+        [
+         39.46,
+         66.76
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5211,
+   "name": "Defenders of Darrowshire",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Free 15 Darrowshire Spirits and return to Carlin Redpath."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5241
+   ],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5241,
+   "name": "Uncle Carlin",
+   "nextQuestInChain": 5211,
+   "objectivesText": [
+    "Find Carlin Redpath."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5149
+   ],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5542,
+   "name": "Demon Dogs",
+   "nextQuestInChain": 5742,
+   "objectivesText": [
+    "Slay 20 Plaguehound Runts, 5 Plaguehounds and 5 Frenzied Plaguehounds. Return to Tirion Fordring when the task is complete."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5543,
+   "name": "Blood Tinged Skies",
+   "nextQuestInChain": 5742,
+   "objectivesText": [
+    "Slay 30 Plaguebats and return to Tirion Fordring."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5544,
+   "name": "Carrion Grubbage",
+   "nextQuestInChain": 5742,
+   "objectivesText": [
+    "Seek out the Carrion Grubs and Devourers of the region. Slay them and harvest their meat. Return to Tirion Fordring when you have gathered 15 Slabs of Carrion Worm Meat.",
+    ""
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [
+    5142
+   ],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5601,
+   "name": "Sister Pamela",
+   "nextQuestInChain": 5149,
+   "objectivesText": [
+    "Find Pamela Redpath in Darrowshire."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 55,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11629,
+      "name": "Jessica Redpath",
+      "spawns": {
+       "618": [
+        [
+         61.28,
+         38.98
+        ]
+       ]
+      },
+      "zoneID": 618
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5721,
+   "name": "The Battle of Darrowshire",
+   "nextQuestInChain": 5942,
+   "objectivesText": [
+    "Place the Relic Bundle at the Darrowshire town square.",
+    "",
+    "Prevent Davil Lightfire's death until the death of Horgus.",
+    "",
+    "Prevent Captain Redpath's death until Redpath the Corrupted appears.",
+    "",
+    "Defeat Redpath the Corrupted.",
+    "",
+    "Speak with the spirit of Joseph Redpath when he appears at the town square, then speak with Pamela at her home."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5941
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 55,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10667,
+      "name": "Chromie",
+      "spawns": {
+       "28": [
+        [
+         39.46,
+         66.76
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5742,
+   "name": "Redemption",
+   "nextQuestInChain": 5781,
+   "objectivesText": [
+    "Listen to what Tirion Fordring has to say."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [
+    5542,
+    5543,
+    5544
+   ],
+   "preQuestSingle": [],
+   "questLevel": 56,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5781,
+   "name": "Of Forgotten Memories",
+   "nextQuestInChain": 5845,
+   "objectivesText": [
+    "Travel to the Undercroft - at the southernmost section of the Eastern Plaguelands - and recover Taelan's Hammer. Return to Tirion Fordring upon completion of your objective."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5742
+   ],
+   "questLevel": 57,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5845,
+   "name": "Of Lost Honor",
+   "nextQuestInChain": 5846,
+   "objectivesText": [
+    "Travel to Northdale, in the northeastern region of the Eastern Plaguelands, and recover the Symbol of Lost Honor. Return to Tirion Fordring upon completion of your objective."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5781
+   ],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11936,
+      "name": "Artist Renfray",
+      "spawns": {
+       "28": [
+        [
+         65.77,
+         75.37
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5846,
+   "name": "Of Love and Family",
+   "nextQuestInChain": 5848,
+   "objectivesText": [
+    "Travel to island of Caer Darrow, in the south-central region of the Plaguelands, and look for any clues as to the whereabouts of the painting."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5845
+   ],
+   "questLevel": 58,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5848,
+   "name": "Of Love and Family",
+   "nextQuestInChain": 5861,
+   "objectivesText": [
+    "Travel to Stratholme, in the northern part of the Plaguelands. It is in the Scarlet Bastion that you will find the painting 'Of Love and Family,' hidden behind another painting depicting the twin moons of our world.",
+    "",
+    "Return the painting to Tirion Fordring."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5846
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11936,
+      "name": "Artist Renfray",
+      "spawns": {
+       "28": [
+        [
+         65.77,
+         75.37
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 2017
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 11872,
+      "name": "Myranda the Hag",
+      "spawns": {
+       "28": [
+        [
+         50.79,
+         77.85
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5861,
+   "name": "Find Myranda",
+   "nextQuestInChain": 5862,
+   "objectivesText": [
+    "Travel to Uther's Tomb, located in the southern Plaguelands. Show Myranda the Hag Tirion's Gift."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5848
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1842,
+      "name": "Highlord Taelan Fordring",
+      "spawns": {
+       "28": [
+        [
+         42.02,
+         14.79
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5862,
+   "name": "Scarlet Subterfuge",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak to Myranda to gain the Scarlet Illusion. Travel to Hearthglen while under the Scarlet Illusion and deliver Tirion's Gift to Highlord Taelan Fordring.",
+    "",
+    "Hearthglen is to the north, Taelan should be inside of Mardenholde Keep."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5861
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11872,
+      "name": "Myranda the Hag",
+      "spawns": {
+       "28": [
+        [
+         50.79,
+         77.85
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 10667,
+      "name": "Chromie",
+      "spawns": {
+       "28": [
+        [
+         39.46,
+         66.76
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5941,
+   "name": "Return to Chromie",
+   "nextQuestInChain": 5721,
+   "objectivesText": [
+    "Take the Bundle of Relics to Chromie in Andorhal."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5206
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 11063,
+      "name": "Carlin Redpath",
+      "spawns": {
+       "139": [
+        [
+         71.7,
+         50.04
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [
+     177544
+    ]
+   },
+   "id": 5942,
+   "name": "Hidden Treasures",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring Joseph's Key to Joseph's Chest."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5721
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 50,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10926,
+      "name": "Pamela Redpath",
+      "spawns": {
+       "139": [
+        [
+         31.15,
+         77.98
+        ]
+       ]
+      },
+      "zoneID": 139
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 139
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 1855,
+      "name": "Tirion Fordring",
+      "spawns": {
+       "139": [
+        [
+         5.16,
+         35.57
+        ]
+       ]
+      },
+      "zoneID": 139
+     },
+     {
+      "id": 12126,
+      "name": "Lord Tirion Fordring",
+      "spawns": {},
+      "zoneID": 0
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5944,
+   "name": "In Dreams",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Escort Taelan Fordring out of Hearthglen."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    5862
+   ],
+   "questLevel": 60,
+   "races": [],
+   "requiredClasses": 0,
+   "requiredLevel": 52,
+   "requiredRaces": 0,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 1842,
+      "name": "Highlord Taelan Fordring",
+      "spawns": {
+       "28": [
+        [
+         42.02,
+         14.79
+        ]
+       ]
+      },
+      "zoneID": 28
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 28
+  }
+ ],
+ "source": {
+  "npcDbSha256": "a8c4169690726323dac3c6441f74f7a4d9cafcc08ec42231d72ff28c9471f0ee",
+  "questDbSha256": "621d4a1670232c047e7d171d8f1fdbd31581458935ee59dd70836016838dc942",
+  "ref": "v1.0.16"
+ }
+}

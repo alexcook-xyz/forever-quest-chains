@@ -1,0 +1,38 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_Reputations.lua",
+ "manual": [
+  {
+   "giver": "Brann Bronzebeard's Lost Letter",
+   "id": 8308,
+   "name": "Brann Bronzebeard's Lost Letter",
+   "what": "giver point"
+  },
+  {
+   "giver": "Deadwood Ritual Totem",
+   "id": 8470,
+   "name": "Deadwood Ritual Totem",
+   "what": "giver point"
+  },
+  {
+   "giver": "Winterfall Ritual Totem",
+   "id": 8471,
+   "name": "Winterfall Ritual Totem",
+   "what": "giver point"
+  },
+  {
+   "giver": "Tactical Task Briefing X",
+   "id": 8498,
+   "name": "Twilight Battle Orders",
+   "what": "giver point"
+  },
+  {
+   "giver": "Logistics Task Briefing XI",
+   "id": 8829,
+   "name": "The Ultimate Deception",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Neutral"
+}

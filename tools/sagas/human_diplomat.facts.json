@@ -1,0 +1,1961 @@
+{
+ "missing": [],
+ "pandabase": [],
+ "pandabase_missing": [],
+ "pandabase_pages": {
+  "1241": {
+   "after": [
+    1242
+   ],
+   "before": [
+    1274
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1274
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jorgen",
+    "x": 76.29,
+    "y": 85.12,
+    "zone": "Stormwind City"
+   },
+   "id": 1241,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Find Jorgen in Stormwind City.",
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bishop DeLavey",
+    "x": 80.24,
+    "y": 44.07,
+    "zone": "Stormwind City"
+   }
+  },
+  "1242": {
+   "after": [
+    1243
+   ],
+   "before": [
+    1241
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1241
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Elling Trias",
+    "x": 66.03,
+    "y": 74.1,
+    "zone": "Stormwind City"
+   },
+   "id": 1242,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Delivery Jorgen's Sealed Note to Elling Trias in Stormwind City.",
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jorgen",
+    "x": 76.29,
+    "y": 85.12,
+    "zone": "Stormwind City"
+   }
+  },
+  "1243": {
+   "after": [
+    1244
+   ],
+   "before": [
+    1242
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1242
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Watcher Backus",
+    "x": 74.8,
+    "y": 44.2,
+    "zone": "Duskwood"
+   },
+   "id": 1243,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Give the Sealed Note to Watcher Backus in Duskwood.",
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Elling Trias",
+    "x": 66.03,
+    "y": 74.1,
+    "zone": "Stormwind City"
+   }
+  },
+  "1244": {
+   "after": [
+    1245
+   ],
+   "before": [
+    1243
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1243
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Watcher Backus",
+    "x": 74.83,
+    "y": 44.22,
+    "zone": "Duskwood"
+   },
+   "id": 1244,
+   "mapId": 1431,
+   "mapZone": "Duskwood",
+   "name": "The Missing Diplomat",
+   "objective": "Find the Defias Docket and return it to Watcher Backus in Duskwood.",
+   "questLevel": 30,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Watcher Backus",
+    "x": 74.83,
+    "y": 44.22,
+    "zone": "Duskwood"
+   }
+  },
+  "1245": {
+   "after": [
+    1246
+   ],
+   "before": [
+    1244
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1244
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Elling Trias",
+    "x": 66.0,
+    "y": 74.1,
+    "zone": "Stormwind City"
+   },
+   "id": 1245,
+   "mapId": 1431,
+   "mapZone": "Duskwood",
+   "name": "The Missing Diplomat",
+   "objective": "Bring the Defias Docket to Elling Trias in Stormwind.",
+   "questLevel": 30,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Watcher Backus",
+    "x": 74.83,
+    "y": 44.22,
+    "zone": "Duskwood"
+   }
+  },
+  "1246": {
+   "after": [
+    1447
+   ],
+   "before": [
+    1245
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1245
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dashel Stonefist",
+    "x": 74.26,
+    "y": 59.17,
+    "zone": "Stormwind City"
+   },
+   "id": 1246,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Speak to Dashel Stonefist in Stormwind.",
+   "questLevel": 31,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Elling Trias",
+    "x": 66.03,
+    "y": 74.1,
+    "zone": "Stormwind City"
+   }
+  },
+  "1247": {
+   "after": [
+    1248
+   ],
+   "before": [
+    1447
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1447
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Elling Trias",
+    "x": 66.03,
+    "y": 74.1,
+    "zone": "Stormwind City"
+   },
+   "id": 1247,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Speak to Elling Trias in Stormwind.",
+   "questLevel": 31,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dashel Stonefist",
+    "x": 74.26,
+    "y": 59.17,
+    "zone": "Stormwind City"
+   }
+  },
+  "1248": {
+   "after": [
+    1249
+   ],
+   "before": [
+    1247
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1247
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Mikhail",
+    "x": 10.6,
+    "y": 60.8,
+    "zone": "Wetlands"
+   },
+   "id": 1248,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Speak to Mikhail in the Wetlands.",
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Elling Trias",
+    "x": 66.03,
+    "y": 74.1,
+    "zone": "Stormwind City"
+   }
+  },
+  "1249": {
+   "after": [
+    1250
+   ],
+   "before": [
+    1248
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1248
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Mikhail",
+    "x": 10.6,
+    "y": 60.77,
+    "zone": "Wetlands"
+   },
+   "id": 1249,
+   "mapId": 1437,
+   "mapZone": "Wetlands",
+   "name": "The Missing Diplomat",
+   "objective": "Subdue Tapoke Jahn before he escapes, and then return to Mikhail in Menethil.",
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Mikhail",
+    "x": 10.6,
+    "y": 60.77,
+    "zone": "Wetlands"
+   }
+  },
+  "1250": {
+   "after": [
+    1264
+   ],
+   "before": [
+    1249
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1249
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Mikhail",
+    "x": 10.6,
+    "y": 60.77,
+    "zone": "Wetlands"
+   },
+   "id": 1250,
+   "mapId": 1437,
+   "mapZone": "Wetlands",
+   "name": "The Missing Diplomat",
+   "objective": "Speak to Mikhail in the Wetlands.",
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tapoke \"Slim\" Jahn",
+    "x": 10.54,
+    "y": 60.26,
+    "zone": "Wetlands"
+   }
+  },
+  "1264": {
+   "after": [
+    1265
+   ],
+   "before": [
+    1250
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1250
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Samaul",
+    "x": 68.0,
+    "y": 48.7,
+    "zone": "Dustwallow Marsh"
+   },
+   "id": 1264,
+   "mapId": 1437,
+   "mapZone": "Wetlands",
+   "name": "The Missing Diplomat",
+   "objective": "Find Commander Samaul in Dustwallow Marsh.",
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Mikhail",
+    "x": 10.6,
+    "y": 60.77,
+    "zone": "Wetlands"
+   }
+  },
+  "1265": {
+   "after": [
+    1266
+   ],
+   "before": [
+    1264
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1264
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Tervosh",
+    "x": 66.42,
+    "y": 49.26,
+    "zone": "Dustwallow Marsh"
+   },
+   "id": 1265,
+   "mapId": 1445,
+   "mapZone": "Dustwallow Marsh",
+   "name": "The Missing Diplomat",
+   "objective": "Search Sentry Point for any sign of Private Hendel.",
+   "questLevel": 35,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Commander Samaul",
+    "x": 68.02,
+    "y": 48.71,
+    "zone": "Dustwallow Marsh"
+   }
+  },
+  "1266": {
+   "after": [
+    1324
+   ],
+   "before": [
+    1265
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1265
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Private Hendel",
+    "x": 45.24,
+    "y": 24.65,
+    "zone": "Dustwallow Marsh"
+   },
+   "id": 1266,
+   "mapId": 1445,
+   "mapZone": "Dustwallow Marsh",
+   "name": "The Missing Diplomat",
+   "objective": "Find Private Hendel in Dustwallow Marsh.",
+   "questLevel": 36,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Tervosh",
+    "x": 66.42,
+    "y": 49.26,
+    "zone": "Dustwallow Marsh"
+   }
+  },
+  "1267": {
+   "after": [],
+   "before": [
+    1324
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1324
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lady Jaina Proudmoore",
+    "x": 66.27,
+    "y": 49.04,
+    "zone": "Dustwallow Marsh"
+   },
+   "id": 1267,
+   "mapId": 1445,
+   "mapZone": "Dustwallow Marsh",
+   "name": "The Missing Diplomat",
+   "objective": "Speak to Jaina Proudmore in Dustwallow Swamp.",
+   "questLevel": 38,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lady Jaina Proudmoore",
+    "x": 66.27,
+    "y": 49.04,
+    "zone": "Dustwallow Marsh"
+   }
+  },
+  "1274": {
+   "after": [
+    1241
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Bishop DeLavey",
+    "x": 80.24,
+    "y": 44.07,
+    "zone": "Stormwind City"
+   },
+   "id": 1274,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Find Bishop DeLavey in Stormwind Keep.",
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Thomas",
+    "x": 49.64,
+    "y": 44.48,
+    "zone": "Stormwind City"
+   }
+  },
+  "1324": {
+   "after": [
+    1267
+   ],
+   "before": [
+    1266
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1266
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Archmage Tervosh",
+    "x": 66.42,
+    "y": 49.26,
+    "zone": "Dustwallow Marsh"
+   },
+   "id": 1324,
+   "mapId": 1445,
+   "mapZone": "Dustwallow Marsh",
+   "name": "The Missing Diplomat",
+   "objective": "Defeat Private Hendel in Dustwallow Marsh.",
+   "questLevel": 38,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Private Hendel",
+    "x": 45.24,
+    "y": 24.65,
+    "zone": "Dustwallow Marsh"
+   }
+  },
+  "1447": {
+   "after": [
+    1247
+   ],
+   "before": [
+    1246
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    1246
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dashel Stonefist",
+    "x": 74.26,
+    "y": 59.17,
+    "zone": "Stormwind City"
+   },
+   "id": 1447,
+   "mapId": 1453,
+   "mapZone": "Stormwind City",
+   "name": "The Missing Diplomat",
+   "objective": "Defeat Dashel Stonefist in Stormwind.",
+   "questLevel": 31,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 28,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Dashel Stonefist",
+    "x": 74.26,
+    "y": 59.17,
+    "zone": "Stormwind City"
+   }
+  }
+ },
+ "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4959,
+      "name": "Jorgen",
+      "spawns": {
+       "1519": [
+        [
+         76.29,
+         85.12
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1241,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1242,
+   "objectivesText": [
+    "Find Jorgen in Stormwind City."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1274
+   ],
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4960,
+      "name": "Bishop DeLavey",
+      "spawns": {
+       "1519": [
+        [
+         80.24,
+         44.07
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 482,
+      "name": "Elling Trias",
+      "spawns": {
+       "1519": [
+        [
+         66.03,
+         74.1
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1242,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1243,
+   "objectivesText": [
+    "Delivery Jorgen's Sealed Note to Elling Trias in Stormwind City."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1241
+   ],
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4959,
+      "name": "Jorgen",
+      "spawns": {
+       "1519": [
+        [
+         76.29,
+         85.12
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 840,
+      "name": "Watcher Backus",
+      "spawns": {
+       "10": [
+        [
+         74.83,
+         44.22
+        ]
+       ]
+      },
+      "zoneID": 10
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1243,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1244,
+   "objectivesText": [
+    "Give the Sealed Note to Watcher Backus in Duskwood."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1242
+   ],
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 482,
+      "name": "Elling Trias",
+      "spawns": {
+       "1519": [
+        [
+         66.03,
+         74.1
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 840,
+      "name": "Watcher Backus",
+      "spawns": {
+       "10": [
+        [
+         74.83,
+         44.22
+        ]
+       ]
+      },
+      "zoneID": 10
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1244,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1245,
+   "objectivesText": [
+    "Find the Defias Docket and return it to Watcher Backus in Duskwood."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1243
+   ],
+   "questLevel": 30,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 840,
+      "name": "Watcher Backus",
+      "spawns": {
+       "10": [
+        [
+         74.83,
+         44.22
+        ]
+       ]
+      },
+      "zoneID": 10
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 482,
+      "name": "Elling Trias",
+      "spawns": {
+       "1519": [
+        [
+         66.03,
+         74.1
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1245,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1246,
+   "objectivesText": [
+    "Bring the Defias Docket to Elling Trias in Stormwind."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1244
+   ],
+   "questLevel": 30,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 840,
+      "name": "Watcher Backus",
+      "spawns": {
+       "10": [
+        [
+         74.83,
+         44.22
+        ]
+       ]
+      },
+      "zoneID": 10
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4961,
+      "name": "Dashel Stonefist",
+      "spawns": {
+       "1519": [
+        [
+         74.26,
+         59.17
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1246,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1447,
+   "objectivesText": [
+    "Speak to Dashel Stonefist in Stormwind."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1245
+   ],
+   "questLevel": 31,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 482,
+      "name": "Elling Trias",
+      "spawns": {
+       "1519": [
+        [
+         66.03,
+         74.1
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 482,
+      "name": "Elling Trias",
+      "spawns": {
+       "1519": [
+        [
+         66.03,
+         74.1
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1247,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1248,
+   "objectivesText": [
+    "Speak to Elling Trias in Stormwind."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1447
+   ],
+   "questLevel": 31,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4961,
+      "name": "Dashel Stonefist",
+      "spawns": {
+       "1519": [
+        [
+         74.26,
+         59.17
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4963,
+      "name": "Mikhail",
+      "spawns": {
+       "11": [
+        [
+         10.6,
+         60.77
+        ]
+       ]
+      },
+      "zoneID": 11
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1248,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1249,
+   "objectivesText": [
+    "Speak to Mikhail in the Wetlands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1247
+   ],
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 482,
+      "name": "Elling Trias",
+      "spawns": {
+       "1519": [
+        [
+         66.03,
+         74.1
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4963,
+      "name": "Mikhail",
+      "spawns": {
+       "11": [
+        [
+         10.6,
+         60.77
+        ]
+       ]
+      },
+      "zoneID": 11
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1249,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Subdue Tapoke Jahn before he escapes, and then return to Mikhail in Menethil."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1248
+   ],
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4963,
+      "name": "Mikhail",
+      "spawns": {
+       "11": [
+        [
+         10.6,
+         60.77
+        ]
+       ]
+      },
+      "zoneID": 11
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4963,
+      "name": "Mikhail",
+      "spawns": {
+       "11": [
+        [
+         10.6,
+         60.77
+        ]
+       ]
+      },
+      "zoneID": 11
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1250,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1264,
+   "objectivesText": [
+    "Speak to Mikhail in the Wetlands."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1249
+   ],
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4962,
+      "name": "Tapoke \"Slim\" Jahn",
+      "spawns": {
+       "11": [
+        [
+         10.54,
+         60.26
+        ]
+       ]
+      },
+      "zoneID": 11
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4964,
+      "name": "Commander Samaul",
+      "spawns": {
+       "15": [
+        [
+         68.02,
+         48.71
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1264,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1265,
+   "objectivesText": [
+    "Find Commander Samaul in Dustwallow Marsh."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1250
+   ],
+   "questLevel": 33,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4963,
+      "name": "Mikhail",
+      "spawns": {
+       "11": [
+        [
+         10.6,
+         60.77
+        ]
+       ]
+      },
+      "zoneID": 11
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4967,
+      "name": "Archmage Tervosh",
+      "spawns": {
+       "15": [
+        [
+         66.42,
+         49.26
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1265,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1266,
+   "objectivesText": [
+    "Search Sentry Point for any sign of Private Hendel."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1264
+   ],
+   "questLevel": 35,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4964,
+      "name": "Commander Samaul",
+      "spawns": {
+       "15": [
+        [
+         68.02,
+         48.71
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4966,
+      "name": "Private Hendel",
+      "spawns": {
+       "15": [
+        [
+         45.24,
+         24.65
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1266,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1324,
+   "objectivesText": [
+    "Find Private Hendel in Dustwallow Marsh."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1265
+   ],
+   "questLevel": 36,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4967,
+      "name": "Archmage Tervosh",
+      "spawns": {
+       "15": [
+        [
+         66.42,
+         49.26
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4968,
+      "name": "Lady Jaina Proudmoore",
+      "spawns": {
+       "15": [
+        [
+         66.27,
+         49.04
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1267,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak to Jaina Proudmore in Dustwallow Swamp."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1324
+   ],
+   "questLevel": 38,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4967,
+      "name": "Archmage Tervosh",
+      "spawns": {
+       "15": [
+        [
+         66.42,
+         49.26
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4960,
+      "name": "Bishop DeLavey",
+      "spawns": {
+       "1519": [
+        [
+         80.24,
+         44.07
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1274,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1241,
+   "objectivesText": [
+    "Find Bishop DeLavey in Stormwind Keep."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 28,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4982,
+      "name": "Thomas",
+      "spawns": {
+       "1519": [
+        [
+         49.64,
+         44.48
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4967,
+      "name": "Archmage Tervosh",
+      "spawns": {
+       "15": [
+        [
+         66.42,
+         49.26
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1324,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1267,
+   "objectivesText": [
+    "Defeat Private Hendel in Dustwallow Marsh."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1266
+   ],
+   "questLevel": 38,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4966,
+      "name": "Private Hendel",
+      "spawns": {
+       "15": [
+        [
+         45.24,
+         24.65
+        ]
+       ]
+      },
+      "zoneID": 15
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 4961,
+      "name": "Dashel Stonefist",
+      "spawns": {
+       "1519": [
+        [
+         74.26,
+         59.17
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 1447,
+   "name": "The Missing Diplomat",
+   "nextQuestInChain": 1247,
+   "objectivesText": [
+    "Defeat Dashel Stonefist in Stormwind."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    1246
+   ],
+   "questLevel": 31,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 28,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 2,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 4961,
+      "name": "Dashel Stonefist",
+      "spawns": {
+       "1519": [
+        [
+         74.26,
+         59.17
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 1519
+  }
+ ],
+ "source": {
+  "npcDbSha256": "a8c4169690726323dac3c6441f74f7a4d9cafcc08ec42231d72ff28c9471f0ee",
+  "questDbSha256": "621d4a1670232c047e7d171d8f1fdbd31581458935ee59dd70836016838dc942",
+  "ref": "v1.0.16"
+ }
+}

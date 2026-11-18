@@ -1,0 +1,20 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_Orc.lua",
+ "manual": [
+  {
+   "giver": "Aged Envelope",
+   "id": 830,
+   "name": "The Admiral's Orders",
+   "what": "giver point"
+  },
+  {
+   "giver": "Eye of Burning Shadow",
+   "id": 832,
+   "name": "Burning Shadows",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Orc"
+}

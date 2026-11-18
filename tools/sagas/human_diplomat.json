@@ -1,0 +1,35 @@
+{
+  "saga": "Human",
+  "file": "HumanDiplomat",
+  "chainsOnly": true,
+  "comment": "The Missing Diplomat (issue #38): a Human chain that the Alliance spine shares (Shared_Alliance.lua). Chains only: Route_Human.lua keeps the Human route and its RouteInfo. Every name, level, giver and point comes from the facts.",
+  "chains": [
+    {
+      "id": "missing_diplomat",
+      "name": "The Missing Diplomat",
+      "zone": "Stormwind City",
+      "summary": "Thomas in Stormwind City starts the search for the missing diplomat. The trail runs through Stormwind City, Duskwood and the Wetlands to Lady Jaina Proudmoore in Dustwallow Marsh.",
+      "walkers": ["Human", "Dwarf", "Gnome", "NightElf"],
+      "quests": [
+        { "id": 1274 },
+        { "id": 1241 },
+        { "id": 1242 },
+        { "id": 1243 },
+        { "id": 1244 },
+        { "id": 1245 },
+        { "id": 1246 },
+        { "id": 1447 },
+        { "id": 1247 },
+        { "id": 1248 },
+        { "id": 1249 },
+        { "id": 1250 },
+        { "id": 1264 },
+        { "id": 1265 },
+        { "id": 1266 },
+        { "id": 1324 },
+        { "id": 1267, "giverFrom": "pandabase" }
+      ]
+    }
+  ],
+  "route": []
+}

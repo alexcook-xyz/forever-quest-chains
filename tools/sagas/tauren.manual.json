@@ -1,0 +1,26 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_Tauren.lua",
+ "manual": [
+  {
+   "giver": "Demon Scarred Cloak",
+   "id": 770,
+   "name": "The Demon Scarred Cloak",
+   "what": "giver point"
+  },
+  {
+   "giver": "Dirt-stained Map",
+   "id": 781,
+   "name": "Attack on Camp Narache",
+   "what": "giver point"
+  },
+  {
+   "giver": "Mulgore Expansion Plans",
+   "id": 98424,
+   "name": "Fizsprocket's Notes",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Tauren"
+}

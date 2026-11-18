@@ -1,0 +1,296 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_Dungeons.lua",
+ "manual": [
+  {
+   "giver": "Vorrel Sengutz",
+   "id": 1051,
+   "name": "Vorrel's Revenge",
+   "what": "giver point"
+  },
+  {
+   "giver": "Henrig Lonebrow's Journal",
+   "id": 1100,
+   "name": "Lonebrow's Journal",
+   "what": "giver point"
+  },
+  {
+   "giver": "Heralath Fallowbrook",
+   "id": 1142,
+   "name": "Mortality Wanes",
+   "what": "giver point"
+  },
+  {
+   "giver": "Willix the Importer",
+   "id": 1144,
+   "name": "Willix the Importer",
+   "what": "giver point"
+  },
+  {
+   "giver": "Broken Trap",
+   "id": 1193,
+   "name": "A Broken Trap",
+   "what": "giver point"
+  },
+  {
+   "giver": "Shattered Necklace",
+   "id": 2198,
+   "name": "The Shattered Necklace",
+   "what": "giver point"
+  },
+  {
+   "giver": "Remains of a Paladin",
+   "id": 2201,
+   "name": "Find the Gems",
+   "what": "giver point"
+  },
+  {
+   "giver": "Talvash's Scrying Bowl",
+   "id": 2204,
+   "name": "Restoring the Necklace",
+   "what": "giver point"
+  },
+  {
+   "giver": "Baelog",
+   "id": 2240,
+   "name": "The Hidden Chamber",
+   "what": "giver point"
+  },
+  {
+   "giver": "The Discs of Norgannon",
+   "id": 2278,
+   "name": "The Platinum Discs",
+   "what": "giver point"
+  },
+  {
+   "giver": "The Discs of Norgannon",
+   "id": 2279,
+   "name": "The Platinum Discs",
+   "what": "giver point"
+  },
+  {
+   "giver": "The Discs of Norgannon",
+   "id": 2280,
+   "name": "The Platinum Discs",
+   "what": "giver point"
+  },
+  {
+   "giver": "Remains of a Paladin",
+   "id": 2318,
+   "name": "Translating the Journal",
+   "what": "giver point"
+  },
+  {
+   "giver": "Kernobee",
+   "id": 2904,
+   "name": "A Fine Mess",
+   "what": "giver point"
+  },
+  {
+   "giver": "Grime-Encrusted Ring",
+   "id": 2945,
+   "name": "Grime-Encrusted Ring",
+   "what": "giver point"
+  },
+  {
+   "giver": "The Sparklematic 5200",
+   "id": 2947,
+   "name": "Return of the Ring",
+   "what": "giver point"
+  },
+  {
+   "giver": "The Sparklematic 5200",
+   "id": 2949,
+   "name": "Return of the Ring",
+   "what": "giver point"
+  },
+  {
+   "giver": "The Sparklematic 5200",
+   "id": 2951,
+   "name": "The Sparklematic 5200!",
+   "what": "giver point"
+  },
+  {
+   "giver": "Essence of Eranikus",
+   "id": 3373,
+   "name": "The Essence of Eranikus",
+   "what": "giver point"
+  },
+  {
+   "giver": "Belnistrasz",
+   "id": 3523,
+   "name": "Scourge of the Downs",
+   "what": "giver point"
+  },
+  {
+   "giver": "Belnistrasz",
+   "id": 3525,
+   "name": "Extinguishing the Idol",
+   "what": "giver point"
+  },
+  {
+   "giver": "Spectral Chalice",
+   "id": 4083,
+   "name": "The Spectral Chalice",
+   "what": "giver point"
+  },
+  {
+   "giver": "Mistress Nagmara",
+   "id": 4201,
+   "name": "The Love Potion",
+   "what": "giver point"
+  },
+  {
+   "giver": "Kharan Mighthammer",
+   "id": 4342,
+   "name": "Kharan's Tale",
+   "what": "giver point"
+  },
+  {
+   "giver": "Kharan Mighthammer",
+   "id": 4361,
+   "name": "The Bearer of Bad News",
+   "what": "giver point"
+  },
+  {
+   "giver": "Princess Moira Bronzebeard",
+   "id": 4363,
+   "name": "The Princess's Surprise",
+   "what": "giver point"
+  },
+  {
+   "giver": "Warosh",
+   "id": 4867,
+   "name": "Urok Doomhowl",
+   "what": "giver point"
+  },
+  {
+   "giver": "Bijou",
+   "id": 4982,
+   "name": "Bijou's Belongings",
+   "what": "giver point"
+  },
+  {
+   "giver": "Bijou",
+   "id": 4983,
+   "name": "Bijou's Reconnaissance Report",
+   "what": "giver point"
+  },
+  {
+   "giver": "Bijou",
+   "id": 5001,
+   "name": "Bijou's Belongings",
+   "what": "giver point"
+  },
+  {
+   "giver": "Bijou",
+   "id": 5002,
+   "name": "Message to Maxwell",
+   "what": "giver point"
+  },
+  {
+   "giver": "General Drakkisath's Command",
+   "id": 5089,
+   "name": "General Drakkisath's Command",
+   "what": "giver point"
+  },
+  {
+   "giver": "Awbee",
+   "id": 5160,
+   "name": "The Matron Protectorate",
+   "what": "giver point"
+  },
+  {
+   "giver": "Head of Balnazzar",
+   "id": 5262,
+   "name": "The Truth Comes Crashing Down",
+   "what": "giver point"
+  },
+  {
+   "giver": "Menethil's Gift",
+   "id": 5464,
+   "name": "Menethil's Gift",
+   "what": "giver point"
+  },
+  {
+   "giver": "Knot Thimblejack",
+   "id": 5518,
+   "name": "The Gordok Ogre Suit",
+   "what": "giver point"
+  },
+  {
+   "giver": "Knot Thimblejack",
+   "id": 5525,
+   "name": "Free Knot!",
+   "what": "giver point"
+  },
+  {
+   "giver": "Stomper Kreeg",
+   "id": 5528,
+   "name": "The Gordok Taste Test",
+   "what": "giver point"
+  },
+  {
+   "giver": "Maur Grimtotem",
+   "id": 5724,
+   "name": "Returning the Lost Satchel",
+   "what": "giver point"
+  },
+  {
+   "giver": "Small Scroll",
+   "id": 6522,
+   "name": "An Unholy Alliance",
+   "what": "giver point"
+  },
+  {
+   "giver": "Argent Guard Thaelrid",
+   "id": 6561,
+   "name": "Blackfathom Villainy",
+   "what": "giver point"
+  },
+  {
+   "giver": "Damp Note",
+   "id": 6564,
+   "name": "Allegiance to the Old Gods",
+   "what": "giver point"
+  },
+  {
+   "giver": "Glowing Shard",
+   "id": 6981,
+   "name": "The Glowing Shard",
+   "what": "giver point"
+  },
+  {
+   "giver": "Celebras the Redeemed",
+   "id": 7046,
+   "name": "The Scepter of Celebras",
+   "what": "giver point"
+  },
+  {
+   "giver": "Zaetar's Spirit",
+   "id": 7066,
+   "name": "Seed of Life",
+   "what": "giver point"
+  },
+  {
+   "giver": "Shen'dralar Ancient",
+   "id": 7461,
+   "name": "The Madness Within",
+   "what": "giver point"
+  },
+  {
+   "giver": "Captain Kromcrush",
+   "id": 7703,
+   "name": "Unfinished Gordok Business",
+   "what": "giver point"
+  },
+  {
+   "giver": "Blackhand's Command",
+   "id": 7761,
+   "name": "Blackhand's Command",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Neutral"
+}

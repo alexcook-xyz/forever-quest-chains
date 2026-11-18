@@ -1,0 +1,247 @@
+{
+ "saga": "Neutral",
+ "file": "Reputations",
+ "chainsOnly": true,
+ "route": [],
+ "comment": "Reputation chains (issue #20): the Argent Dawn, Cenarion Circle, Timbermaw Hold, Thorium Brotherhood and Hydraxian Waterlords quests that both factions take and that need no raid. Zandalar needs Zul'Gurub (E5). Chains only. Rules: tools/select_codas.py.",
+ "chains": [
+  {
+   "id": "argent_dawn",
+   "name": "Argent Dawn",
+   "zone": "Plaguelands",
+   "summary": "12 quests for Argent Dawn at required levels 50 to 60. The quests start with Duke Nicholas Zverenhoff, Caretaker Alen, Lord Maxwell Tyrosus and 6 more.",
+   "quests": [
+    {
+     "id": 5503
+    },
+    {
+     "id": 6021
+    },
+    {
+     "id": 5264
+    },
+    {
+     "id": 5265
+    },
+    {
+     "id": 9124
+    },
+    {
+     "id": 9126
+    },
+    {
+     "id": 9128
+    },
+    {
+     "id": 9131
+    },
+    {
+     "id": 9136
+    },
+    {
+     "id": 9141
+    },
+    {
+     "id": 9121
+    },
+    {
+     "id": 9122
+    }
+   ]
+  },
+  {
+   "id": "cenarion_circle",
+   "name": "Cenarion Circle",
+   "zone": "Silithus",
+   "summary": "34 quests for Cenarion Circle at required levels 54 to 60. The quests start with Beetix Ficklespragg, Windcaller Proudhorn, Noggle Ficklespragg and 11 more.",
+   "quests": [
+    {
+     "id": 8277
+    },
+    {
+     "id": 8278
+    },
+    {
+     "id": 8280
+    },
+    {
+     "id": 8281
+    },
+    {
+     "id": 8282
+    },
+    {
+     "id": 8283
+    },
+    {
+     "id": 8284
+    },
+    {
+     "id": 8285
+    },
+    {
+     "id": 8279
+    },
+    {
+     "id": 8287
+    },
+    {
+     "id": 5527
+    },
+    {
+     "id": 5526
+    },
+    {
+     "id": 8318
+    },
+    {
+     "id": 8308
+    },
+    {
+     "id": 9248
+    },
+    {
+     "id": 8304
+    },
+    {
+     "id": 8306
+    },
+    {
+     "id": 8309
+    },
+    {
+     "id": 8310
+    },
+    {
+     "id": 8320
+    },
+    {
+     "id": 8321
+    },
+    {
+     "id": 8331
+    },
+    {
+     "id": 8332
+    },
+    {
+     "id": 8343
+    },
+    {
+     "id": 8341
+    },
+    {
+     "id": 8349
+    },
+    {
+     "id": 8348
+    },
+    {
+     "id": 8351
+    },
+    {
+     "id": 8352
+    },
+    {
+     "id": 8361
+    },
+    {
+     "id": 8498
+    },
+    {
+     "id": 8800
+    },
+    {
+     "id": 8829
+    },
+    {
+     "id": 9023
+    }
+   ]
+  },
+  {
+   "id": "timbermaw_hold",
+   "name": "Timbermaw Hold",
+   "zone": "Felwood and Winterspring",
+   "summary": "10 quests for Timbermaw Hold at required levels 45 to 50. The quests start with Grazle, Nafien, Salfa and 2 more.",
+   "quests": [
+    {
+     "id": 8460
+    },
+    {
+     "id": 8461
+    },
+    {
+     "id": 8462
+    },
+    {
+     "id": 8464
+    },
+    {
+     "id": 8465
+    },
+    {
+     "id": 8470
+    },
+    {
+     "id": 8481
+    },
+    {
+     "id": 6031
+    },
+    {
+     "id": 6032
+    },
+    {
+     "id": 8471
+    }
+   ]
+  },
+  {
+   "id": "thorium_brotherhood",
+   "name": "Thorium Brotherhood",
+   "zone": "Searing Gorge",
+   "summary": "7 quests for Thorium Brotherhood at required level 45. The quests start with Master Smith Burninate, Hansel Heavyhands.",
+   "quests": [
+    {
+     "id": 7701
+    },
+    {
+     "id": 7722
+    },
+    {
+     "id": 7723
+    },
+    {
+     "id": 7724
+    },
+    {
+     "id": 7727
+    },
+    {
+     "id": 7728
+    },
+    {
+     "id": 7729
+    }
+   ]
+  },
+  {
+   "id": "hydraxian_waterlords",
+   "name": "Hydraxian Waterlords",
+   "zone": "Azshara",
+   "summary": "3 quests for Hydraxian Waterlords at required levels 55 to 56. The quests start with Duke Hydraxis.",
+   "quests": [
+    {
+     "id": 6804
+    },
+    {
+     "id": 6805
+    },
+    {
+     "id": 6821
+    }
+   ]
+  }
+ ]
+}

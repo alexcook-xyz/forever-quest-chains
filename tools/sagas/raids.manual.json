@@ -1,0 +1,14 @@
+{
+ "classGated": [],
+ "data": "MainStoryGuide/Data_Raids.lua",
+ "manual": [
+  {
+   "giver": "Vaelastrasz the Corrupt",
+   "id": 8730,
+   "name": "Nefarius's Corruption",
+   "what": "giver point"
+  }
+ ],
+ "pandabaseMissing": [],
+ "saga": "Neutral"
+}
