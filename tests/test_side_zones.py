@@ -27,11 +27,14 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 ADDON = ROOT / "MainStoryGuide"
 SAGAS = ROOT / "tools" / "sagas"
 SPEC_PATH = SAGAS / "side_zones.json"
-ZONES = ["Burning Steppes", "Dustwallow Marsh", "Winterspring"]
+ZONES = ["Burning Steppes", "Dustwallow Marsh", "Winterspring", "Elwynn Forest"]
+# Every Elwynn Forest row is Alliance only, so a Horde character sees an empty list (issue #2).
+ONE_SIDED = {"Elwynn Forest": "Alliance"}
 # Quests that start from an item or an object, or end at one, with no recorded point:
 # open in-game checks (issue #40). Nothing is guessed.
 OPEN_MANUAL_CHECKS = [(4882, "giver point"), (5083, "giver point"), (5123, "giver point"),
-                      (6601, "turn-in point"), (92009, "turn-in point"), (93269, "turn-in point")]
+                      (6601, "turn-in point"), (91741, "giver point"), (92009, "turn-in point"),
+                      (93269, "turn-in point")]
 
 
 # ------------------------------------------------------------------ helpers
@@ -254,7 +257,7 @@ def test_committed_lua_matches_a_fresh_build():
     assert manual == json.loads(json.dumps(report))
 
 
-def test_the_three_zones_have_lists():
+def test_the_zones_have_lists():
     spec, _ = committed()
     assert [z["name"] for z in spec["zones"]] == ZONES
     assert all(len(z["quests"]) >= 10 for z in spec["zones"])
@@ -386,7 +389,10 @@ def test_a_faction_sees_only_its_own_and_neutral_side_rows(spec_and_lua, zone, f
     listed = [q["id"] for z in spec["zones"] if z["name"] == zone for q in z["quests"]]
     expect = {i for i in listed if side_of[i] in (None, faction)}
     assert shown == expect
-    assert shown, "the list must not be empty for either faction"
+    if ONE_SIDED.get(zone, faction) == faction:
+        assert shown, "the list must not be empty for a faction that the zone serves"
+    else:
+        assert not shown, "a one-sided zone must show nothing to the other faction"
 
 
 def test_without_a_faction_every_row_shows(spec_and_lua):
@@ -409,7 +415,7 @@ def test_committed_audit_is_complete():
     assert af.problems(audit, gs.main_ids(), af.side_ids(), af.snapshot_forever_ids()) == []
 
 
-def test_the_audit_covers_the_three_zones_and_every_exclusion_has_a_reason():
+def test_the_audit_covers_the_zones_and_every_exclusion_has_a_reason():
     audit = af.load_audit()
     assert list(audit["zones"]) == ZONES
     assert audit["excluded"] and all(e["reason"].strip() for e in audit["excluded"])

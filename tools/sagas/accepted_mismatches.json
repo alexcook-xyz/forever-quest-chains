@@ -1,5 +1,5 @@
 {
- "comment": "Investigated Questie/PandaBase mismatches for the Dwarf and Gnome sagas (issue #13), the Night Elf saga (issue #14), The Missing Diplomat (issue #38) the Tauren saga (issue #17) and the Forsaken saga and Horde spine (issue #18) and the Horde spine from level 18 to level 60. PandaBase shows Forever; the pinned QuestieDB v1.0.16 does not. tests/test_race_sagas.py checks that each route still meets the prerequisites of both sources, and the neutral chains (issue #19) and the dungeon codas and reputations (issue #20), and the zone side catalogues (issue #21).",
+ "comment": "Investigated Questie/PandaBase mismatches for the Dwarf and Gnome sagas (issue #13), the Night Elf saga (issue #14), The Missing Diplomat (issue #38) the Tauren saga (issue #17) and the Forsaken saga and Horde spine (issue #18) and the Horde spine from level 18 to level 60. PandaBase shows Forever; the pinned QuestieDB v1.0.16 does not. tests/test_race_sagas.py checks that each route still meets the prerequisites of both sources, and the neutral chains (issue #19) and the dungeon codas and reputations (issue #20), and the zone side catalogues (issue #21 and issue #2).",
  "accepted": [
   {
    "id": 217,
@@ -1082,6 +1082,15 @@
     9121,
     9122,
     9123
+   ]
+  },
+  {
+   "id": 46,
+   "field": "before",
+   "reason": "Forever adds Deliver Thomas' Report (39), a MAIN quest, as a prerequisite of Bounty on Murlocs. The side list follows Questie and shows the quest without a link; the guide never blocks a quest on a side row.",
+   "questie": [],
+   "pandabase": [
+    39
    ]
   }
  ]

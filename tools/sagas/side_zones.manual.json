@@ -1,8 +1,82 @@
 {
- "anyOfPrereqs": [],
+ "anyOfPrereqs": [
+  {
+   "anyOf": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "id": 96626
+  },
+  {
+   "anyOf": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "id": 97915
+  },
+  {
+   "anyOf": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "id": 97916
+  },
+  {
+   "anyOf": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "id": 97917
+  },
+  {
+   "anyOf": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "id": 97918
+  },
+  {
+   "anyOf": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "id": 97919
+  }
+ ],
  "counts": {
   "Burning Steppes": 11,
   "Dustwallow Marsh": 58,
+  "Elwynn Forest": 53,
   "Winterspring": 59
  },
  "file": "MainStoryGuide/ZoneSideQuests.lua",
@@ -30,6 +104,12 @@
    "id": 6601,
    "name": "Ascension...",
    "what": "turn-in point"
+  },
+  {
+   "giver": "Nibbled-On Book",
+   "id": 91741,
+   "name": "Nibbled-On Book",
+   "what": "giver point"
   },
   {
    "giver": "Kaylaena Springwhisper",
