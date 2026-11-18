@@ -2,7 +2,25 @@
  "missing": [],
  "pandabase": [
   81570,
+  91723,
+  91724,
+  91725,
+  91732,
+  91733,
+  91736,
+  91738,
+  91741,
+  91743,
+  91745,
+  91751,
+  91752,
+  91753,
+  91758,
+  91772,
+  91775,
+  91777,
   92009,
+  92124,
   92859,
   93269,
   93406,
@@ -13,19 +31,206 @@
   95284,
   95285,
   95309,
+  95998,
   96332,
   96334,
   96381,
+  96626,
+  97045,
+  97170,
   97490,
+  97915,
+  97916,
+  97917,
+  97918,
+  97919,
   98192,
   98205,
   98215,
   98231,
   98233,
-  98462
+  98462,
+  99127,
+  99128,
+  99129,
+  99130,
+  99131,
+  99143
  ],
  "pandabase_missing": [],
  "pandabase_pages": {
+  "106": {
+   "after": [
+    111
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tommy Joe Stonefield",
+    "x": 29.84,
+    "y": 86.0,
+    "zone": "Elwynn Forest"
+   },
+   "id": 106,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Young Lovers",
+   "objective": "Give Maybell's Love Letter to Tommy Joe Stonefield.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Maybell Maclure",
+    "x": 43.15,
+    "y": 89.62,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "107": {
+   "after": [
+    112
+   ],
+   "before": [
+    111
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    111
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
+   },
+   "id": 107,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Note to William",
+   "objective": "Take Gramma Stonefield's Note to William Pestle.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gramma Stonefield",
+    "x": 34.94,
+    "y": 83.86,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "111": {
+   "after": [
+    107
+   ],
+   "before": [
+    106
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    106
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gramma Stonefield",
+    "x": 34.94,
+    "y": 83.86,
+    "zone": "Elwynn Forest"
+   },
+   "id": 111,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Speak with Gramma",
+   "objective": "Speak with Gramma Stonefield.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tommy Joe Stonefield",
+    "x": 29.84,
+    "y": 86.0,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "112": {
+   "after": [
+    114
+   ],
+   "before": [
+    107
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    107
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
+   },
+   "id": 112,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Collecting Kelp",
+   "objective": "Bring 4 Crystal Kelp Fronds to William Pestle in Goldshire.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
+   }
+  },
   "1133": {
    "after": [],
    "before": [],
@@ -100,6 +305,48 @@
     "x": 66.46,
     "y": 45.15,
     "zone": "Dustwallow Marsh"
+   }
+  },
+  "114": {
+   "after": [],
+   "before": [
+    112
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    112
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Maybell Maclure",
+    "x": 43.15,
+    "y": 89.62,
+    "zone": "Elwynn Forest"
+   },
+   "id": 114,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "The Escape",
+   "objective": "Take the Invisibility Liquor to Maybell Maclure.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
    }
   },
   "1166": {
@@ -1368,6 +1615,82 @@
     "zone": "Dustwallow Marsh"
    }
   },
+  "16": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gerard Tiller",
+    "x": 43.1,
+    "y": 85.5,
+    "zone": "Elwynn Forest"
+   },
+   "id": 16,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Give Gerard a Drink",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 1,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Gerard Tiller",
+    "x": 43.1,
+    "y": 85.5,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "2158": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Innkeeper Farley",
+    "x": 43.77,
+    "y": 65.8,
+    "zone": "Elwynn Forest"
+   },
+   "id": 2158,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Rest and Relaxation",
+   "objective": "Speak with Innkeeper Farley at the Lion's Pride Inn.",
+   "questLevel": 5,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Falkhaan Isenstrider",
+    "x": 45.56,
+    "y": 47.74,
+    "zone": "Elwynn Forest"
+   }
+  },
   "3783": {
    "after": [
     977
@@ -1568,6 +1891,46 @@
     "x": 84.56,
     "y": 68.68,
     "zone": "Burning Steppes"
+   }
+  },
+  "40": {
+   "after": [
+    35
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal Dughan",
+    "x": 42.11,
+    "y": 65.93,
+    "zone": "Elwynn Forest"
+   },
+   "id": 40,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "A Fishy Peril",
+   "objective": "Remy \"Two Times\" wants you to speak with Marshal Dughan in Goldshire.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
    }
   },
   "4283": {
@@ -1798,6 +2161,86 @@
     "x": 64.99,
     "y": 23.58,
     "zone": "Burning Steppes"
+   }
+  },
+  "46": {
+   "after": [],
+   "before": [
+    39
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    39
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Guard Thomas",
+    "x": 73.97,
+    "y": 72.18,
+    "zone": "Elwynn Forest"
+   },
+   "id": 46,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Bounty on Murlocs",
+   "objective": "Bring 8 Torn Murloc Fins to Guard Thomas at the east Elwynn bridge.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Guard Thomas",
+    "x": 73.97,
+    "y": 72.18,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "47": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
+   },
+   "id": 47,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Gold Dust Exchange",
+   "objective": "Bring 10 Gold Dust to Remy \"Two Times\" in Goldshire. Gold Dust is gathered from Kobolds in Elwynn Forest.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
    }
   },
   "4801": {
@@ -3323,6 +3766,86 @@
     "zone": "Winterspring"
    }
   },
+  "5545": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Supervisor Raelen",
+    "x": 81.38,
+    "y": 66.11,
+    "zone": "Elwynn Forest"
+   },
+   "id": 5545,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "A Bundle of Trouble",
+   "objective": "Bring 8 Bundles of Wood to Raelen at the Eastvale Logging Camp.",
+   "questLevel": 9,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Supervisor Raelen",
+    "x": 81.38,
+    "y": 66.11,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "59": {
+   "after": [],
+   "before": [
+    39
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    39
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sara Timberlain",
+    "x": 79.46,
+    "y": 68.79,
+    "zone": "Elwynn Forest"
+   },
+   "id": 59,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Cloth and Leather Armor",
+   "objective": "Give Sara Timberlain the Stormwind Armor Marker.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal Dughan",
+    "x": 42.11,
+    "y": 65.93,
+    "zone": "Elwynn Forest"
+   }
+  },
   "5981": {
    "after": [],
    "before": [],
@@ -3359,6 +3882,46 @@
     "x": 49.94,
     "y": 9.84,
     "zone": "Winterspring"
+   }
+  },
+  "60": {
+   "after": [
+    61
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
+   },
+   "id": 60,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Kobold Candles",
+   "objective": "Bring 8 Large Candles to William Pestle in Goldshire.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 3,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
    }
   },
   "6028": {
@@ -3467,6 +4030,48 @@
     "x": 61.35,
     "y": 38.97,
     "zone": "Winterspring"
+   }
+  },
+  "61": {
+   "after": [],
+   "before": [
+    60
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    60
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Morgan Pestle",
+    "x": 63.2,
+    "y": 74.4,
+    "zone": "Stormwind City"
+   },
+   "id": 61,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Shipment to Stormwind",
+   "objective": "Bring William's Shipment to Morgan Pestle in the Stormwind Trade District.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 3,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "William Pestle",
+    "x": 43.32,
+    "y": 65.7,
+    "zone": "Elwynn Forest"
    }
   },
   "626": {
@@ -3951,6 +4556,88 @@
     "zone": "Dustwallow Marsh"
    }
   },
+  "83": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sara Timberlain",
+    "x": 79.46,
+    "y": 68.79,
+    "zone": "Elwynn Forest"
+   },
+   "id": 83,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Red Linen Goods",
+   "objective": "Bring 6 Red Linen Bandanas to Sara Timberlain at the Eastvale Logging Camp.",
+   "questLevel": 9,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sara Timberlain",
+    "x": 79.46,
+    "y": 68.79,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "84": {
+   "after": [
+    87
+   ],
+   "before": [
+    86
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    86
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Billy Maclure",
+    "x": 43.13,
+    "y": 85.72,
+    "zone": "Elwynn Forest"
+   },
+   "id": 84,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Back to Billy",
+   "objective": "Bring the Pork Belly Pie to Billy Maclure at the Maclure Vineyards.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "\"Auntie\" Bernice Stonefield",
+    "x": 34.49,
+    "y": 84.25,
+    "zone": "Elwynn Forest"
+   }
+  },
   "8469": {
    "after": [],
    "before": [
@@ -3985,6 +4672,132 @@
     "x": 27.73,
     "y": 34.5,
     "zone": "Winterspring"
+   }
+  },
+  "85": {
+   "after": [
+    86
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Billy Maclure",
+    "x": 43.13,
+    "y": 85.72,
+    "zone": "Elwynn Forest"
+   },
+   "id": 85,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Lost Necklace",
+   "objective": "Speak with Billy Maclure.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "\"Auntie\" Bernice Stonefield",
+    "x": 34.49,
+    "y": 84.25,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "86": {
+   "after": [
+    84
+   ],
+   "before": [
+    85
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    85
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "\"Auntie\" Bernice Stonefield",
+    "x": 34.49,
+    "y": 84.25,
+    "zone": "Elwynn Forest"
+   },
+   "id": 86,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Pie for Billy",
+   "objective": "Bring 4 Chunks of Boar Meat to Auntie Bernice Stonefield at the Stonefield's Farm.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Billy Maclure",
+    "x": 43.13,
+    "y": 85.72,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "87": {
+   "after": [],
+   "before": [
+    84
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    84
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "\"Auntie\" Bernice Stonefield",
+    "x": 34.49,
+    "y": 84.25,
+    "zone": "Elwynn Forest"
+   },
+   "id": 87,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Goldtooth",
+   "objective": "Bring Bernice's Necklace to \"Auntie\" Bernice Stonefield at the Stonefield Farm.",
+   "questLevel": 8,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Billy Maclure",
+    "x": 43.13,
+    "y": 85.72,
+    "zone": "Elwynn Forest"
    }
   },
   "8798": {
@@ -4023,6 +4836,738 @@
     "zone": "Winterspring"
    }
   },
+  "88": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Ma Stonefield",
+    "x": 34.66,
+    "y": 84.48,
+    "zone": "Elwynn Forest"
+   },
+   "id": 88,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Princess Must Die!",
+   "objective": "Kill Princess, grab her collar, then bring it back to Ma Stonefield at the Stonefield Farm.",
+   "questLevel": 9,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 6,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Ma Stonefield",
+    "x": 34.66,
+    "y": 84.48,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91723": {
+   "after": [
+    91724
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hamish Bergwort",
+    "x": 65.1,
+    "y": 69.84,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91723,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Delicate Instruments",
+   "objective": "Kill 8 Kobold Geomancers in Jasperlode Mine, then return to Hamish Bergwort in the Tower of Azora.",
+   "questLevel": 8,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hamish Bergwort",
+    "x": 65.1,
+    "y": 69.84,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91724": {
+   "after": [],
+   "before": [
+    91723
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91723
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hamish Bergwort",
+    "x": 65.1,
+    "y": 69.84,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91724,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Delicate Instruments",
+   "objective": "Kill 8 Defias Rogue Wizards at Stone Cairn Lake, then return to Hamish Bergwort in the Tower of Azora.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hamish Bergwort",
+    "x": 65.1,
+    "y": 69.84,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91725": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Blixie Fitzwink",
+    "x": 63.2,
+    "y": 72.6,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91725,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Stolen Enchanting Supplies",
+   "objective": "Collect 5 Stolen Enchanting Supplies from gnoll camps around Stone Cairn Lake, then return to Blixie Fitzwink near the Tower of Azora.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Blixie Fitzwink",
+    "x": 63.2,
+    "y": 72.6,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91732": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hagar Lowe",
+    "x": 82.47,
+    "y": 63.83,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91732,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Good Steel",
+   "objective": "Collect 4 Mining Tools from Jasperlode Mine, then return to Hagar Lowe in Eastvale Logging Camp.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 6,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Hagar Lowe",
+    "x": 82.47,
+    "y": 63.83,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91733": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Ormin Pelford",
+    "x": 76.54,
+    "y": 71.92,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91733,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Downstream",
+   "objective": "Collect the Waterlogged Axe, Waterlogged Saw, and Waterlogged Toolbox that have washed downstream from Eastvale Logging Camp, then return to Ormin Pelford.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Ormin Pelford",
+    "x": 76.54,
+    "y": 71.92,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91736": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Applejack Still",
+    "x": 24.55,
+    "y": 58.04,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91736,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Applejack Still",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 1,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "object",
+    "located": true,
+    "name": "Applejack Still",
+    "x": 24.55,
+    "y": 58.04,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91738": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sergeant De Vries",
+    "x": 24.08,
+    "y": 73.2,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91738,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "An Apple Treat",
+   "objective": "This quest has no objective text of its own – it is accepted and handed in.",
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 7,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sergeant De Vries",
+    "x": 24.08,
+    "y": 73.2,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91741": {
+   "after": [
+    92124
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Brother Paxton",
+    "x": 49.61,
+    "y": 40.41,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91741,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Nibbled-On Book",
+   "objective": "Return the book to Brother Paxton.",
+   "questLevel": 2,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "item",
+    "located": false,
+    "name": "Nibbled-On Book",
+    "x": null,
+    "y": null,
+    "zone": null
+   }
+  },
+  "91743": {
+   "after": [
+    91745
+   ],
+   "before": [
+    92124
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    92124
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Brother Paxton",
+    "x": 49.61,
+    "y": 40.41,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91743,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Rascally Rodents",
+   "objective": "Retrieve 8 Stolen Books from kobolds in Northshire Valley and return them to Brother Paxton.",
+   "questLevel": 2,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Brother Paxton",
+    "x": 49.61,
+    "y": 40.41,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91745": {
+   "after": [
+    91752
+   ],
+   "before": [
+    91743
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91743
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Kelsey Fargo",
+    "x": 47.18,
+    "y": 32.16,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91745,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Mining Consultant",
+   "objective": "Talk to Kelsey Fargo outside the Echo Ridge Mine in Northshire Valley.",
+   "questLevel": 3,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Brother Paxton",
+    "x": 49.61,
+    "y": 40.41,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91751": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Helene Peltskinner",
+    "x": 46.24,
+    "y": 62.24,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91751,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Rough Wolf Pelts",
+   "objective": "Skin wolves around Elwynn Forest to obtain 7 Rough Wolf Pelts, then deliver them to Helene Peltskinner near Goldshire.",
+   "questLevel": 8,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Helene Peltskinner",
+    "x": 46.24,
+    "y": 62.24,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91752": {
+   "after": [
+    91758
+   ],
+   "before": [
+    91745
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91745
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal McBride",
+    "x": 48.92,
+    "y": 41.61,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91752,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "The Big Picture",
+   "objective": "Retrieve a Sack of \"Picture\" Books from Shinyfinder Narf. Bring the sack to Marshal McBride just inside Northshire's Abbey.",
+   "questLevel": 3,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Kelsey Fargo",
+    "x": 47.18,
+    "y": 32.16,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91753": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Kitta Firewind",
+    "x": 64.93,
+    "y": 70.71,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91753,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "An Enchanting Lesson",
+   "objective": "Kitta Firewind in the Tower of Azora wants you to collect 3 Luminous Residue.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 5,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Kitta Firewind",
+    "x": 64.93,
+    "y": 70.71,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91758": {
+   "after": [
+    91772
+   ],
+   "before": [
+    91752
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91752
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tordrin Sternblade",
+    "x": 51.21,
+    "y": 40.8,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91758,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Follow That Kobold!",
+   "objective": "Speak to Tordrin Sternblade near the stable behind Northshire's Abbey.",
+   "questLevel": 4,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal McBride",
+    "x": 48.92,
+    "y": 41.61,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91772": {
+   "after": [
+    91775
+   ],
+   "before": [
+    91758
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91758
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal Dughan",
+    "x": 42.11,
+    "y": 65.93,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91772,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Shhh! We're Hunting Kobolds",
+   "objective": "Follow the kobold tracks and report to Marshal Dughan in Goldshire with your findings and the Kobold Tracking Kit.",
+   "questLevel": 4,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tordrin Sternblade",
+    "x": 51.21,
+    "y": 40.8,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91775": {
+   "after": [
+    91777
+   ],
+   "before": [
+    91772
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91772
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal Dughan",
+    "x": 42.11,
+    "y": 65.93,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91775,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Book Return",
+   "objective": "Find 6 Lost Books and \"Fun with Elementals\" and return them to Marshal Dughan.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal Dughan",
+    "x": 42.11,
+    "y": 65.93,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "91777": {
+   "after": [],
+   "before": [
+    91775
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91775
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Brother Paxton",
+    "x": 49.61,
+    "y": 40.41,
+    "zone": "Elwynn Forest"
+   },
+   "id": 91777,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Rare Books",
+   "objective": "Recover \"Geomancy for Curious Young Wizards\" and \"Arcane Explainer: Magical Stuff in Simple Words\" and return them to Brother Paxton inside Northshire's Abbey.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Marshal Dughan",
+    "x": 42.11,
+    "y": 65.93,
+    "zone": "Elwynn Forest"
+   }
+  },
   "92009": {
    "after": [
     92011
@@ -4059,6 +5604,50 @@
     "x": 61.33,
     "y": 36.92,
     "zone": "Winterspring"
+   }
+  },
+  "92124": {
+   "after": [
+    91743
+   ],
+   "before": [
+    91741
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    91741
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Daniel",
+    "x": 49.48,
+    "y": 40.67,
+    "zone": "Elwynn Forest"
+   },
+   "id": 92124,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Book Inventory",
+   "objective": "Speak to Daniel, Brother Paxton's assistant in the library.",
+   "questLevel": 2,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 1,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Brother Paxton",
+    "x": 49.61,
+    "y": 40.41,
+    "zone": "Elwynn Forest"
    }
   },
   "9266": {
@@ -4240,7 +5829,7 @@
     "kind": "npc",
     "located": true,
     "name": "Sully McCleary",
-    "x": 66.25,
+    "x": 66.24,
     "y": 45.13,
     "zone": "Dustwallow Marsh"
    }
@@ -4506,6 +6095,57 @@
     "zone": "Dustwallow Marsh"
    }
   },
+  "95998": {
+   "after": [
+    96031,
+    96044,
+    96045,
+    96046,
+    96047,
+    96050,
+    96055,
+    96056,
+    96057,
+    96058,
+    96059,
+    96102
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   },
+   "id": 95998,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "The Great Outdoors",
+   "objective": "Sit near Sam's Basic Campfire and wait until you receive the Boosted Rest buff.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   }
+  },
   "96332": {
    "after": [],
    "before": [
@@ -4632,6 +6272,60 @@
     "zone": "Dustwallow Marsh"
    }
   },
+  "96626": {
+   "after": [],
+   "before": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Tomas",
+    "x": 44.37,
+    "y": 65.99,
+    "zone": "Elwynn Forest"
+   },
+   "id": 96626,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Camping 101: Cooking",
+   "objective": "Speak with Tomas in Goldshire to learn to become a cook.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   }
+  },
   "969": {
    "after": [
     975
@@ -4664,6 +6358,74 @@
     "x": 61.92,
     "y": 38.3,
     "zone": "Winterspring"
+   }
+  },
+  "97045": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Katie Hunter",
+    "x": 84.15,
+    "y": 65.49,
+    "zone": "Elwynn Forest"
+   },
+   "id": 97045,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Your First Horse",
+   "objective": "Inspect the riding horses to choose your first mount.",
+   "questLevel": 40,
+   "races": [
+    "Human"
+   ],
+   "requiredLevel": 40,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Katie Hunter",
+    "x": 84.15,
+    "y": 65.49,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "97170": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Katie Hunter",
+    "x": 84.15,
+    "y": 65.49,
+    "zone": "Elwynn Forest"
+   },
+   "id": 97170,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Learning to Ride",
+   "objective": "Learn the Apprentice Riding skill from Randal Hunter.",
+   "questLevel": 40,
+   "races": [
+    "Human"
+   ],
+   "requiredLevel": 40,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Randal Hunter",
+    "x": 84.32,
+    "y": 64.87,
+    "zone": "Elwynn Forest"
    }
   },
   "97490": {
@@ -4778,6 +6540,276 @@
     "x": 60.88,
     "y": 37.62,
     "zone": "Winterspring"
+   }
+  },
+  "97915": {
+   "after": [],
+   "before": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Alchemist Mallory",
+    "x": 39.84,
+    "y": 48.23,
+    "zone": "Elwynn Forest"
+   },
+   "id": 97915,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Camping 101: Alchemy",
+   "objective": "Speak with Alchemist Mallory in Elwynn Forest near Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "97916": {
+   "after": [],
+   "before": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Smith Argus",
+    "x": 41.71,
+    "y": 65.54,
+    "zone": "Elwynn Forest"
+   },
+   "id": 97916,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Camping 101: Blacksmithing",
+   "objective": "Speak with Smith Argus in Goldshire to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "97917": {
+   "after": [],
+   "before": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Betty Quin",
+    "x": 53.0,
+    "y": 73.7,
+    "zone": "Stormwind City"
+   },
+   "id": 97917,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Camping 101: Enchanting",
+   "objective": "Speak with Betty Quin in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "97918": {
+   "after": [],
+   "before": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sprite Jumpsprocket",
+    "x": 61.9,
+    "y": 30.6,
+    "zone": "Stormwind City"
+   },
+   "id": 97918,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Camping 101: Engineering",
+   "objective": "Speak with Sprite Jumpsprocket in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "97919": {
+   "after": [],
+   "before": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Michelle Belle",
+    "x": 43.39,
+    "y": 65.55,
+    "zone": "Elwynn Forest"
+   },
+   "id": 97919,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Camping 101: First Aid",
+   "objective": "Speak with Michelle Belle in Goldshire to learn to craft a camping item for your profession once you have shown proficiency in your skill.",
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Sam Sarsaparilla",
+    "x": 44.9,
+    "y": 63.36,
+    "zone": "Elwynn Forest"
    }
   },
   "98192": {
@@ -4987,9 +7019,1519 @@
     "y": 37.78,
     "zone": "Winterspring"
    }
+  },
+  "99127": {
+   "after": [
+    99128
+   ],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jason Mathers",
+    "x": 47.46,
+    "y": 62.18,
+    "zone": "Elwynn Forest"
+   },
+   "id": 99127,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "A Net Disaster",
+   "objective": "Check the fishing traps in Crystal Lake.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jason Mathers",
+    "x": 47.46,
+    "y": 62.18,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "99128": {
+   "after": [
+    99129
+   ],
+   "before": [
+    99127
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    99127
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jason Mathers",
+    "x": 47.46,
+    "y": 62.18,
+    "zone": "Elwynn Forest"
+   },
+   "id": 99128,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Slimy Menace",
+   "objective": "Kill 7 Murlocs and 4 Murloc Streamrunner at Crystal Lake, then return to Jason Mathers.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jason Mathers",
+    "x": 47.46,
+    "y": 62.18,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "99129": {
+   "after": [
+    99130
+   ],
+   "before": [
+    99128
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    99128
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
+   },
+   "id": 99129,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "A Man About a Murloc",
+   "objective": "Speak with Remy \"Two Times\" about Jason's murloc problems.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jason Mathers",
+    "x": 47.46,
+    "y": 62.18,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "99130": {
+   "after": [
+    99131
+   ],
+   "before": [
+    99129
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    99129
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
+   },
+   "id": 99130,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "An Enticing Offer",
+   "objective": "Collect 6 Vials of Animal Blood and 18 Duskweed Petals for murloc bait, then return to Remy \"Two Times\" in Goldshire.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "99131": {
+   "after": [],
+   "before": [
+    99130
+   ],
+   "beforeAll": [],
+   "beforeAny": [
+    99130
+   ],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Jason Mathers",
+    "x": 47.46,
+    "y": 62.18,
+    "zone": "Elwynn Forest"
+   },
+   "id": 99131,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Baited for Success",
+   "objective": "Return to Jason Mathers.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Remy \"Two Times\"",
+    "x": 42.14,
+    "y": 67.26,
+    "zone": "Elwynn Forest"
+   }
+  },
+  "99143": {
+   "after": [],
+   "before": [],
+   "beforeAll": [],
+   "beforeAny": [],
+   "classes": [],
+   "faction": "Alliance only",
+   "finishedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lee Brown",
+    "x": 47.61,
+    "y": 62.32,
+    "zone": "Elwynn Forest"
+   },
+   "id": 99143,
+   "mapId": 1429,
+   "mapZone": "Elwynn Forest",
+   "name": "Bottles and Baubles",
+   "objective": "Collect 6 pieces of shiny junk from the nearby Murloc camp.",
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredLevel": 4,
+   "startedBy": {
+    "kind": "npc",
+    "located": true,
+    "name": "Lee Brown",
+    "x": 47.61,
+    "y": 62.32,
+    "zone": "Elwynn Forest"
+   }
   }
  },
  "quests": [
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 255,
+      "name": "Gerard Tiller",
+      "spawns": {
+       "12": [
+        [
+         43.1,
+         85.5
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 16,
+   "name": "Give Gerard a Drink",
+   "nextQuestInChain": null,
+   "objectivesText": [],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 1,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 1,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 1,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 255,
+      "name": "Gerard Tiller",
+      "spawns": {
+       "12": [
+        [
+         43.1,
+         85.5
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 240,
+      "name": "Marshal Dughan",
+      "spawns": {
+       "12": [
+        [
+         42.11,
+         65.93
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 40,
+   "name": "A Fishy Peril",
+   "nextQuestInChain": 35,
+   "objectivesText": [
+    "Remy \"Two Times\" wants you to speak with Marshal Dughan in Goldshire."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 7,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 241,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 261,
+      "name": "Guard Thomas",
+      "spawns": {
+       "12": [
+        [
+         73.97,
+         72.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 46,
+   "name": "Bounty on Murlocs",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 8 Torn Murloc Fins to Guard Thomas at the east Elwynn bridge."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 7,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 261,
+      "name": "Guard Thomas",
+      "spawns": {
+       "12": [
+        [
+         73.97,
+         72.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 241,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 47,
+   "name": "Gold Dust Exchange",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 10 Gold Dust to Remy \"Two Times\" in Goldshire. Gold Dust is gathered from Kobolds in Elwynn Forest."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 4,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 241,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 278,
+      "name": "Sara Timberlain",
+      "spawns": {
+       "12": [
+        [
+         79.46,
+         68.79
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 59,
+   "name": "Cloth and Leather Armor",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Give Sara Timberlain the Stormwind Armor Marker."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    39
+   ],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 7,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 240,
+      "name": "Marshal Dughan",
+      "spawns": {
+       "12": [
+        [
+         42.11,
+         65.93
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 60,
+   "name": "Kobold Candles",
+   "nextQuestInChain": 61,
+   "objectivesText": [
+    "Bring 8 Large Candles to William Pestle in Goldshire."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 3,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 279,
+      "name": "Morgan Pestle",
+      "spawns": {
+       "1519": [
+        [
+         63.16,
+         74.41
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 61,
+   "name": "Shipment to Stormwind",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring William's Shipment to Morgan Pestle in the Stormwind Trade District."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    60
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 3,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 278,
+      "name": "Sara Timberlain",
+      "spawns": {
+       "12": [
+        [
+         79.46,
+         68.79
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 83,
+   "name": "Red Linen Goods",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 6 Red Linen Bandanas to Sara Timberlain at the Eastvale Logging Camp."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 9,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 4,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 278,
+      "name": "Sara Timberlain",
+      "spawns": {
+       "12": [
+        [
+         79.46,
+         68.79
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 247,
+      "name": "Billy Maclure",
+      "spawns": {
+       "12": [
+        [
+         43.13,
+         85.72
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 84,
+   "name": "Back to Billy",
+   "nextQuestInChain": 87,
+   "objectivesText": [
+    "Bring the Pork Belly Pie to Billy Maclure at the Maclure Vineyards."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    86
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 246,
+      "name": "\"Auntie\" Bernice Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.49,
+         84.25
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 247,
+      "name": "Billy Maclure",
+      "spawns": {
+       "12": [
+        [
+         43.13,
+         85.72
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 85,
+   "name": "Lost Necklace",
+   "nextQuestInChain": 86,
+   "objectivesText": [
+    "Speak with Billy Maclure."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 246,
+      "name": "\"Auntie\" Bernice Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.49,
+         84.25
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 246,
+      "name": "\"Auntie\" Bernice Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.49,
+         84.25
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 86,
+   "name": "Pie for Billy",
+   "nextQuestInChain": 84,
+   "objectivesText": [
+    "Bring 4 Chunks of Boar Meat to Auntie Bernice Stonefield at the Stonefield's Farm."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    85
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 247,
+      "name": "Billy Maclure",
+      "spawns": {
+       "12": [
+        [
+         43.13,
+         85.72
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 246,
+      "name": "\"Auntie\" Bernice Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.49,
+         84.25
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 87,
+   "name": "Goldtooth",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring Bernice's Necklace to \"Auntie\" Bernice Stonefield at the Stonefield Farm."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    84
+   ],
+   "questLevel": 8,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 247,
+      "name": "Billy Maclure",
+      "spawns": {
+       "12": [
+        [
+         43.13,
+         85.72
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 244,
+      "name": "Ma Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.66,
+         84.48
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 88,
+   "name": "Princess Must Die!",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Kill Princess, grab her collar, then bring it back to Ma Stonefield at the Stonefield Farm."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 9,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 6,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 244,
+      "name": "Ma Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.66,
+         84.48
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 252,
+      "name": "Tommy Joe Stonefield",
+      "spawns": {
+       "12": [
+        [
+         29.84,
+         86.0
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 106,
+   "name": "Young Lovers",
+   "nextQuestInChain": 111,
+   "objectivesText": [
+    "Give Maybell's Love Letter to Tommy Joe Stonefield."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 251,
+      "name": "Maybell Maclure",
+      "spawns": {
+       "12": [
+        [
+         43.15,
+         89.62
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 107,
+   "name": "Note to William",
+   "nextQuestInChain": 112,
+   "objectivesText": [
+    "Take Gramma Stonefield's Note to William Pestle."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    111
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 248,
+      "name": "Gramma Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.94,
+         83.86
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 248,
+      "name": "Gramma Stonefield",
+      "spawns": {
+       "12": [
+        [
+         34.94,
+         83.86
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 111,
+   "name": "Speak with Gramma",
+   "nextQuestInChain": 107,
+   "objectivesText": [
+    "Speak with Gramma Stonefield."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    106
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 252,
+      "name": "Tommy Joe Stonefield",
+      "spawns": {
+       "12": [
+        [
+         29.84,
+         86.0
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 112,
+   "name": "Collecting Kelp",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 4 Crystal Kelp Fronds to William Pestle in Goldshire."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    107
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 251,
+      "name": "Maybell Maclure",
+      "spawns": {
+       "12": [
+        [
+         43.15,
+         89.62
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 114,
+   "name": "The Escape",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Take the Invisibility Liquor to Maybell Maclure."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    112
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 253,
+      "name": "William Pestle",
+      "spawns": {
+       "12": [
+        [
+         43.32,
+         65.7
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
   {
    "breadcrumbForQuestId": null,
    "breadcrumbs": [],
@@ -7469,6 +11011,75 @@
    "unmappedClassBits": [],
    "unmappedRaceBits": [],
    "zoneOrSort": 15
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": 295,
+      "name": "Innkeeper Farley",
+      "spawns": {
+       "12": [
+        [
+         43.77,
+         65.8
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 2158,
+   "name": "Rest and Relaxation",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Innkeeper Farley at the Lion's Pride Inn."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 5,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 1,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 6774,
+      "name": "Falkhaan Isenstrider",
+      "spawns": {
+       "12": [
+        [
+         45.56,
+         47.74
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
   },
   {
    "breadcrumbForQuestId": null,
@@ -10776,6 +14387,75 @@
    "finishedBy": {
     "creatures": [
      {
+      "id": 10616,
+      "name": "Supervisor Raelen",
+      "spawns": {
+       "12": [
+        [
+         81.38,
+         66.11
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "id": 5545,
+   "name": "A Bundle of Trouble",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Bring 8 Bundles of Wood to Raelen at the Eastvale Logging Camp."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 9,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": 0,
+   "requiredLevel": 5,
+   "requiredRaces": 4294967373,
+   "source": "questie",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": 10616,
+      "name": "Supervisor Raelen",
+      "spawns": {
+       "12": [
+        [
+         81.38,
+         66.11
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": []
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
       "id": 10618,
       "name": "Rivern Frostwind",
       "spawns": {
@@ -12022,6 +15702,1425 @@
     "creatures": [
      {
       "id": null,
+      "name": "Hamish Bergwort",
+      "spawns": {
+       "12": [
+        [
+         65.1,
+         69.84
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Hamish Bergwort",
+     "x": 65.1,
+     "y": 69.84,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91723,
+   "name": "Delicate Instruments",
+   "nextQuestInChain": 91724,
+   "objectivesText": [
+    "Kill 8 Kobold Geomancers in Jasperlode Mine, then return to Hamish Bergwort in the Tower of Azora."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 8,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 7,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Hamish Bergwort",
+      "spawns": {
+       "12": [
+        [
+         65.1,
+         69.84
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Hamish Bergwort",
+     "x": 65.1,
+     "y": 69.84,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Hamish Bergwort",
+      "spawns": {
+       "12": [
+        [
+         65.1,
+         69.84
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Hamish Bergwort",
+     "x": 65.1,
+     "y": 69.84,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91724,
+   "name": "Delicate Instruments",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Kill 8 Defias Rogue Wizards at Stone Cairn Lake, then return to Hamish Bergwort in the Tower of Azora."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91723
+   ],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 7,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Hamish Bergwort",
+      "spawns": {
+       "12": [
+        [
+         65.1,
+         69.84
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Hamish Bergwort",
+     "x": 65.1,
+     "y": 69.84,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Blixie Fitzwink",
+      "spawns": {
+       "12": [
+        [
+         63.2,
+         72.6
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Blixie Fitzwink",
+     "x": 63.2,
+     "y": 72.6,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91725,
+   "name": "Stolen Enchanting Supplies",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Collect 5 Stolen Enchanting Supplies from gnoll camps around Stone Cairn Lake, then return to Blixie Fitzwink near the Tower of Azora."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 7,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Blixie Fitzwink",
+      "spawns": {
+       "12": [
+        [
+         63.2,
+         72.6
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Blixie Fitzwink",
+     "x": 63.2,
+     "y": 72.6,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Hagar Lowe",
+      "spawns": {
+       "12": [
+        [
+         82.47,
+         63.83
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Hagar Lowe",
+     "x": 82.47,
+     "y": 63.83,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91732,
+   "name": "Good Steel",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Collect 4 Mining Tools from Jasperlode Mine, then return to Hagar Lowe in Eastvale Logging Camp."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 6,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Hagar Lowe",
+      "spawns": {
+       "12": [
+        [
+         82.47,
+         63.83
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Hagar Lowe",
+     "x": 82.47,
+     "y": 63.83,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Ormin Pelford",
+      "spawns": {
+       "12": [
+        [
+         76.54,
+         71.92
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Ormin Pelford",
+     "x": 76.54,
+     "y": 71.92,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91733,
+   "name": "Downstream",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Collect the Waterlogged Axe, Waterlogged Saw, and Waterlogged Toolbox that have washed downstream from Eastvale Logging Camp, then return to Ormin Pelford."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 7,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Ormin Pelford",
+      "spawns": {
+       "12": [
+        [
+         76.54,
+         71.92
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Ormin Pelford",
+     "x": 76.54,
+     "y": 71.92,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "object",
+     "located": true,
+     "name": "Applejack Still",
+     "x": 24.55,
+     "y": 58.04,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91736,
+   "name": "Applejack Still",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "This quest has no objective text of its own – it is accepted and handed in."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 1,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "object",
+     "located": true,
+     "name": "Applejack Still",
+     "x": 24.55,
+     "y": 58.04,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sergeant De Vries",
+      "spawns": {
+       "12": [
+        [
+         24.08,
+         73.2
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sergeant De Vries",
+     "x": 24.08,
+     "y": 73.2,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91738,
+   "name": "An Apple Treat",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "This quest has no objective text of its own – it is accepted and handed in."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 10,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 7,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sergeant De Vries",
+      "spawns": {
+       "12": [
+        [
+         24.08,
+         73.2
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sergeant De Vries",
+     "x": 24.08,
+     "y": 73.2,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Brother Paxton",
+      "spawns": {
+       "12": [
+        [
+         49.61,
+         40.41
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Brother Paxton",
+     "x": 49.61,
+     "y": 40.41,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91741,
+   "name": "Nibbled-On Book",
+   "nextQuestInChain": 92124,
+   "objectivesText": [
+    "Return the book to Brother Paxton."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 2,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "item",
+     "located": false,
+     "name": "Nibbled-On Book",
+     "x": null,
+     "y": null,
+     "zone": null
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": null
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Brother Paxton",
+      "spawns": {
+       "12": [
+        [
+         49.61,
+         40.41
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Brother Paxton",
+     "x": 49.61,
+     "y": 40.41,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91743,
+   "name": "Rascally Rodents",
+   "nextQuestInChain": 91745,
+   "objectivesText": [
+    "Retrieve 8 Stolen Books from kobolds in Northshire Valley and return them to Brother Paxton."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    92124
+   ],
+   "questLevel": 2,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Brother Paxton",
+      "spawns": {
+       "12": [
+        [
+         49.61,
+         40.41
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Brother Paxton",
+     "x": 49.61,
+     "y": 40.41,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Kelsey Fargo",
+      "spawns": {
+       "12": [
+        [
+         47.18,
+         32.16
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Kelsey Fargo",
+     "x": 47.18,
+     "y": 32.16,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91745,
+   "name": "Mining Consultant",
+   "nextQuestInChain": 91752,
+   "objectivesText": [
+    "Talk to Kelsey Fargo outside the Echo Ridge Mine in Northshire Valley."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91743
+   ],
+   "questLevel": 3,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Brother Paxton",
+      "spawns": {
+       "12": [
+        [
+         49.61,
+         40.41
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Brother Paxton",
+     "x": 49.61,
+     "y": 40.41,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Helene Peltskinner",
+      "spawns": {
+       "12": [
+        [
+         46.24,
+         62.24
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Helene Peltskinner",
+     "x": 46.24,
+     "y": 62.24,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91751,
+   "name": "Rough Wolf Pelts",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Skin wolves around Elwynn Forest to obtain 7 Rough Wolf Pelts, then deliver them to Helene Peltskinner near Goldshire."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 8,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 5,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Helene Peltskinner",
+      "spawns": {
+       "12": [
+        [
+         46.24,
+         62.24
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Helene Peltskinner",
+     "x": 46.24,
+     "y": 62.24,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Marshal McBride",
+      "spawns": {
+       "12": [
+        [
+         48.92,
+         41.61
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Marshal McBride",
+     "x": 48.92,
+     "y": 41.61,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91752,
+   "name": "The Big Picture",
+   "nextQuestInChain": 91758,
+   "objectivesText": [
+    "Retrieve a Sack of \"Picture\" Books from Shinyfinder Narf. Bring the sack to Marshal McBride just inside Northshire's Abbey."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91745
+   ],
+   "questLevel": 3,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Kelsey Fargo",
+      "spawns": {
+       "12": [
+        [
+         47.18,
+         32.16
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Kelsey Fargo",
+     "x": 47.18,
+     "y": 32.16,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Kitta Firewind",
+      "spawns": {
+       "12": [
+        [
+         64.93,
+         70.71
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Kitta Firewind",
+     "x": 64.93,
+     "y": 70.71,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91753,
+   "name": "An Enchanting Lesson",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Kitta Firewind in the Tower of Azora wants you to collect 3 Luminous Residue."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 5,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Kitta Firewind",
+      "spawns": {
+       "12": [
+        [
+         64.93,
+         70.71
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Kitta Firewind",
+     "x": 64.93,
+     "y": 70.71,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Tordrin Sternblade",
+      "spawns": {
+       "12": [
+        [
+         51.21,
+         40.8
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Tordrin Sternblade",
+     "x": 51.21,
+     "y": 40.8,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91758,
+   "name": "Follow That Kobold!",
+   "nextQuestInChain": 91772,
+   "objectivesText": [
+    "Speak to Tordrin Sternblade near the stable behind Northshire's Abbey."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91752
+   ],
+   "questLevel": 4,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Marshal McBride",
+      "spawns": {
+       "12": [
+        [
+         48.92,
+         41.61
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Marshal McBride",
+     "x": 48.92,
+     "y": 41.61,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Marshal Dughan",
+      "spawns": {
+       "12": [
+        [
+         42.11,
+         65.93
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Marshal Dughan",
+     "x": 42.11,
+     "y": 65.93,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91772,
+   "name": "Shhh! We're Hunting Kobolds",
+   "nextQuestInChain": 91775,
+   "objectivesText": [
+    "Follow the kobold tracks and report to Marshal Dughan in Goldshire with your findings and the Kobold Tracking Kit."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91758
+   ],
+   "questLevel": 4,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Tordrin Sternblade",
+      "spawns": {
+       "12": [
+        [
+         51.21,
+         40.8
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Tordrin Sternblade",
+     "x": 51.21,
+     "y": 40.8,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Marshal Dughan",
+      "spawns": {
+       "12": [
+        [
+         42.11,
+         65.93
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Marshal Dughan",
+     "x": 42.11,
+     "y": 65.93,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91775,
+   "name": "Book Return",
+   "nextQuestInChain": 91777,
+   "objectivesText": [
+    "Find 6 Lost Books and \"Fun with Elementals\" and return them to Marshal Dughan."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91772
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Marshal Dughan",
+      "spawns": {
+       "12": [
+        [
+         42.11,
+         65.93
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Marshal Dughan",
+     "x": 42.11,
+     "y": 65.93,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Brother Paxton",
+      "spawns": {
+       "12": [
+        [
+         49.61,
+         40.41
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Brother Paxton",
+     "x": 49.61,
+     "y": 40.41,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 91777,
+   "name": "Rare Books",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Recover \"Geomancy for Curious Young Wizards\" and \"Arcane Explainer: Magical Stuff in Simple Words\" and return them to Brother Paxton inside Northshire's Abbey."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91775
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Marshal Dughan",
+      "spawns": {
+       "12": [
+        [
+         42.11,
+         65.93
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Marshal Dughan",
+     "x": 42.11,
+     "y": 65.93,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
       "name": "Kaylaena Springwhisper",
       "spawns": {},
       "zoneID": null
@@ -12086,6 +17185,93 @@
    "unmappedClassBits": [],
    "unmappedRaceBits": [],
    "zoneOrSort": 618
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Daniel",
+      "spawns": {
+       "12": [
+        [
+         49.48,
+         40.67
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Daniel",
+     "x": 49.48,
+     "y": 40.67,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 92124,
+   "name": "Book Inventory",
+   "nextQuestInChain": 91743,
+   "objectivesText": [
+    "Speak to Daniel, Brother Paxton's assistant in the library."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    91741
+   ],
+   "questLevel": 2,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 1,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Brother Paxton",
+      "spawns": {
+       "12": [
+        [
+         49.61,
+         40.41
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Brother Paxton",
+     "x": 49.61,
+     "y": 40.41,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
   },
   {
    "breadcrumbForQuestId": null,
@@ -12385,7 +17571,7 @@
       "spawns": {
        "15": [
         [
-         66.25,
+         66.24,
          45.13
         ]
        ]
@@ -12399,7 +17585,7 @@
      "kind": "npc",
      "located": true,
      "name": "Sully McCleary",
-     "x": 66.25,
+     "x": 66.24,
      "y": 45.13,
      "zone": "Dustwallow Marsh"
     }
@@ -12909,6 +18095,91 @@
     "creatures": [
      {
       "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 95998,
+   "name": "The Great Outdoors",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Sit near Sam's Basic Campfire and wait until you receive the Boosted Rest buff."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
       "name": "Sergeant Ulka",
       "spawns": {
        "15": [
@@ -13170,6 +18441,261 @@
     "creatures": [
      {
       "id": null,
+      "name": "Tomas",
+      "spawns": {
+       "12": [
+        [
+         44.37,
+         65.99
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Tomas",
+     "x": 44.37,
+     "y": 65.99,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 96626,
+   "name": "Camping 101: Cooking",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Tomas in Goldshire to learn to become a cook."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Katie Hunter",
+      "spawns": {
+       "12": [
+        [
+         84.15,
+         65.49
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Katie Hunter",
+     "x": 84.15,
+     "y": 65.49,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 97045,
+   "name": "Your First Horse",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Inspect the riding horses to choose your first mount."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 40,
+   "races": [
+    "Human"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 40,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Katie Hunter",
+      "spawns": {
+       "12": [
+        [
+         84.15,
+         65.49
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Katie Hunter",
+     "x": 84.15,
+     "y": 65.49,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Katie Hunter",
+      "spawns": {
+       "12": [
+        [
+         84.15,
+         65.49
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Katie Hunter",
+     "x": 84.15,
+     "y": 65.49,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 97170,
+   "name": "Learning to Ride",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Learn the Apprentice Riding skill from Randal Hunter."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 40,
+   "races": [
+    "Human"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 40,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Randal Hunter",
+      "spawns": {
+       "12": [
+        [
+         84.32,
+         64.87
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Randal Hunter",
+     "x": 84.32,
+     "y": 64.87,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
       "name": "Umaron Stragarelm",
       "spawns": {
        "618": [
@@ -13239,6 +18765,471 @@
    "unmappedClassBits": [],
    "unmappedRaceBits": [],
    "zoneOrSort": 618
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Alchemist Mallory",
+      "spawns": {
+       "12": [
+        [
+         39.84,
+         48.23
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Alchemist Mallory",
+     "x": 39.84,
+     "y": 48.23,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 97915,
+   "name": "Camping 101: Alchemy",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Alchemist Mallory in Elwynn Forest near Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Smith Argus",
+      "spawns": {
+       "12": [
+        [
+         41.71,
+         65.54
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Smith Argus",
+     "x": 41.71,
+     "y": 65.54,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 97916,
+   "name": "Camping 101: Blacksmithing",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Smith Argus in Goldshire to learn to craft a camping item for your profession once you have shown proficiency in your skill."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Betty Quin",
+      "spawns": {
+       "1519": [
+        [
+         53.0,
+         73.7
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Betty Quin",
+     "x": 53.0,
+     "y": 73.7,
+     "zone": "Stormwind City"
+    }
+   },
+   "id": 97917,
+   "name": "Camping 101: Enchanting",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Betty Quin in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sprite Jumpsprocket",
+      "spawns": {
+       "1519": [
+        [
+         61.9,
+         30.6
+        ]
+       ]
+      },
+      "zoneID": 1519
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sprite Jumpsprocket",
+     "x": 61.9,
+     "y": 30.6,
+     "zone": "Stormwind City"
+    }
+   },
+   "id": 97918,
+   "name": "Camping 101: Engineering",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Sprite Jumpsprocket in Stormwind to learn to craft a camping item for your profession once you have shown proficiency in your skill."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Michelle Belle",
+      "spawns": {
+       "12": [
+        [
+         43.39,
+         65.55
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Michelle Belle",
+     "x": 43.39,
+     "y": 65.55,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 97919,
+   "name": "Camping 101: First Aid",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Speak with Michelle Belle in Goldshire to learn to craft a camping item for your profession once you have shown proficiency in your skill."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    95998,
+    96101,
+    96604,
+    96605,
+    96606,
+    96607,
+    96608
+   ],
+   "questLevel": 6,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Sam Sarsaparilla",
+      "spawns": {
+       "12": [
+        [
+         44.9,
+         63.36
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Sam Sarsaparilla",
+     "x": 44.9,
+     "y": 63.36,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
   },
   {
    "breadcrumbForQuestId": null,
@@ -13727,6 +19718,524 @@
    "unmappedClassBits": [],
    "unmappedRaceBits": [],
    "zoneOrSort": 618
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Jason Mathers",
+      "spawns": {
+       "12": [
+        [
+         47.46,
+         62.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Jason Mathers",
+     "x": 47.46,
+     "y": 62.18,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 99127,
+   "name": "A Net Disaster",
+   "nextQuestInChain": 99128,
+   "objectivesText": [
+    "Check the fishing traps in Crystal Lake."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Jason Mathers",
+      "spawns": {
+       "12": [
+        [
+         47.46,
+         62.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Jason Mathers",
+     "x": 47.46,
+     "y": 62.18,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Jason Mathers",
+      "spawns": {
+       "12": [
+        [
+         47.46,
+         62.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Jason Mathers",
+     "x": 47.46,
+     "y": 62.18,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 99128,
+   "name": "Slimy Menace",
+   "nextQuestInChain": 99129,
+   "objectivesText": [
+    "Kill 7 Murlocs and 4 Murloc Streamrunner at Crystal Lake, then return to Jason Mathers."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    99127
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Jason Mathers",
+      "spawns": {
+       "12": [
+        [
+         47.46,
+         62.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Jason Mathers",
+     "x": 47.46,
+     "y": 62.18,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Remy \"Two Times\"",
+     "x": 42.14,
+     "y": 67.26,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 99129,
+   "name": "A Man About a Murloc",
+   "nextQuestInChain": 99130,
+   "objectivesText": [
+    "Speak with Remy \"Two Times\" about Jason's murloc problems."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    99128
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Jason Mathers",
+      "spawns": {
+       "12": [
+        [
+         47.46,
+         62.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Jason Mathers",
+     "x": 47.46,
+     "y": 62.18,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Remy \"Two Times\"",
+     "x": 42.14,
+     "y": 67.26,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 99130,
+   "name": "An Enticing Offer",
+   "nextQuestInChain": 99131,
+   "objectivesText": [
+    "Collect 6 Vials of Animal Blood and 18 Duskweed Petals for murloc bait, then return to Remy \"Two Times\" in Goldshire."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    99129
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Remy \"Two Times\"",
+     "x": 42.14,
+     "y": 67.26,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Jason Mathers",
+      "spawns": {
+       "12": [
+        [
+         47.46,
+         62.18
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Jason Mathers",
+     "x": 47.46,
+     "y": 62.18,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 99131,
+   "name": "Baited for Success",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Return to Jason Mathers."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [
+    99130
+   ],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Remy \"Two Times\"",
+      "spawns": {
+       "12": [
+        [
+         42.14,
+         67.26
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Remy \"Two Times\"",
+     "x": 42.14,
+     "y": 67.26,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
+  },
+  {
+   "breadcrumbForQuestId": null,
+   "breadcrumbs": [],
+   "classes": [],
+   "exclusiveTo": [],
+   "finishedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Lee Brown",
+      "spawns": {
+       "12": [
+        [
+         47.61,
+         62.32
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Lee Brown",
+     "x": 47.61,
+     "y": 62.32,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "id": 99143,
+   "name": "Bottles and Baubles",
+   "nextQuestInChain": null,
+   "objectivesText": [
+    "Collect 6 pieces of shiny junk from the nearby Murloc camp."
+   ],
+   "parentQuest": null,
+   "preQuestGroup": [],
+   "preQuestSingle": [],
+   "questLevel": 7,
+   "races": [
+    "Human",
+    "Dwarf",
+    "Night Elf",
+    "Gnome",
+    "Skyborne (Alliance)"
+   ],
+   "requiredClasses": null,
+   "requiredLevel": 4,
+   "requiredRaces": null,
+   "source": "pandabase",
+   "specialFlags": 0,
+   "startedBy": {
+    "creatures": [
+     {
+      "id": null,
+      "name": "Lee Brown",
+      "spawns": {
+       "12": [
+        [
+         47.61,
+         62.32
+        ]
+       ]
+      },
+      "zoneID": 12
+     }
+    ],
+    "items": [],
+    "objects": [],
+    "pandabase": {
+     "kind": "npc",
+     "located": true,
+     "name": "Lee Brown",
+     "x": 47.61,
+     "y": 62.32,
+     "zone": "Elwynn Forest"
+    }
+   },
+   "unmappedClassBits": [],
+   "unmappedRaceBits": [],
+   "zoneOrSort": 12
   }
  ],
  "source": {

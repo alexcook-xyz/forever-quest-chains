@@ -53,6 +53,9 @@ local function InitDB()
   SafeTableField(cdb, "journalAnnounced")     -- journal key -> chat-noticed
   cdb.journalInit = cdb.journalInit or nil      -- first-run seed done
   SafeTableField(cdb, "routeManual")          -- "questID:KIND" -> toggled off by hand
+  if type(cdb.sideFollow) ~= "string" then
+    cdb.sideFollow = nil  -- key of the followed side quest chain (Side Quests view)
+  end
   if type(cdb.forcedSaga) ~= "string" then
     cdb.forcedSaga = nil  -- race key of a saga viewed on purpose (alts/previews)
   end

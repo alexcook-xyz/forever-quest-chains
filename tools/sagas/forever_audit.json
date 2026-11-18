@@ -42,6 +42,49 @@
     97490,
     98462
    ]
+  },
+  "Elwynn Forest": {
+   "page": "eastern-kingdoms/elwynn-forest",
+   "foreverIds": [
+    79092,
+    91723,
+    91724,
+    91725,
+    91732,
+    91733,
+    91736,
+    91738,
+    91743,
+    91745,
+    91751,
+    91752,
+    91753,
+    91772,
+    91775,
+    91777,
+    92124,
+    92479,
+    94774,
+    94792,
+    94793,
+    94822,
+    94863,
+    94864,
+    96626,
+    97045,
+    97170,
+    97915,
+    97916,
+    97917,
+    97918,
+    97919,
+    99127,
+    99128,
+    99129,
+    99130,
+    99131,
+    99143
+   ]
   }
  },
  "excluded": [
@@ -64,6 +107,38 @@
   {
    "id": 81765,
    "reason": "Elrick, Paladin of the Silver Hand is a Paladin class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 79092,
+   "reason": "Archmage Theocritus' Research Journal starts with Owen Thadd in Undercity (PandaBase). It is not an Elwynn Forest quest by its giver; it belongs to a future Undercity catalogue."
+  },
+  {
+   "id": 92479,
+   "reason": "A Scribbled Letter is a Hunter class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 94774,
+   "reason": "Divine Grace is a Priest class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 94792,
+   "reason": "Taming the Beast is a Hunter class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 94793,
+   "reason": "Training the Beast is a Hunter class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 94822,
+   "reason": "Confounding Flash is a Priest class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 94863,
+   "reason": "Taming the Beast is a Hunter class quest in PandaBase. Class quests are not in the story guide (issue #41)."
+  },
+  {
+   "id": 94864,
+   "reason": "Taming the Beast is a Hunter class quest in PandaBase. Class quests are not in the story guide (issue #41)."
   }
  ]
 }

@@ -194,7 +194,8 @@ python tools/audit_forever.py check                                  # offline
 - A giver or hand-in without a recorded point has no x/y and is in the manual list. Nothing is guessed.
 - A side row never blocks a MAIN quest: the catalogue is a separate list, and a MAIN quest wins a tie.
 - Zones are added by editing the spec (and `extract_questie.ZONES` when a zone is new); the first
-  wave is Burning Steppes, Dustwallow Marsh and Winterspring.
+  wave is Burning Steppes, Dustwallow Marsh and Winterspring; issue #2 added Elwynn Forest
+  (`eastern-kingdoms/elwynn-forest`, an Alliance-only list). The Side Quests view reads the same lists.
 - `tools/audit_forever.py` checks `tools/sagas/forever_audit.json`: each Forever-only quest on the
   PandaBase map page of an audited zone, and each Forever-only quest in a facts snapshot, is in a
   MAIN chain, in a side list, or excluded with a reason. `fetch` rereads the map pages (network);

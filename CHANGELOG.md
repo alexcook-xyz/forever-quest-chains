@@ -6,6 +6,20 @@ All notable changes to this project are recorded here. The format follows
 
 ## [Unreleased]
 
+### Added
+
+- Side Quests view (`Side Quests` button, issue #2): each zone is a collapsible row
+  with its level range and a `done / total` count. Side quests sit in chains that
+  follow `requires`; a quest with no link is a single entry. Open a chain to see
+  its quests in order with a check mark for done, an arrow for the current quest
+  and a gold `Tracked` label. The right-click menu follows or unfollows the chain,
+  sets or removes a waypoint, tracks or untracks, shows the zone and marks a quest
+  done or undoes the mark. Quests of the other faction stay hidden.
+- Elwynn Forest side quests (`tools/sagas/side_zones.json`), from Questie and
+  PandaBase through the pipeline. Quest 91741 has no recorded giver point and is on
+  the manual in-game check list. Quest 46 follows Questie, which lacks the prerequisite
+  that PandaBase gives (accepted mismatch).
+
 - Public repository set up: GPL-3.0 licence, README, contributing guide, release
   workflow, `tools/package.py` (builds the CurseForge and GitHub release zip) and
   the CurseForge project text in `CURSEFORGE.md`. Waypoint UI is an optional,

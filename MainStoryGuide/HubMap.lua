@@ -4,6 +4,7 @@
 -- row has a check mark when done, an arrow when current, and a click makes
 -- that storyline the followed one (the waypoint follows). Right click a
 -- quest to mark it done or undo the mark, a storyline to skip or resume it.
+-- The Side Quests view lists the side quests of each zone in chains (issue #2).
 -- The data comes from HubChooser.lua / HubStory.lua; this file only paints.
 local _, ns = ...
 
@@ -28,7 +29,8 @@ local ICON_MINUS = "Interface\\Buttons\\UI-MinusButton-Up"
 local shell = {}
 local state = { built = false, failed = false, open = {}, openInit = false,
                 selectedId = nil, entries = {}, mode = "story",
-                openZone = {}, pinKey = nil, zoneFocus = nil }
+                openZone = {}, pinKey = nil, zoneFocus = nil,
+                openSideZone = {}, openSideChain = {}, sidePin = nil }
 local pool = {}
 
 ------------------------------------------------------------------
@@ -298,16 +300,37 @@ local function ZoneQuestTarget(q)
   return nil
 end
 
-local function ZoneQuestMenu(q)
+-- Follow a side chain (key) or release the follow (nil); the pin is set on the next paint.
+local function SetSideFollow(key)
+  if ns.cdb then ns.cdb.sideFollow = key end
+  state.sidePin = nil
+end
+
+-- side (optional): { chain = chain|nil } adds the Side Quests view items:
+-- follow or unfollow the chain, jump to the zone view, mark done or undo.
+local function ZoneQuestMenu(q, side)
   local items = {}
   local key = "z:" .. tostring(q.id)
+  local readOnly = ns.IsSagaReadOnly and ns.IsSagaReadOnly()
+  if side and side.chain and not readOnly then
+    if ns.cdb and ns.cdb.sideFollow == side.chain.key then
+      items[#items + 1] = { text = "Unfollow chain", func = function()
+        SetSideFollow(nil)
+        ns.ClearWaypoint(); state.pinKey = nil; ns.RefreshHub()
+      end }
+    else
+      items[#items + 1] = { text = "Follow this chain", func = function()
+        SetSideFollow(side.chain.key); ns.RefreshHub()
+      end }
+    end
+  end
   if state.pinKey == key then
     items[#items + 1] = { text = "Remove waypoint", func = function()
       ns.ClearWaypoint(); state.pinKey = nil; ns.RefreshHub()
     end }
   else
     local target = ZoneQuestTarget(q)
-    if target and not (ns.IsSagaReadOnly and ns.IsSagaReadOnly()) then
+    if target and not readOnly then
       local who = target.giver or "quest giver"
       items[#items + 1] = { text = "Set waypoint: " .. Esc(who), func = function()
         ns.SetWaypoint(target, { force = true,
@@ -320,6 +343,18 @@ local function ZoneQuestMenu(q)
     local on = IsTracked(q.id)
     items[#items + 1] = { text = on and "Untrack quest" or "Track quest", func = function()
       SetTracked(q.id, not on); ns.RefreshHub()
+    end }
+  end
+  if side then
+    if q.zone then
+      items[#items + 1] = { text = "Show zone quests: " .. Esc(q.zone), func = function()
+        state.mode, state.zoneFocus = "zones", q.zone
+        state.openZone[q.zone] = true
+        ns.RefreshHub()
+      end }
+    end
+    items[#items + 1] = { text = "Mark Done / Undo Mark", func = function()
+      ns.RouteToggleStep({ key = tostring(q.id) .. ":TURN IN" }); ns.RefreshHub()
     end }
   end
   if #items == 0 then
@@ -406,6 +441,164 @@ local function PaintZones(level)
   shell.content:SetHeight(math.max(y + 8, 1))
 end
 
+------------------------------------------------------------------
+-- Side Quests view: the side quests of each zone, grouped in chains
+------------------------------------------------------------------
+-- A side quest is done in the game or by hand (the same mark as a route quest).
+local function SideDone(id)
+  if ns.IsCompleted(id) then return true end
+  local manual = ns.cdb and ns.cdb.routeManual
+  return manual and manual[tostring(id) .. ":TURN IN"] and true or false
+end
+
+-- Zones with side quests for this faction, lowest level first.
+local function SideZones()
+  local names = {}
+  for name in pairs(ns.ZoneSideQuests or {}) do names[#names + 1] = name end
+  table.sort(names)
+  local out = {}
+  for _, name in ipairs(names) do
+    local list = ns.ZoneCatalog(name).side
+    if #list > 0 then
+      local done, total, lo, hi = ns.SideSummary(list, SideDone)
+      out[#out + 1] = { name = name, chains = ns.SideChains(list),
+        done = done, total = total, lo = lo, hi = hi }
+    end
+  end
+  table.sort(out, function(a, b)
+    local x, y = a.lo or 999, b.lo or 999
+    if x ~= y then return x < y end
+    return a.name < b.name
+  end)
+  return out
+end
+
+local function FindSideChain(zones, key)
+  for _, z in ipairs(zones) do
+    for _, c in ipairs(z.chains) do
+      if c.key == key then return c end
+    end
+  end
+  return nil
+end
+
+-- The followed chain keeps its waypoint on the current quest. A finished
+-- chain releases the follow, like a finished storyline.
+local function SyncSideFollow(zones)
+  local key = ns.cdb and ns.cdb.sideFollow
+  if type(key) ~= "string" then return end
+  local chain = FindSideChain(zones, key)
+  if not chain then return end
+  local cur = ns.SideChainCurrent(chain, SideDone)
+  if not cur then
+    SetSideFollow(nil)
+    return
+  end
+  if ns.IsSagaReadOnly and ns.IsSagaReadOnly() then return end
+  -- The target moves from the giver to the turn-in NPC once the quest is in the log.
+  local pin = tostring(cur.id) .. (ns.IsInLog(cur.id) and ":log" or ":new")
+  if state.sidePin == pin then return end
+  state.sidePin = pin
+  local target = ZoneQuestTarget(cur)
+  if target then
+    ns.SetWaypoint(target, { force = true, quiet = true,
+      title = Esc(cur.name) .. " (" .. Esc(target.giver or "quest giver") .. ")" })
+    state.pinKey = "z:" .. tostring(cur.id)
+  elseif state.pinKey then
+    -- No recorded location: do not leave the pin of an earlier quest.
+    ns.ClearWaypoint(); state.pinKey = nil
+  end
+end
+
+-- One explicit pin at a time: following a storyline releases the followed side chain.
+local function FollowStoryline(chainId)
+  SetSideFollow(nil)
+  ns.SetForcedChainSoft(chainId)
+end
+
+local function SideQuestRow(q, depth, chain, current)
+  local done = SideDone(q.id)
+  local tracked = IsTracked(q.id)
+  local row = { depth = depth, name = Esc(q.name),
+    level = q.reqlevel and tostring(q.reqlevel) or nil, levelTone = GREY,
+    selected = tracked,
+    onClick = function(_, button)
+      if chain and button ~= "RightButton" then
+        if ns.cdb and not (ns.IsSagaReadOnly and ns.IsSagaReadOnly()) then
+          SetSideFollow(chain.key); ns.RefreshHub()
+        end
+      else
+        ns.MapHubMenu(shell.frame, ZoneQuestMenu(q, { chain = chain }))
+      end
+    end }
+  if done then
+    row.icon, row.tone = ICON_DONE, GREEN
+  elseif (current and current.id == q.id) or (not chain and ns.IsInLog(q.id)) then
+    row.icon, row.tone = ICON_NOW, GOLD
+  else
+    row.tone = chain and GREY or WHITE
+  end
+  if tracked then row.meta, row.metaTone = "Tracked", GOLD end
+  return row
+end
+
+local function PaintSide(level, zones)
+  local followKey = ns.cdb and ns.cdb.sideFollow
+  local y, count = 2, 0
+  local function put(row)
+    count = count + 1
+    PaintRow(count, y, row)
+    y = y + ROW_H
+  end
+  for _, z in ipairs(zones) do
+    local isOpen = state.openSideZone[z.name] and true or false
+    local levelText, levelTone
+    if z.lo then
+      levelText = (z.lo == z.hi) and tostring(z.lo) or (z.lo .. "-" .. z.hi)
+      levelTone = level < z.lo and { 1, 0.35, 0.35 } or (level > z.hi and GREY or GREEN)
+    end
+    put({ depth = 0, name = Esc(z.name), tone = (z.done >= z.total) and GREEN or GOLD,
+      arrow = isOpen and "open" or "closed", level = levelText, levelTone = levelTone,
+      meta = string.format("%d / %d", z.done, z.total),
+      metaTone = (z.done >= z.total) and GREEN or WHITE,
+      onClick = function()
+        state.openSideZone[z.name] = not state.openSideZone[z.name]
+        ns.RefreshHub()
+      end })
+    if isOpen then
+      for _, chain in ipairs(z.chains) do
+        if #chain.quests == 1 then
+          put(SideQuestRow(chain.quests[1], 1, nil, nil))
+        else
+          local done = ns.SideSummary(chain.quests, SideDone)
+          local complete = done >= #chain.quests
+          local chainOpen = state.openSideChain[chain.key] and true or false
+          local current = ns.SideChainCurrent(chain, SideDone)
+          put({ depth = 1, name = Esc(chain.quests[1].name),
+            tone = complete and GREEN or GOLD,
+            arrow = chainOpen and "open" or "closed",
+            meta = string.format("%d / %d", done, #chain.quests),
+            metaTone = complete and GREEN or WHITE,
+            selected = followKey == chain.key,
+            onClick = function(_, button)
+              if button == "RightButton" and current then
+                ns.MapHubMenu(shell.frame, ZoneQuestMenu(current, { chain = chain }))
+              else
+                state.openSideChain[chain.key] = not state.openSideChain[chain.key]
+                ns.RefreshHub()
+              end
+            end })
+          if chainOpen then
+            for _, q in ipairs(chain.quests) do put(SideQuestRow(q, 2, chain, current)) end
+          end
+        end
+      end
+    end
+  end
+  for i = count + 1, #pool do pool[i]:Hide() end
+  shell.content:SetHeight(math.max(y + 8, 1))
+end
+
 local function Paint()
   local saga = ns.Sagas[ns.GetActiveSaga()] or { name = "Saga" }
   local done, total = ns.QuestCounts(ns.StoryRoute or {})
@@ -423,7 +616,17 @@ local function Paint()
   Color(shell.summary, done >= total and total > 0 and GREEN or GOLD)
   shell.saga:SetText(ns.SagaPickerButtonText(saga.name))
   local zonesMode = state.mode == "zones"
+  local sideMode = state.mode == "side"
   shell.mode:SetText(zonesMode and "Storylines" or "Zones")
+  shell.side:SetText(sideMode and "Storylines" or "Side Quests")
+  if sideMode or (ns.cdb and ns.cdb.sideFollow) then
+    local sideZones = SideZones()
+    SyncSideFollow(sideZones)
+    if sideMode then
+      SetShellTitle((saga.name or "Saga") .. " - Side Quests")
+      return PaintSide(level, sideZones)
+    end
+  end
   if zonesMode then
     SetShellTitle((saga.name or "Saga") .. " - Zones")
     return PaintZones(level)
@@ -486,7 +689,7 @@ local function Paint()
           if button == "RightButton" then
             ns.MapHubMenu(shell.frame, ns.MapHubQuestMenu(step, row.chainId))
           elseif not readOnly then
-            ns.SetForcedChainSoft(row.chainId)
+            FollowStoryline(row.chainId)
             ns.RefreshHub()
           end
         end
@@ -520,7 +723,7 @@ function ns.MapHubQuestMenu(step, chainId)
       end }
     else
       items[#items + 1] = { text = "Follow this storyline", func = function()
-        ns.SetForcedChainSoft(chainId); ns.RefreshHub()
+        FollowStoryline(chainId); ns.RefreshHub()
       end }
     end
     if state.pinKey == step.key then
@@ -637,11 +840,17 @@ local function Build()
   shell.saga:SetPoint("TOPRIGHT", frame, "TOPRIGHT", -12, -52)
   shell.saga:SetScript("OnClick", function(self) ns.MapHubSagaMenu(self) end)
 
-  -- Switch between the storyline list and the zone list.
-  shell.mode = NewButton(frame, 110, 20)
+  -- Switch between the storyline list, the zone list and the side quest list.
+  shell.mode = NewButton(frame, 86, 20)
   shell.mode:SetPoint("TOPLEFT", frame, "TOPLEFT", 12, -52)
   shell.mode:SetScript("OnClick", function()
     state.mode = state.mode == "zones" and "story" or "zones"
+    ns.RefreshHub()
+  end)
+  shell.side = NewButton(frame, 100, 20)
+  shell.side:SetPoint("LEFT", shell.mode, "RIGHT", 4, 0)
+  shell.side:SetScript("OnClick", function()
+    state.mode = state.mode == "side" and "story" or "side"
     ns.RefreshHub()
   end)
 

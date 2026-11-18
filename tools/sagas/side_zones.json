@@ -1,7 +1,7 @@
 {
  "sideZones": true,
  "file": "ZoneSideQuests",
- "comment": "Zone side catalogues (issue #21): Burning Steppes, Dustwallow Marsh and Winterspring. A list holds the quests of its zone that no MAIN chain holds and no class gates: Questie zone quests plus the quest givers on the PandaBase zone map page (Forever-only quests). A prerequisite comes before its quest. requires, faction and points come from the facts.",
+ "comment": "Zone side catalogues (issue #21): Burning Steppes, Dustwallow Marsh, Winterspring and Elwynn Forest (issue #2). A list holds the quests of its zone that no MAIN chain holds and no class gates: Questie zone quests plus the quest givers on the PandaBase zone map page (Forever-only quests). A prerequisite comes before its quest. requires, faction and points come from the facts.",
  "zones": [
   {
    "name": "Burning Steppes",
@@ -400,6 +400,170 @@
     },
     {
      "id": 5981
+    }
+   ]
+  },
+  {
+   "name": "Elwynn Forest",
+   "quests": [
+    {
+     "id": 16
+    },
+    {
+     "id": 40
+    },
+    {
+     "id": 46
+    },
+    {
+     "id": 47
+    },
+    {
+     "id": 59
+    },
+    {
+     "id": 60
+    },
+    {
+     "id": 61
+    },
+    {
+     "id": 83
+    },
+    {
+     "id": 85
+    },
+    {
+     "id": 86
+    },
+    {
+     "id": 84
+    },
+    {
+     "id": 87
+    },
+    {
+     "id": 88
+    },
+    {
+     "id": 106
+    },
+    {
+     "id": 111
+    },
+    {
+     "id": 107
+    },
+    {
+     "id": 112
+    },
+    {
+     "id": 114
+    },
+    {
+     "id": 2158
+    },
+    {
+     "id": 5545
+    },
+    {
+     "id": 91741
+    },
+    {
+     "id": 92124
+    },
+    {
+     "id": 91743
+    },
+    {
+     "id": 91745
+    },
+    {
+     "id": 91752
+    },
+    {
+     "id": 91758
+    },
+    {
+     "id": 91772
+    },
+    {
+     "id": 91775
+    },
+    {
+     "id": 91777
+    },
+    {
+     "id": 91723
+    },
+    {
+     "id": 91724
+    },
+    {
+     "id": 91725
+    },
+    {
+     "id": 91732
+    },
+    {
+     "id": 91733
+    },
+    {
+     "id": 91736
+    },
+    {
+     "id": 91738
+    },
+    {
+     "id": 91751
+    },
+    {
+     "id": 91753
+    },
+    {
+     "id": 95998
+    },
+    {
+     "id": 96626
+    },
+    {
+     "id": 97915
+    },
+    {
+     "id": 97916
+    },
+    {
+     "id": 97917
+    },
+    {
+     "id": 97918
+    },
+    {
+     "id": 97919
+    },
+    {
+     "id": 97045
+    },
+    {
+     "id": 97170
+    },
+    {
+     "id": 99127
+    },
+    {
+     "id": 99128
+    },
+    {
+     "id": 99129
+    },
+    {
+     "id": 99130
+    },
+    {
+     "id": 99131
+    },
+    {
+     "id": 99143
     }
    ]
   }
